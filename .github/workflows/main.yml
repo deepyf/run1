@@ -1,9 +1,9 @@
-name: Run script and commit output
+name: Run script and commit output (on push)
 
 on:
-  schedule:
-    - cron: '10 14 * * 1-5'
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -11,9 +11,7 @@ permissions:
 jobs:
   run-and-commit:
     runs-on: ubuntu-latest
-    concurrency:
-      group: run-and-commit-cron
-      cancel-in-progress: true
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -39,7 +37,7 @@ jobs:
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: 'chore: add ghOut1 auto-generated'
-          add: 'ghOut1'
+          message: "chore: add ghOut1 (auto-generated)"
+          add: "ghOut1"
           push: true
 
