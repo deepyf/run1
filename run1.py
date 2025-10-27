@@ -24,11 +24,11 @@ def get_session():
     s.headers.update({"User-Agent": random.choice(USER_AGENTS)})
     return s
 
-with open("ghIn1", newline="") as fin:
+with open("ghIn_1", newline="") as fin:
     reader = csv.DictReader(fin)
     symbols = [row["T"] for row in reader]
 
-with open("ghOut1", "w", newline="", encoding="utf-8") as fout:
+with open("ghOut_1", "w", newline="", encoding="utf-8") as fout:
     writer = csv.writer(fout)
     writer.writerow(["T","P","M","O","C","I","S"])
     for sym in symbols:
