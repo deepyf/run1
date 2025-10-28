@@ -1,6 +1,101 @@
 T,P,M,O,C,I,S
-SMSN.IL,1768.0,1476.26,4,480377995264,Consumer Electronics,Technology
-SAP.DE,234.0,288.91037,26,272517398528,Software - Application,Technology
-ROG.SW,264.5,298.50388,18,211978616832,Drug Manufacturers - General,Healthcare
-AZN.L,12488.0,14399.62,19,193596424192,Drug Manufacturers - General,Healthcare
-NOVN.SW,102.44,100.3576,18,198308806656,Drug Manufacturers - General,Healthcare
+QS,15.1001,7.4,7,9079843840,Auto Parts,Consumer Cyclical
+LUMN,10.025,5.24364,11,10287062016,Telecom Services,Communication Services
+LDI,3.375,2.5,3,1116875136,Mortgage Finance,Financial Services
+OSCR,19.75,12.375,8,5106524672,Healthcare Plans,Healthcare
+SSL.TO,16.15,11.11143,7,4734500864,Gold,Basic Materials
+LEU,365.8775,258.04532,15,6661839872,Uranium,Energy
+CVI,38.26,27.83333,6,3846300672,Oil & Gas Refining & Marketing,Energy
+QBTS,32.8695,26.3,10,11241971712,Computer Hardware,Technology
+OKLO,132.385,101.5725,16,19541243904,Utilities - Independent Power Producers,Utilities
+SHOP.TO,249.89,181.98085,4,324772233216,Software - Application,Technology
+JOBY,15.705,12.16667,6,13994042368,Airports & Air Services,Industrials
+BE,110.95,80.83,20,25962074112,Electrical Equipment & Parts,Industrials
+ELME,16.53,12.66667,3,1457304064,REIT - Residential,Real Estate
+FDY.TO,2.24,2.2375,4,561232192,Copper,Basic Materials
+VSCO,34.94,26.9,10,2800947200,Apparel Retail,Consumer Cyclical
+CIEN,183.0,142.0625,16,25865682944,Communication Equipment,Technology
+AII.TO,10.46,8.05667,6,2415508992,Other Industrial Metals & Mining,Basic Materials
+PATH,16.3999,13.71429,14,8708702208,Software - Infrastructure,Technology
+AI,18.105,14.66667,12,2495768576,Software - Infrastructure,Technology
+LMND,58.1,45.875,8,4292800768,Insurance - Property & Casualty,Financial Services
+URC.TO,6.79,5.46667,3,907402816,Uranium,Energy
+SWGAY,10.87,8.680131,3,11345475584,Luxury Goods,Consumer Cyclical
+HOUS,10.545,8.5,3,1181291264,Real Estate Services,Real Estate
+UAMY,9.34,7.5,3,1297124480,Other Industrial Metals & Mining,Basic Materials
+W,108.01,87.96552,29,14004677632,Internet Retail,Consumer Cyclical
+GRGD.TO,72.22,59.08333,12,7788490240,Apparel Retail,Consumer Cyclical
+BBAI,6.815,5.83333,3,2973872640,Information Technology Services,Technology
+SCCO,138.76,113.77558,15,112699342848,Copper,Basic Materials
+PBF,32.92,27.16667,12,3808798720,Oil & Gas Refining & Marketing,Energy
+M,19.5499,16.125,12,5249260544,Department Stores,Consumer Cyclical
+FIGS,8.09,6.74375,8,1320880256,Apparel Manufacturing,Consumer Cyclical
+CLS,325.46,264.66666,15,37519454208,Electronic Components,Technology
+CLB,16.425,14.0,3,764803584,Oil & Gas Equipment & Services,Energy
+TEO,10.99,9.2,5,4667518976,Telecom Services,Communication Services
+GOOS,14.02,11.8,5,1361936768,Apparel Manufacturing,Consumer Cyclical
+CIB,56.45,47.8686,10,13986563072,Banks - Regional,Financial Services
+ZIM,15.005,12.85714,7,1807464960,Marine Shipping,Industrials
+TSLA,461.46,392.276,40,1534732533760,Auto Manufacturers,Consumer Cyclical
+IBTA,34.855,29.85714,7,880484736,Software - Application,Technology
+CCO.TO,150.99,127.875,16,65739153408,Uranium,Energy
+BEPC,43.6601,37.8,5,7842193920,Utilities - Renewable,Utilities
+LASR,33.14,29.08333,6,1653668096,Semiconductors,Technology
+FN,438.34,364.125,8,15704107008,Electronic Components,Technology
+NBR,46.91,41.625,8,683744512,Oil & Gas Drilling,Energy
+ABBNY,75.06,65.4,5,136818933760,Electrical Equipment & Parts,Industrials
+CCJ,108.16,93.52102,7,47105224704,Uranium,Energy
+IMO.TO,127.52,111.35294,17,64913412096,Oil & Gas Integrated,Energy
+SXI,242.84,213.4,5,2936980480,Specialty Industrial Machinery,Industrials
+BW,3.195,2.83333,3,323006656,Specialty Industrial Machinery,Industrials
+LAW,6.88,6.08,5,424783936,Software - Application,Technology
+CCU,12.9,11.43167,6,2383293440,Beverages - Brewers,Consumer Defensive
+INTC,42.215,36.274,35,201196699648,Semiconductors,Technology
+ULS,80.95,71.77,10,16261460992,Specialty Business Services,Industrials
+CRI,31.72,28.8,5,1155628544,Apparel Retail,Consumer Cyclical
+INVX,20.65,18.33333,3,1420289408,Oil & Gas Equipment & Services,Energy
+AMRC,40.85,37.11111,9,2152944384,Engineering & Construction,Industrials
+SII.TO,114.84,102.25,4,2963060736,Asset Management,Financial Services
+GLXY.TO,52.76,46.35508,9,20796999680,Capital Markets,Financial Services
+DNUT,4.035,3.7,6,690792000,Grocery Stores,Consumer Defensive
+CLS.TO,453.625,399.60474,3,52181704704,Electronic Components,Technology
+NTOIY,10.8,9.6,3,16664593408,Oil & Gas Refining & Marketing,Energy
+CLF,14.095,12.67273,11,6972901888,Steel,Basic Materials
+AGX,292.95,262.0,3,4046100992,Engineering & Construction,Industrials
+ARE.TO,29.4,26.54545,11,1870290816,Engineering & Construction,Industrials
+CM,83.905,75.64329,3,77995368448,Banks - Diversified,Financial Services
+BMO,127.48,115.41142,3,91314790400,Banks - Diversified,Financial Services
+GRMN,245.2875,225.0,7,47216361472,Scientific & Technical Instruments,Technology
+BCH,34.31,30.80833,12,17329481728,Banks - Regional,Financial Services
+JELD,4.78,4.40714,7,408227264,Building Products & Equipment,Industrials
+COHR,135.42,120.63158,19,21252179968,Scientific & Technical Instruments,Technology
+AAMI,49.84,45.33333,3,1784865664,Asset Management,Financial Services
+CPS,37.93,34.33333,3,668835328,Auto Parts,Consumer Cyclical
+IBM,316.06,287.09332,18,295432421376,Information Technology Services,Technology
+GLW,86.54,78.33333,12,74131783680,Electronic Components,Technology
+HE,12.115,10.91667,3,2091192576,Utilities - Regulated Electric,Utilities
+PPRUY,38.1,34.98933,3,47193194496,Luxury Goods,Consumer Cyclical
+ETSY,75.16,68.19231,26,7449000448,Internet Retail,Consumer Cyclical
+PTM.TO,3.15,3.73667,3,353281792,Other Precious Metals & Mining,Basic Materials
+PII,66.845,61.09091,11,3758336256,Recreational Vehicles,Consumer Cyclical
+AMD,259.82,239.10533,45,421647253504,Semiconductors,Technology
+F,13.135,12.15,20,52336390144,Auto Manufacturers,Consumer Cyclical
+PRLB,53.68,50.0,3,1281596928,Metal Fabrication,Industrials
+KSS,16.515,15.06429,14,1850913280,Department Stores,Consumer Cyclical
+BSAC,28.32,25.80636,11,13341985792,Banks - Regional,Financial Services
+LEG,10.445,9.66667,3,1413740928,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+LB.TO,32.68,30.11111,9,1448094976,Banks - Regional,Financial Services
+DNA,12.73,12.0,3,753612800,Biotechnology,Healthcare
+HUT,52.51,49.26667,15,5541271552,Capital Markets,Financial Services
+FNMA,11.26,10.25,4,13040066560,Mortgage Finance,Financial Services
+LU,2.968,2.7984235,6,2572332544,Credit Services,Financial Services
+VMEO,7.805,7.23333,3,1306163584,Software - Application,Technology
+DK,37.39,34.64286,14,2249098496,Oil & Gas Refining & Marketing,Energy
+VAL,56.45,52.0,10,4020000000,Oil & Gas Equipment & Services,Energy
+UMC,7.645,7.04733,5,19198625792,Semiconductors,Technology
+GOLF,81.01,75.85714,7,4751806976,Leisure,Consumer Cyclical
+ATKR,68.69,63.8,5,2311813120,Electrical Equipment & Parts,Industrials
+CACC,495.67,462.5,4,5570171392,Credit Services,Financial Services
+TIMB,23.41,21.85125,8,11259839488,Telecom Services,Communication Services
+BHP,57.2,53.08333,6,146547113984,Other Industrial Metals & Mining,Basic Materials
+NET,226.065,210.6293,29,78779490304,Software - Infrastructure,Technology
