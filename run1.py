@@ -30,10 +30,10 @@ user_agents = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.12.120.0'
 ]
 
-if not os.path.exists('ghIn_1.csv'):
-    raise SystemExit('ghIn_1.csv not found')
+if not os.path.exists('ghIn_1'):
+    raise SystemExit('ghIn_1 not found')
 
-df = pd.read_csv('ghIn_1.csv', encoding='utf-8', dtype=str)
+df = pd.read_csv('ghIn_1', encoding='utf-8', dtype=str)
 if 'T' not in df.columns:
     raise SystemExit('Input must contain header T')
 
@@ -89,7 +89,7 @@ for t in tokens:
     r = results.get(t, {'P': '', 'M': '', 'O': '', 'C': '', 'I': '', 'S': ''})
     out_rows.append([t, r['P'], r['M'], r['O'], r['C'], r['I'], r['S']])
 
-with open('ghOut_1.csv', 'w', encoding='utf-8', newline='') as f:
+with open('ghOut_1', 'w', encoding='utf-8', newline='') as f:
     w = csv.writer(f)
     w.writerow(['T', 'P', 'M', 'O', 'C', 'I', 'S'])
     w.writerows(out_rows)
