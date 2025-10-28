@@ -1,2 +1,3 @@
 yfinance
-curl_cffi
+curl-cffi
+pandas
