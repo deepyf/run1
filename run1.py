@@ -1,76 +1,60 @@
-import yfinance as yf
 import csv
 import time
 import random
 from curl_cffi import requests
+import yfinance as yf
 
 USER_AGENTS = [
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15',
-    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36'
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15",
+    "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:115.0) Gecko/20100101 Firefox/115.0",
+    "Mozilla/5.0 (Linux; Android 14; Pixel 8 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Mobile Safari/537.36",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/115.0.1901.203",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 14; SM-S916B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5897.77 Mobile Safari/537.36",
+    "Mozilla/5.0 (iPad; CPU OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:115.0) Gecko/20100101 Firefox/115.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6_8) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15"
 ]
 
-def fetch_ticker_data(session, ticker, max_retries=3):
-    retry_delays = [(4, 4.5), (6, 6.5), (8, 8.5)]
-    for attempt in range(max_retries + 1):
-        try:
-            user_agent = random.choice(USER_AGENTS)
-            headers = {'User-Agent': user_agent}
-            tk = yf.Ticker(ticker, session=session)
-            info = tk.info
-            data = {
-                'currentPrice': info.get('currentPrice', ''),
-                'targetMeanPrice': info.get('targetMeanPrice', ''),
-                'numberOfAnalystOpinions': info.get('numberOfAnalystOpinions', ''),
-                'marketCap': info.get('marketCap', ''),
-                'industry': info.get('industry', ''),
-                'sector': info.get('sector', '')
-            }
-            return {k: '' if v is None else v for k, v in data.items()}
-        except Exception as e:
-            if attempt < max_retries:
-                min_delay, max_delay = retry_delays[attempt]
-                delay = random.uniform(min_delay, max_delay)
-                time.sleep(delay)
-            else:
-                return {field: '' for field in ['currentPrice', 'targetMeanPrice', 'numberOfAnalystOpinions', 'marketCap', 'industry', 'sector']}
-    return {field: '' for field in ['currentPrice', 'targetMeanPrice', 'numberOfAnalystOpinions', 'marketCap', 'industry', 'sector']}
+def get_session():
+    s = requests.Session()
+    s.headers.update({"User-Agent": random.choice(USER_AGENTS)})
+    return s
 
-def main():
-    with open('ghIn_1', mode='r', encoding='utf-8') as infile:
-        reader = csv.DictReader(infile)
-        symbols = [row['T'] for row in reader]
-    
-    session = requests.Session()
-    
-    with open('ghOut_1', mode='w', newline='', encoding='utf-8') as outfile:
-        fieldnames = ['T', 'P', 'M', 'O', 'C', 'I', 'S']
-        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
-        writer.writeheader()
-        
-        for symbol in symbols:
-            data = fetch_ticker_data(session, symbol)
-            row = {
-                'T': symbol,
-                'P': data['currentPrice'],
-                'M': data['targetMeanPrice'],
-                'O': data['numberOfAnalystOpinions'],
-                'C': data['marketCap'],
-                'I': data['industry'],
-                'S': data['sector']
-            }
-            writer.writerow(row)
-            
-            time.sleep(random.uniform(2, 2.5))
+with open("ghIn_1", newline="") as fin:
+    reader = csv.DictReader(fin)
+    symbols = [row["T"] for row in reader]
 
-if __name__ == "__main__":
-    main()
+with open("ghOut_1", "w", newline="", encoding="utf-8") as fout:
+    writer = csv.writer(fout)
+    writer.writerow(["T","P","M","O","C","I","S"])
+    for sym in symbols:
+        info = {}
+        for attempt in range(4):
+            try:
+                sess = get_session()
+                yf.utils.requests = sess
+                info = yf.Ticker(sym).info or {}
+                break
+            except Exception:
+                if attempt == 0:
+                    wait = random.uniform(4,4.5)
+                elif attempt == 1:
+                    wait = random.uniform(6,6.5)
+                elif attempt == 2:
+                    wait = random.uniform(8,8.5)
+                else:
+                    break
+                time.sleep(wait)
+        P = info.get("currentPrice","") or ""
+        M = info.get("targetMeanPrice","") or ""
+        O = info.get("numberOfAnalystOpinions","") or ""
+        C = info.get("marketCap","") or ""
+        I = info.get("industry","") or ""
+        S = info.get("sector","") or ""
+        writer.writerow([sym, P, M, O, C, I, S])
+        time.sleep(random.uniform(2,2.5))
+
