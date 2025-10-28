@@ -46,13 +46,13 @@ def fetch_ticker_data(session, ticker, max_retries=3):
     return {field: '' for field in ['currentPrice', 'targetMeanPrice', 'numberOfAnalystOpinions', 'marketCap', 'industry', 'sector']}
 
 def main():
-    with open('ghIn_1.csv', mode='r', encoding='utf-8') as infile:
+    with open('ghIn_1', mode='r', encoding='utf-8') as infile:
         reader = csv.DictReader(infile)
         symbols = [row['T'] for row in reader]
     
     session = requests.Session()
     
-    with open('ghOut_1.csv', mode='w', newline='', encoding='utf-8') as outfile:
+    with open('ghOut_1', mode='w', newline='', encoding='utf-8') as outfile:
         fieldnames = ['T', 'P', 'M', 'O', 'C', 'I', 'S']
         writer = csv.DictWriter(outfile, fieldnames=fieldnames)
         writer.writeheader()
