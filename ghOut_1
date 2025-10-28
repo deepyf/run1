@@ -8,7 +8,7 @@ LEU,363.7,258.04532,15,6622192128,Uranium,Energy
 CVI,38.4,27.83333,6,3860375296,Oil & Gas Refining & Marketing,Energy
 QBTS,32.0,26.3,10,10944586752,Computer Hardware,Technology
 OKLO,132.28,101.5725,16,19525744640,Utilities - Independent Power Producers,Utilities
-SHOP.TO,249.39,182.0631,4,324122411008,Software - Application,Technology
+SHOP.TO,249.39,182.03699,4,324122411008,Software - Application,Technology
 JOBY,15.61,12.16667,6,13909391360,Airports & Air Services,Industrials
 BE,113.28,80.83,20,26507288576,Electrical Equipment & Parts,Industrials
 ELME,16.53,12.66667,3,1457304064,REIT - Residential,Real Estate
@@ -20,7 +20,7 @@ PATH,16.16,13.71429,14,8581309440,Software - Infrastructure,Technology
 AI,18.1,14.66667,12,2495079424,Software - Infrastructure,Technology
 LMND,57.3,45.875,8,4233691648,Insurance - Property & Casualty,Financial Services
 URC.TO,6.79,5.46667,3,907402816,Uranium,Energy
-SWGAY,10.87,8.673894,3,11345475584,Luxury Goods,Consumer Cyclical
+SWGAY,10.87,8.673129,3,11345475584,Luxury Goods,Consumer Cyclical
 HOUS,10.43,8.5,3,1168408576,Real Estate Services,Real Estate
 UAMY,9.14,7.5,3,1269348736,Other Industrial Metals & Mining,Basic Materials
 W,106.52,87.96552,29,13811482624,Internet Retail,Consumer Cyclical
@@ -44,7 +44,7 @@ LASR,32.59,29.08333,6,1626223360,Semiconductors,Technology
 FN,437.56,364.125,8,15676163072,Electronic Components,Technology
 NBR,47.17,41.625,8,687534208,Oil & Gas Drilling,Energy
 ABBNY,74.99,65.4,5,136691335168,Electrical Equipment & Parts,Industrials
-CCJ,106.91,93.48279,7,46560833536,Uranium,Energy
+CCJ,106.91,93.49151,7,46560833536,Uranium,Energy
 IMO.TO,127.46,111.35294,17,64882868224,Oil & Gas Integrated,Energy
 SXI,242.63,213.4,5,2934440704,Specialty Industrial Machinery,Industrials
 BW,3.16,2.83333,3,319468256,Specialty Industrial Machinery,Industrials
@@ -56,15 +56,15 @@ CRI,31.52,28.8,5,1148342144,Apparel Retail,Consumer Cyclical
 INVX,20.68,18.33333,3,1422352896,Oil & Gas Equipment & Services,Energy
 AMRC,40.8,37.11111,9,2150309376,Engineering & Construction,Industrials
 SII.TO,113.44,102.25,4,2926938624,Asset Management,Financial Services
-GLXY.TO,52.02,46.373703,9,20505307136,Capital Markets,Financial Services
+GLXY.TO,52.02,46.372707,9,20505307136,Capital Markets,Financial Services
 DNUT,4.04,3.7,6,691648000,Grocery Stores,Consumer Defensive
-CLS.TO,454.11,399.77097,3,52237492224,Electronic Components,Technology
+CLS.TO,454.11,399.74518,3,52237492224,Electronic Components,Technology
 NTOIY,10.8,9.6,3,16664593408,Oil & Gas Refining & Marketing,Energy
 CLF,14.09,12.67273,11,6970427904,Steel,Basic Materials
 AGX,292.46,262.0,3,4039333120,Engineering & Construction,Industrials
 ARE.TO,29.21,26.54545,11,1858203904,Engineering & Construction,Industrials
-CM,83.83,75.60857,3,77925654528,Banks - Diversified,Financial Services
-BMO,127.42,115.368385,3,91271806976,Banks - Diversified,Financial Services
+CM,83.83,75.61128,3,77925654528,Banks - Diversified,Financial Services
+BMO,127.42,115.36094,3,91271806976,Banks - Diversified,Financial Services
 GRMN,248.09,225.0,7,47755825152,Scientific & Technical Instruments,Technology
 BCH,34.22,30.80833,12,17284022272,Banks - Regional,Financial Services
 JELD,4.77,4.40714,7,407373216,Building Products & Equipment,Industrials
@@ -99,12 +99,12 @@ CACC,494.17,462.5,4,5553315328,Credit Services,Financial Services
 TIMB,23.5,21.85125,8,11303128064,Telecom Services,Communication Services
 BHP,57.13,53.08333,6,146367774720,Other Industrial Metals & Mining,Basic Materials
 NET,223.99,210.6293,29,78056398848,Software - Infrastructure,Technology
-VSTA,4.93,4.5340457,3,395932064,Education & Training Services,Consumer Defensive
-BN.TO,66.18,63.277275,4,148494155776,Asset Management,Financial Services
+VSTA,4.93,4.5377707,3,395932064,Education & Training Services,Consumer Defensive
+BN.TO,66.18,63.29407,4,148494155776,Asset Management,Financial Services
 CCO,1.98,1.85,4,984085376,Advertising Agencies,Communication Services
 KMT,22.68,21.3125,8,1729101440,Tools & Accessories,Industrials
-TECK,43.2,40.008896,5,21096157184,Other Industrial Metals & Mining,Basic Materials
-BNS,65.93,61.463966,3,81951858688,Banks - Diversified,Financial Services
+TECK,43.2,40.004875,5,21096157184,Other Industrial Metals & Mining,Basic Materials
+BNS,65.93,61.430912,3,81951858688,Banks - Diversified,Financial Services
 BIO,330.42,310.0,5,8686572544,Medical Devices,Healthcare
 ERIC,9.76,8.87,5,32844646400,Communication Equipment,Technology
 HBI,6.93,6.47143,7,2451848704,Apparel Manufacturing,Consumer Cyclical
@@ -131,26 +131,26 @@ RXO,17.44,16.77778,18,2859937536,Trucking,Industrials
 BEP,31.44,30.03733,15,20695541760,Utilities - Renewable,Utilities
 EXK,8.06,7.58333,3,2338780160,Silver,Basic Materials
 WIT,2.68,2.54265,8,29185601536,Information Technology Services,Technology
-TRP,50.83,48.411537,3,52858552320,Oil & Gas Midstream,Energy
+TRP,50.83,48.408756,3,52858552320,Oil & Gas Midstream,Energy
 BGS,4.28,4.1,5,342416064,Packaged Foods,Consumer Defensive
 AEO,16.79,16.05556,9,2843199488,Apparel Retail,Consumer Cyclical
 BMA,82.58,82.493286,7,5187491840,Banks - Regional,Financial Services
-AQN.TO,8.02,7.714219,3,6159561216,Utilities - Diversified,Utilities
+AQN.TO,8.02,7.713002,3,6159561216,Utilities - Diversified,Utilities
 EXPD,119.4,115.1875,16,16204792832,Integrated Freight & Logistics,Industrials
 BDGI.TO,71.2,68.1875,8,2402305024,Engineering & Construction,Industrials
 SPR,39.74,38.21875,8,4666240512,Aerospace & Defense,Industrials
 INTR,9.19,8.7268,10,4043975936,Banks - Regional,Financial Services
 CIG,2.03,1.93667,3,6375825408,Utilities - Diversified,Utilities
-LAC.TO,8.09,7.8478847,4,1999601664,Other Industrial Metals & Mining,Basic Materials
+LAC.TO,8.09,7.8464775,4,1999601664,Other Industrial Metals & Mining,Basic Materials
 DANOY,18.16,17.425,4,58471862272,Packaged Foods,Consumer Defensive
 BNS.TO,91.86,87.85714,14,114132402176,Banks - Diversified,Financial Services
 SPHR,68.07,64.9,10,2450480128,Entertainment,Communication Services
-TD,82.72,78.99022,3,141243170816,Banks - Diversified,Financial Services
+TD,82.72,78.9449,3,141243170816,Banks - Diversified,Financial Services
 DCI,82.78,80.0,5,9588529152,Specialty Industrial Machinery,Industrials
 PLUG,2.79,2.77647,17,3249611520,Electrical Equipment & Parts,Industrials
 AXP,361.03,348.5779,24,248696111104,Credit Services,Financial Services
 HP,25.32,24.0,15,2517816576,Oil & Gas Drilling,Energy
-ENB,47.09,45.74625,4,102720233472,Oil & Gas Midstream,Energy
+ENB,47.09,45.738705,4,102720233472,Oil & Gas Midstream,Energy
 CX,10.29,9.672,15,14929069056,Building Materials,Basic Materials
 ELP,10.1,9.775,4,7315958784,Utilities - Regulated Electric,Utilities
 H.TO,52.02,50.21429,14,31200651264,Utilities - Regulated Electric,Utilities
