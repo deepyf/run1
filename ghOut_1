@@ -1,1321 +1,1325 @@
 T,P,M,O,C,I,S
-JIGI.L,1049.967,,,487673280,Asset Management,Financial Services
-MCM.MC,13.85,,,523301664,Paper & Paper Products,Basic Materials
-AIE.L,274.8385,,,478803264,Asset Management,Financial Services
-PCGH.L,393.234,,,476874880,Asset Management,Financial Services
-NAS.L,369.622,,,491774496,Asset Management,Financial Services
-OAP3.L,47.5,,,496660288,Asset Management,Financial Services
-CGI.L,2416.0,,,504747840,Asset Management,Financial Services
-ELLA.L,147.3,,,516548736,Insurance - Life,Financial Services
-HSL.L,843.0,,,529325824,Asset Management,Financial Services
-ATR.L,572.0,,,544478720,Asset Management,Financial Services
-GWI.L,2.06,,,598001472,Real Estate Services,Real Estate
-BRSC.L,1296.238,,,537857600,Asset Management,Financial Services
-AAS.L,372.0,,,547763968,Asset Management,Financial Services
-JEDT.L,574.0,,,557555072,Asset Management,Financial Services
-BRGE.L,583.0,,,572789696,Asset Management,Financial Services
-AEP.L,1380.0,,,574199104,Farm Products,Consumer Defensive
-JEGI.L,134.0,,,575911296,Asset Management,Financial Services
-WARN.SW,1945.0,,,601734400,Real Estate Services,Real Estate
-TKBP.SW,156.0,,,624000000,Banks - Regional,Financial Services
-CBAV.MC,41.0,,,677345920,Diagnostics & Research,Healthcare
-FEML.L,944.8167,,,613547584,Asset Management,Financial Services
-BUT.L,1392.0,,,608124544,Asset Management,Financial Services
-BUR.PA,405.0,,,711693952,Auto Parts,Consumer Cyclical
-PHI.L,763.3105,,,663462592,Asset Management,Financial Services
-EAT.MC,3.485,,,773792896,Restaurants,Consumer Cyclical
-GRP.L,0.671,,,771359936,,
-R4.MC,19.3,,,797523840,Asset Management,Financial Services
-EWI.L,203.7576,,,736105088,Asset Management,Financial Services
-BGFD.L,935.0,,,729516416,Asset Management,Financial Services
-GSCT.L,167.4,,,745054144,Asset Management,Financial Services
-EC.PA,183.0,,,830287104,Oil & Gas E&P,Energy
-EXM.BR,10.5,,,854113664,Oil & Gas Equipment & Services,Energy
-USA.L,270.8016,,,774631936,Asset Management,Financial Services
-ESCT.L,211.5,,,774098752,Asset Management,Financial Services
+JCH.L,841.0,,,460921600,Asset Management,Financial Services
+HFEL.L,243.975,,,465631968,Asset Management,Financial Services
+MCM.MC,14.15,,,534636672,Paper & Paper Products,Basic Materials
+PCGH.L,395.93,,,480144288,Asset Management,Financial Services
+AIE.L,275.9,,,478895104,Asset Management,Financial Services
+JIGI.L,1050.0,,,485823616,Asset Management,Financial Services
+NAS.L,367.875,,,482835936,Asset Management,Financial Services
+OAP3.L,46.0,,,480976288,Asset Management,Financial Services
+CGI.L,2451.02,,,511310720,Asset Management,Financial Services
+ELLA.L,147.5,,,517250080,Insurance - Life,Financial Services
+GWI.L,2.07,,,600904448,Real Estate Services,Real Estate
+HSL.L,846.0,,,530572608,Asset Management,Financial Services
+BRSC.L,1306.0,,,536099072,Asset Management,Financial Services
+ATR.L,570.741,,,539440896,Asset Management,Financial Services
+AAS.L,370.3057,,,539358400,Asset Management,Financial Services
+JEDT.L,577.0,,,557529600,Asset Management,Financial Services
+WARN.SW,1960.0,,,606374976,Real Estate Services,Real Estate
+BRGE.L,587.0,,,568778560,Asset Management,Financial Services
+AEP.L,1374.994,,,551082496,Farm Products,Consumer Defensive
+JEGI.L,134.995,,,569363200,Asset Management,Financial Services
+TKBP.SW,157.5,,,630000000,Banks - Regional,Financial Services
+CBAV.MC,40.2,,,669048896,Diagnostics & Research,Healthcare
+BUT.L,1422.0,,,617644992,Asset Management,Financial Services
+FEML.L,952.0,,,613603712,Asset Management,Financial Services
+BUR.PA,407.0,,,715208512,Auto Parts,Consumer Cyclical
+PHI.L,776.0,,,665663744,Asset Management,Financial Services
+GRP.L,0.68,,,782864256,,
+EAT.MC,3.39,,,743908928,Restaurants,Consumer Cyclical
+R4.MC,19.3,,,810050368,Asset Management,Financial Services
+BGFD.L,937.0,,,723215872,Asset Management,Financial Services
+EC.PA,183.0,,,828012416,Oil & Gas E&P,Energy
+EWI.L,204.239,,,718216832,Asset Management,Financial Services
+GSCT.L,168.67,,,742615104,Asset Management,Financial Services
 0ME.MU,,,,852200640,,
-SOI.L,338.5051,,,776251776,Asset Management,Financial Services
-BPCR.L,0.9,,,1023141056,Asset Management,Financial Services
-PLAN.SW,399.0,,,823865152,Real Estate - Diversified,Real Estate
-IEM.L,401.625,,,801163200,Asset Management,Financial Services
-CGT.L,4941.945,,,805787328,Asset Management,Financial Services
-SLYG.DE,50.0,,,907902976,Conglomerates,Industrials
+EXM.BR,10.52,,,855740608,Oil & Gas Equipment & Services,Energy
+ESCT.L,210.4,,,768226048,Asset Management,Financial Services
+USA.L,276.835,,,770254208,Asset Management,Financial Services
+SOI.L,340.0,,,772340096,Asset Management,Financial Services
+BPCR.L,0.908,,,1032235648,Asset Management,Financial Services
+PLAN.SW,400.0,,,825929984,Real Estate - Diversified,Real Estate
+SLYG.DE,52.4,,,951482368,Conglomerates,Industrials
+IEM.L,402.5,,,796879232,Asset Management,Financial Services
+CGT.L,4939.0,,,805307200,Asset Management,Financial Services
+CRSU.PA,218.0,,,945486272,Banks - Regional,Financial Services
 SPA.BR,228.0,,,954580608,Beverages - Non-Alcoholic,Consumer Defensive
-SAIN.L,500.585,,,851611392,Asset Management,Financial Services
-MRCH.L,568.156,,,852316224,Asset Management,Financial Services
-CRSU.PA,218.0,,,937103936,Banks - Regional,Financial Services
-IAD.L,425.122,,,892611456,Asset Management,Financial Services
-SDP.L,671.4,,,895167296,Asset Management,Financial Services
-5CV.DE,4.526,,,1020199232,Biotechnology,Healthcare
-RICA.L,300.0,,,905381312,Asset Management,Financial Services
-MUT.L,925.0,,,917404224,Asset Management,Financial Services
-TFIF.L,112.35,,,903580800,Asset Management,Financial Services
-MNTN.L,1.171,,,1223406976,Asset Management,Financial Services
-VIL.PA,17.25,,,1101152768,Capital Markets,Financial Services
-XUSIO.MC,0.91,,,1160130176,Steel,Basic Materials
+SAIN.L,502.02,,,843844800,Asset Management,Financial Services
+MRCH.L,577.21,,,852250560,Asset Management,Financial Services
+IAD.L,426.93,,,885786688,Asset Management,Financial Services
+SDP.L,676.0,,,897258624,Asset Management,Financial Services
+5CV.DE,4.502,,,1014789376,Biotechnology,Healthcare
+TFIF.L,111.9021,,,899978496,Asset Management,Financial Services
+RICA.L,295.05,,,888930624,Asset Management,Financial Services
+MUT.L,934.355,,,916642432,Asset Management,Financial Services
+MNTN.L,1.1625,,,1214526592,Asset Management,Financial Services
+VIL.PA,17.35,,,1097961088,Capital Markets,Financial Services
 UBXN.SW,135.0,,,1039740992,Communication Equipment,Technology
-ADV.DE,21.8,,,1134788096,Communication Equipment,Technology
+ADV.DE,21.4,,,1113966336,Communication Equipment,Technology
 BBGI.L,,,,,,
-TRY.L,324.5,,,1032987200,Asset Management,Financial Services
-FGT.L,821.0421,,,1098966400,Asset Management,Financial Services
-TMPL.L,368.2188,,,1067539200,Asset Management,Financial Services
-AGT.L,253.5,,,1075329536,Asset Management,Financial Services
-FLUX.BR,18.15,,,1268197632,Oil & Gas Midstream,Energy
-DRW8.DE,59.0,,,1251803520,Medical Devices,Healthcare
+XUSIO.MC,0.91,,,1160130176,Steel,Basic Materials
+TRY.L,326.85,,,1037261696,Asset Management,Financial Services
+TMPL.L,373.0044,,,1068207744,Asset Management,Financial Services
+AGT.L,253.5,,,1064703808,Asset Management,Financial Services
 YGMP.MC,65.0,,,1242872576,REIT - Diversified,Real Estate
-2HQ.DE,1.093,,,1319012224,Drug Manufacturers - Specialty & Generic,Healthcare
-PRN.L,448.677,,,1097925888,,
-ELEC.PA,172.0,,,1247390208,Utilities - Renewable,Utilities
-EDIN.L,816.0,,,1140950528,Asset Management,Financial Services
-ES.PA,107.2,,,1378010752,Oil & Gas Refining & Marketing,Energy
+ELEC.PA,172.5,,,1273093120,Utilities - Renewable,Utilities
+PRN.L,453.582,,,1109928576,,
+FGT.L,824.0,,,1094875008,Asset Management,Financial Services
+DRW8.DE,58.8,,,1247560064,Medical Devices,Healthcare
+FLUX.BR,18.2,,,1257716736,Oil & Gas Midstream,Energy
+EDIN.L,824.527,,,1143031424,Asset Management,Financial Services
+2HQ.DE,1.139,,,1374524160,Drug Manufacturers - Specialty & Generic,Healthcare
 SPT.L,198.8,,,1171325440,Software - Infrastructure,Technology
-HRI.L,2400.0,,,1219692160,Asset Management,Financial Services
 EVR.L,80.89,,,1179934336,Steel,Basic Materials
-JFJ.L,731.0,,,1202327936,Asset Management,Financial Services
 DAL.L,542.5,,,1197685248,Lodging,Consumer Cyclical
-VEIL.L,731.877,,,1231196928,Asset Management,Financial Services
-BRWM.L,652.315,,,1253913728,Asset Management,Financial Services
+JFJ.L,739.752,,,1198587520,Asset Management,Financial Services
+ES.PA,99.45,,,1278387712,Oil & Gas Refining & Marketing,Energy
+HRI.L,2431.7334,,,1212743808,Asset Management,Financial Services
 BIO3.DE,28.4,,,1396871040,,
-ASL.L,1500.0,,,1260582400,Asset Management,Financial Services
-GRKP.SW,1810.0,,,1340283264,Banks - Regional,Financial Services
-TFGS.L,1455.0,,,1294407296,,
-FSV.L,399.603,,,1297416576,Asset Management,Financial Services
+VEIL.L,742.7172,,,1249432832,Asset Management,Financial Services
+BRWM.L,672.2,,,1254883456,Asset Management,Financial Services
+ASL.L,1501.0,,,1249665152,Asset Management,Financial Services
+GRKP.SW,1800.0,,,1332878336,Banks - Regional,Financial Services
+TFGS.L,1449.0482,,,1289112448,,
 AH91.DE,3.7555,,,1473748352,,
-BNKR.L,131.244,,,1341950208,Asset Management,Financial Services
+FSV.L,406.0,,,1311578624,Asset Management,Financial Services
 PRO.MC,,,,,,
-JMG.L,136.833,,,1360927232,Asset Management,Financial Services
-BHMG.L,404.092,,,1382004608,Asset Management,Financial Services
-LWDB.L,1035.56,,,1394613504,Asset Management,Financial Services
+BNKR.L,132.36,,,1336806144,Asset Management,Financial Services
+JMG.L,136.4009,,,1342664192,Asset Management,Financial Services
+BHMG.L,404.0,,,1381689856,Asset Management,Financial Services
+LWDB.L,1053.902,,,1404007168,Asset Management,Financial Services
+CNDF.PA,27.45,,,1601427584,Banks - Regional,Financial Services
 HHFA.DE,21.2,,,1594652160,Marine Shipping,Industrials
-WWH.L,358.0,,,1441530240,Asset Management,Financial Services
-IMC.MC,3.385,,,1613056896,Conglomerates,Industrials
-CNDF.PA,26.655,,,1593053184,Banks - Regional,Financial Services
-KSB.DE,940.0,,,1607226112,Specialty Industrial Machinery,Industrials
-PTSB.L,3.03,,,1651324544,Banks - Regional,Financial Services
-FCSS.L,317.5,,,1584627840,Asset Management,Financial Services
-HBX.MC,,,,1803563520,,
-GDWN.L,21753.266,,,1672111104,Specialty Industrial Machinery,Industrials
-GTCO.L,0.062,,,2167062784,Banks - Diversified,Financial Services
-SSON.L,1516.0,,,1692897664,Asset Management,Financial Services
-PNL.L,540.016,,,1680850304,Asset Management,Financial Services
-OHB.DE,109.5,,,2097244800,Aerospace & Defense,Industrials
-MRC.L,247.5,,,1779674496,Asset Management,Financial Services
-PAF.L,89.407,,,1812560128,Gold,Basic Materials
+KSB.DE,960.0,,,1641422336,Specialty Industrial Machinery,Industrials
+IMC.MC,3.37,,,1587289728,Conglomerates,Industrials
+WWH.L,362.0,,,1433409920,Asset Management,Financial Services
+PTSB.L,3.18,,,1733073408,Banks - Regional,Financial Services
+FCSS.L,319.8058,,,1548377472,Asset Management,Financial Services
+HBX.MC,,,,1761286528,,
+GTCO.L,0.061,,,2132110208,Banks - Diversified,Financial Services
+GDWN.L,22000.0,,,1691076864,Specialty Industrial Machinery,Industrials
+PNL.L,540.2406,,,1681549440,Asset Management,Financial Services
+SSON.L,1520.0,,,1681648128,Asset Management,Financial Services
+MRC.L,249.0,,,1779565184,Asset Management,Financial Services
+MVV1.DE,31.2,,,2043152768,Utilities - Diversified,Utilities
 ALPH.L,4245.0,,,1801762944,Capital Markets,Financial Services
-MVV1.DE,31.3,,,2049701248,Utilities - Diversified,Utilities
-MYI.L,307.909,,,1839623808,Asset Management,Financial Services
-724.DE,13.738,,,2167181056,Software - Infrastructure,Technology
-JAM.L,1126.0,,,2022253824,Asset Management,Financial Services
-ATT.L,527.0,,,2054705024,Asset Management,Financial Services
-CLDN.L,379.7,,,1982503040,Asset Management,Financial Services
-SHAW.L,385.073,,,2006306688,Banks - Regional,Financial Services
-VIO.BR,9.27,,,2402689280,Metal Fabrication,Industrials
+PAF.L,92.3,,,1871210368,Gold,Basic Materials
+MYI.L,311.1529,,,1838788608,Asset Management,Financial Services
+OHB.DE,107.0,,,2049362432,Aerospace & Defense,Industrials
+724.DE,13.808,,,2178223616,Software - Infrastructure,Technology
+CLDN.L,380.76,,,1985836928,Asset Management,Financial Services
+SHAW.L,379.6,,,2029838336,Banks - Regional,Financial Services
+JAM.L,1132.0,,,1993095040,Asset Management,Financial Services
+ATT.L,536.829,,,1994854912,Asset Management,Financial Services
+VIO.BR,9.52,,,2467486720,Metal Fabrication,Industrials
 BTS.VI,65.5,,,2430146816,Banks - Regional,Financial Services
-FEV.L,421.0,,,2210418688,Asset Management,Financial Services
-TEM.L,238.0,,,2354870528,Asset Management,Financial Services
+FEV.L,425.0,,,2204855552,Asset Management,Financial Services
 BEKN.SW,269.0,,,2488664064,Banks - Regional,Financial Services
-BAIN.PA,103.5,,,2701589760,Resorts & Casinos,Consumer Cyclical
-PLUN.DE,2.3385,,,2949852416,Electrical Equipment & Parts,Industrials
-MNKS.L,1500.0,,,2655827968,Asset Management,Financial Services
-CTY.L,512.73,,,2565403904,Asset Management,Financial Services
-CAF.PA,106.6,,,3012983552,Banks - Regional,Financial Services
-SGKN.SW,520.0,,,3109713408,Banks - Regional,Financial Services
-RCP.L,2160.202,,,3028866048,Asset Management,Financial Services
+TEM.L,238.14,,,2306650368,Asset Management,Financial Services
+BAIN.PA,105.0,,,2740743168,Resorts & Casinos,Consumer Cyclical
+CTY.L,522.0,,,2611785984,Asset Management,Financial Services
+PLUN.DE,2.2245,,,2806049280,Electrical Equipment & Parts,Industrials
+CAF.PA,110.4,,,3034719488,Banks - Regional,Financial Services
+MNKS.L,1498.873,,,2611086336,Asset Management,Financial Services
+E0P.DE,28.67,,,3751747840,Solar,Technology
+SGKN.SW,527.0,,,3151574784,Banks - Regional,Financial Services
+RCP.L,2169.3008,,,3027476736,Asset Management,Financial Services
 XEKT.MC,16.6,,,3516551936,Financial Conglomerates,Financial Services
-E0P.DE,25.46,,,3331688192,Solar,Technology
+GLB.L,15.3,,,3709489152,Packaged Foods,Consumer Defensive
 GIL.DE,46.7,,,3680800256,Tools & Accessories,Industrials
-GLB.L,15.1,,,3660999168,Packaged Foods,Consumer Defensive
-COVH.PA,23.6,,,3728453888,REIT - Hotel & Motel,Real Estate
-JGGI.L,574.947,,,3395962880,Asset Management,Financial Services
-AMV0.DE,40.04,,,4006041856,Auto Parts,Consumer Cyclical
-TKWY.AS,20.38,,,4070266624,Internet Retail,Consumer Cyclical
+COVH.PA,22.8,,,3602065408,REIT - Hotel & Motel,Real Estate
+JGGI.L,576.445,,,3404810752,Asset Management,Financial Services
+AMV0.DE,40.96,,,4098088448,Auto Parts,Consumer Cyclical
+TKWY.AS,20.25,,,4044303360,Internet Retail,Consumer Cyclical
 VFP.DE,,,,,,
 ALTTU.PA,5.45,,,4481978368,Software - Application,Technology
 DLG.L,,,,,,
 AV-B.L,,,,,,
-SMG.SW,37.25,,,4433973760,Internet Content & Information,Communication Services
+SMG.SW,34.5,,,4269733888,Internet Content & Information,Communication Services
 AV-A.L,,,,,,
-TKMS.DE,73.3,,,5245563904,Aerospace & Defense,Industrials
+TKMS.DE,72.3,,,5149074944,Aerospace & Defense,Industrials
 OBS.VI,76.2,,,5375670272,Banks - Regional,Financial Services
-ODET.PA,1286.0,,,5534794752,Entertainment,Communication Services
-FMV.DE,10.46,,,5989322240,Silver,Basic Materials
 XNEO.MC,4.4,,,5533173248,Utilities - Regulated Electric,Utilities
-ALW.L,1282.0,,,5069041664,Asset Management,Financial Services
+ODET.PA,1298.0,,,5586441216,Entertainment,Communication Services
+ALW.L,1290.0,,,5005334528,Asset Management,Financial Services
 1D6.MU,,,,5775597056,,
-CBDG.PA,98.0,,,5949427712,Asset Management,Financial Services
-PCT.L,468.0,,,5582405120,Asset Management,Financial Services
-U6Z.DE,11.152,,,6627536384,Uranium,Energy
+CBDG.PA,99.5,,,6040490496,Asset Management,Financial Services
+FMV.DE,10.365,,,5934925824,Silver,Basic Materials
+PCT.L,476.0,,,5437244928,Asset Management,Financial Services
 XCOP.MC,2.24,,,6414519296,Utilities - Regulated Electric,Utilities
-FCIT.L,1214.0,,,5993600000,Asset Management,Financial Services
-8QR.MU,19.78,,,7114779136,Software - Infrastructure,Technology
-LY0.DE,19.516,,,7793781248,Software - Application,Technology
-A1G.DE,12.104,,,8048521728,Airlines,Industrials
-HCL.DE,12.55,,,8409738752,Other Precious Metals & Mining,Basic Materials
-3E1.MU,78.02,,,8533069312,Software - Application,Technology
-185.DE,32.645,,,8512494080,Aluminum,Basic Materials
-PUIG.MC,,,,8494163456,,
-GS2C.DE,18.968,,,8688537600,Specialty Retail,Consumer Cyclical
-BCVN.SW,94.85,,,8148540416,Banks - Regional,Financial Services
-0QF.DE,21.345,,,9501435904,Biotechnology,Healthcare
-CDM1.DE,13.495,,,10098127872,Gold,Basic Materials
-PSH.L,4714.8,,,8718128128,Asset Management,Financial Services
-VIA.DE,8.764,,,10277439488,Drug Manufacturers - Specialty & Generic,Healthcare
-SNAP.VI,7.188,,,11849023488,Internet Content & Information,Communication Services
-1SI.DE,7.2,,,12770700288,Internet Content & Information,Communication Services
-2OY.DE,19.4,,,14612086784,Chemicals,Basic Materials
-SMT.L,1106.5,,,13311920128,Asset Management,Financial Services
-ILU.DE,104.22,,,16417394688,Diagnostics & Research,Healthcare
-CBHD.DE,81.36,,,17543200768,Medical Instruments & Supplies,Healthcare
-AIBG.L,740.0,,,15812073472,Banks - Regional,Financial Services
+U6Z.DE,11.088,,,6589501952,Uranium,Energy
+FCIT.L,1230.797,,,5932440576,Asset Management,Financial Services
+8QR.MU,20.295,,,7300021760,Software - Infrastructure,Technology
+LY0.DE,20.665,,,8252638720,Software - Application,Technology
+A1G.DE,11.56,,,7686790656,Airlines,Industrials
+HCL.DE,13.285,,,8902260736,Other Precious Metals & Mining,Basic Materials
+PUIG.MC,,,,8475769856,,
+185.DE,33.63,,,8769342464,Aluminum,Basic Materials
+3E1.MU,80.12,,,8514548224,Software - Application,Technology
+GS2C.DE,18.62,,,8529132032,Specialty Retail,Consumer Cyclical
+BCVN.SW,96.25,,,8268814336,Banks - Regional,Financial Services
+0QF.DE,21.21,,,9441342464,Biotechnology,Healthcare
+PSH.L,4811.17,,,8896325632,Asset Management,Financial Services
+CDM1.DE,13.11,,,9810037760,Gold,Basic Materials
+VIA.DE,8.866,,,10397053952,Drug Manufacturers - Specialty & Generic,Healthcare
+SNAP.VI,7.484,,,11442741248,Internet Content & Information,Communication Services
+1SI.DE,7.426,,,13171558400,Internet Content & Information,Communication Services
+2OY.DE,19.0,,,14310807552,Chemicals,Basic Materials
+SMT.L,1113.5,,,13086431232,Asset Management,Financial Services
+ILU.DE,105.28,,,16584372224,Diagnostics & Research,Healthcare
+CBHD.DE,80.48,,,17353451520,Medical Instruments & Supplies,Healthcare
 L87.MU,8.737,,,17976463360,Auto Manufacturers,Consumer Cyclical
-IDP.DE,133.2,,,19540742144,Drug Manufacturers - General,Healthcare
-HAL.DE,23.995,,,20194832384,Oil & Gas Equipment & Services,Energy
-GRM.DE,40.35,,,21523351552,Packaged Foods,Consumer Defensive
-22UA.DE,90.4,,,21981722624,Biotechnology,Healthcare
-AWC.DE,112.4,,,21931888640,Utilities - Regulated Water,Utilities
-7HP.DE,22.84,,,22473973760,Computer Hardware,Technology
-SFE.MU,64.13,,,23151507456,Credit Services,Financial Services
+AIBG.L,750.0,,,16025750528,Banks - Regional,Financial Services
+IDP.DE,134.15,,,19680108544,Drug Manufacturers - General,Healthcare
+HAL.DE,23.815,,,20043337728,Oil & Gas Equipment & Services,Energy
+GRM.DE,39.99,,,21331322880,Packaged Foods,Consumer Defensive
+AWC.DE,111.3,,,21717254144,Utilities - Regulated Water,Utilities
+22UA.DE,89.5,,,21762877440,Biotechnology,Healthcare
+7HP.DE,22.04,,,21686796288,Computer Hardware,Technology
+SFE.MU,64.33,,,23223711744,Credit Services,Financial Services
 KEL.MU,,,,,,
-VODI.DE,1.0015,,,25368854528,Telecom Services,Communication Services
-F3A.DE,236.35,,,25362280448,Solar,Technology
-ADM.DE,49.305,,,25049282560,Farm Products,Consumer Defensive
-KIN2.DE,21.79,,,26302711808,Gold,Basic Materials
-KHNZ.DE,20.905,,,25436620800,Packaged Foods,Consumer Defensive
-MS51.DE,35.85,,,26857455616,Computer Hardware,Technology
-HMSB.DE,15.84,,,27066910720,Apparel Manufacturing,Consumer Cyclical
-2HP.DE,20.655,,,28131375104,Communication Equipment,Technology
-690D.DE,2.0795,,,29059973120,"Furnishings, Fixtures & Appliances",Consumer Cyclical
-ITB.DE,35.81,,,28745019392,Tobacco,Consumer Defensive
-XBBDC.MC,2.98,,,27975602176,Banks - Regional,Financial Services
-ERCB.DE,8.41,,,28948944896,Communication Equipment,Technology
-POH1.DE,21.21,,,30360655872,Travel Services,Consumer Cyclical
-XY6.DE,129.5,,,31529242624,Specialty Industrial Machinery,Industrials
-EBA.DE,72.55,,,32918198272,Internet Retail,Consumer Cyclical
-NOA3.DE,5.888,,,31672111104,Communication Equipment,Technology
+ADM.DE,48.725,,,24754612224,Farm Products,Consumer Defensive
+F3A.DE,235.4,,,25260337152,Solar,Technology
+VODI.DE,1.0755,,,27243337728,Telecom Services,Communication Services
+KHNZ.DE,21.14,,,25722560512,Packaged Foods,Consumer Defensive
+KIN2.DE,22.26,,,26870046720,Gold,Basic Materials
+MS51.DE,35.02,,,26235652096,Computer Hardware,Technology
+HMSB.DE,16.135,,,27570999296,Apparel Manufacturing,Consumer Cyclical
+XBBDC.MC,3.18,,,28719495168,Banks - Regional,Financial Services
+2HP.DE,20.49,,,27906650112,Communication Equipment,Technology
+ITB.DE,36.44,,,29246085120,Tobacco,Consumer Defensive
+ERCB.DE,8.386,,,28866330624,Communication Equipment,Technology
+690D.DE,2.1,,,29346449408,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+POH1.DE,21.08,,,30174572544,Travel Services,Consumer Cyclical
+XY6.DE,130.9,,,31870097408,Specialty Industrial Machinery,Industrials
+NOA3.DE,5.96,,,32059406336,Communication Equipment,Technology
+EBA.DE,73.55,,,33371928576,Internet Retail,Consumer Cyclical
 SYY.MU,,,,,,
-SQ3.DE,57.27,,,36887912448,Software - Infrastructure,Technology
-KMY.DE,89.46,,,34152445952,Household & Personal Products,Consumer Defensive
-GACA.L,,,,,,
-OPC.DE,35.985,,,35965521920,Oil & Gas E&P,Energy
-NGL0.DE,32.4,,,35485462528,Other Industrial Metals & Mining,Basic Materials
+KMY.DE,88.59,,,33820313600,Household & Personal Products,Consumer Defensive
 TCO0.DE,5.4,,,34741850112,Grocery Stores,Consumer Defensive
-TGR.DE,128.3,,,35607830528,Restaurants,Consumer Cyclical
-DYH.DE,77.56,,,36627611648,Discount Stores,Consumer Defensive
-SII.DE,87.66,,,39799209984,Gold,Basic Materials
-EWL.DE,71.82,,,41961345024,Medical Devices,Healthcare
+GACA.L,,,,,,
+NGL0.DE,32.3,,,35046346752,Other Industrial Metals & Mining,Basic Materials
+TGR.DE,128.4,,,35650621440,Restaurants,Consumer Cyclical
+OPC.DE,35.98,,,35960524800,Oil & Gas E&P,Energy
+DYH.DE,78.12,,,36892073984,Discount Stores,Consumer Defensive
+SQ3.DE,56.52,,,36404834304,Software - Infrastructure,Technology
+SII.DE,88.84,,,40334946304,Gold,Basic Materials
+EWL.DE,72.39,,,42294370304,Medical Devices,Healthcare
+ERT.DE,174.26,,,43461238784,Electronic Gaming & Multimedia,Communication Services
 68V.MU,,,,,,
-ERT.DE,171.38,,,42742956032,Electronic Gaming & Multimedia,Communication Services
-4PN.DE,48.45,,,43865772032,Building Products & Equipment,Industrials
-GUI.DE,21.1,,,48750493696,Beverages - Wineries & Distilleries,Consumer Defensive
-FMC1.DE,11.412,,,45378899968,Auto Manufacturers,Consumer Cyclical
+4PN.DE,49.045,,,44404473856,Building Products & Equipment,Industrials
 XVALO.MC,10.53,,,45092806656,Other Industrial Metals & Mining,Basic Materials
-ENI.DE,16.032,,,47849283584,Oil & Gas Integrated,Energy
-ABR0.DE,29.45,,,50805370880,Gold,Basic Materials
-XGR2.DE,28.78,,,48843448320,Restaurants,Consumer Cyclical
-BMW.VI,86.94,,,49716105216,Auto Manufacturers,Consumer Cyclical
-ASG.DE,32.89,,,49788903424,Insurance - Diversified,Financial Services
-BMW3.DE,79.9,,,50748686336,Auto Manufacturers,Consumer Cyclical
-04Q.DE,14.575,,,51366375424,Banks - Regional,Financial Services
-FPMB.DE,34.92,,,53519024128,Copper,Basic Materials
-FDX.DE,229.95,,,54257954816,Integrated Freight & Logistics,Industrials
-3QD.DE,158.08,,,51102633984,Software - Application,Technology
+FMC1.DE,11.292,,,44901728256,Auto Manufacturers,Consumer Cyclical
+ENI.DE,16.242,,,48476053504,Oil & Gas Integrated,Energy
+GUI.DE,20.8,,,48057356288,Beverages - Wineries & Distilleries,Consumer Defensive
+XGR2.DE,28.89,,,49030127616,Restaurants,Consumer Cyclical
+BMW.VI,86.02,,,48692224000,Auto Manufacturers,Consumer Cyclical
+ASG.DE,33.03,,,50000834560,Insurance - Diversified,Financial Services
+BMW3.DE,79.0,,,50177048576,Auto Manufacturers,Consumer Cyclical
+ABR0.DE,30.19,,,52081971200,Gold,Basic Materials
+3QD.DE,171.96,,,55963242496,Software - Application,Technology
+04Q.DE,14.675,,,51718803456,Banks - Regional,Financial Services
+FPMB.DE,35.24,,,54009470976,Copper,Basic Materials
+FDX.DE,222.0,,,52382109696,Integrated Freight & Logistics,Industrials
 CPA.DE,67.67,,,54546415616,Household & Personal Products,Consumer Defensive
-2PP.DE,58.01,,,56282718208,Credit Services,Financial Services
-8GM.DE,61.6,,,57790996480,Auto Manufacturers,Consumer Cyclical
+2PP.DE,57.4,,,55690883072,Credit Services,Financial Services
+8GM.DE,61.0,,,57228099584,Auto Manufacturers,Consumer Cyclical
 BSP.DE,20.65,,,62088990720,Aerospace & Defense,Industrials
-LLD.DE,1.06,,,62490796032,Banks - Regional,Financial Services
-2FE.DE,357.6,,,63499386880,Auto Manufacturers,Consumer Cyclical
-KTF.DE,49.25,,,63571828736,Confectioners,Consumer Defensive
-BCY.DE,4.685,,,65555660800,Banks - Diversified,Financial Services
-NNGF.DE,13.3,,,65988456448,Utilities - Regulated Electric,Utilities
-N7I.MU,115.05,,,66773770240,Asset Management,Financial Services
+LLD.DE,1.08,,,63658594304,Banks - Regional,Financial Services
+2FE.DE,357.4,,,63463870464,Auto Manufacturers,Consumer Cyclical
+KTF.DE,49.14,,,63429840896,Confectioners,Consumer Defensive
+BCY.DE,4.8,,,67164819456,Banks - Diversified,Financial Services
+NNGF.DE,13.4,,,66484609024,Utilities - Regulated Electric,Utilities
+GLW.DE,75.34,,,65818656768,Electronic Components,Technology
+N7I.MU,113.55,,,65903185920,Asset Management,Financial Services
+6Z1.DE,104.34,,,66810691584,Travel Services,Consumer Cyclical
 M1Z.MU,13.752,,,69065203712,Banks - Regional,Financial Services
-GLW.DE,75.6,,,66045800448,Electronic Components,Technology
-UWS.DE,174.58,,,70332530688,Waste Management,Industrials
-6Z1.DE,104.8,,,67105243136,Travel Services,Consumer Cyclical
-NTH.DE,490.4,,,70495690752,Aerospace & Defense,Industrials
-SYP.DE,346.8,,,74088071168,Software - Infrastructure,Technology
-1QZ.DE,274.95,,,84781268992,Financial Data & Stock Exchanges,Financial Services
-MMM.DE,141.6,,,76190089216,Conglomerates,Industrials
-NMM.DE,74.47,,,81266352128,Gold,Basic Materials
-5Q5.DE,231.95,,,80119685120,Software - Application,Technology
-BPE5.DE,5.258,,,80701874176,Oil & Gas Integrated,Energy
-GDX.DE,296.0,,,80512794624,Aerospace & Defense,Industrials
-GS71.DE,20.13,,,81271013376,Drug Manufacturers - General,Healthcare
-SRB.DE,73.32,,,83357507584,Restaurants,Consumer Cyclical
-BRM.DE,40.49,,,82427641856,Drug Manufacturers - General,Healthcare
-NKE.DE,53.16,,,81651113984,Footwear & Accessories,Consumer Cyclical
-PHM7.DE,50.09,,,84084662272,Tobacco,Consumer Defensive
-CVS.DE,67.61,,,85826330624,Healthcare Plans,Healthcare
-CTP2.DE,23.69,,,86811082752,Telecom Services,Communication Services
-ENL.DE,8.831,,,88972836864,Utilities - Diversified,Utilities
-12DA.DE,130.04,,,92623233024,Computer Hardware,Technology
-VX1.DE,352.35,,,92035317760,Biotechnology,Healthcare
-YCP.DE,76.32,,,96478650368,Oil & Gas E&P,Energy
-IES.DE,5.68,,,98738954240,Banks - Regional,Financial Services
-HHPD.IL,16.06,,,114457362432,Electronic Components,Technology
-LOM.DE,399.05,,,98858663936,Aerospace & Defense,Industrials
-RIO1.DE,60.19,,,102174498816,Other Industrial Metals & Mining,Basic Materials
-2M6.DE,80.0,,,102609289216,Medical Devices,Healthcare
-MLB1.DE,1846.6,,,101665783808,Internet Retail,Consumer Cyclical
-BMT.DE,47.25,,,102839672832,Tobacco,Consumer Defensive
-CDI.PA,574.0,,,104383381504,Luxury Goods,Consumer Cyclical
-0UB.DE,33.22,,,103897817088,Banks - Diversified,Financial Services
-DCO.DE,405.7,,,109672644608,Farm & Heavy Construction Machinery,Industrials
-UNP.DE,190.04,,,113914208256,Railroads,Industrials
-PFE.DE,21.16,,,120309571584,Drug Manufacturers - General,Healthcare
-BP-B.L,164.3,,,108310511616,Oil & Gas Integrated,Energy
-ADB.DE,285.65,,,124085936128,Software - Application,Technology
-TII.DE,139.32,,,126589370368,Semiconductors,Technology
-BP-A.L,154.8,,,116674764800,Oil & Gas Integrated,Energy
-DAP.DE,182.16,,,131705200640,Diagnostics & Research,Healthcare
-BCO.DE,169.96,,,134772727808,Aerospace & Defense,Industrials
-GIS.DE,102.88,,,127776956416,Drug Manufacturers - General,Healthcare
-KLA.DE,1049.6,,,139322245120,Semiconductor Equipment & Materials,Technology
-PCE1.DE,4202.0,,,140345688064,Travel Services,Consumer Cyclical
-UU2.DE,941.5,,,148625784832,Asset Management,Financial Services
-BAC.DE,34.545,,,145656414208,Telecom Services,Communication Services
-AMG.DE,275.35,,,148270645248,Drug Manufacturers - General,Healthcare
-SOBA.DE,21.425,,,151891443712,Telecom Services,Communication Services
-TRVC.DE,87.17,,,161041006592,Banks - Diversified,Financial Services
-AP2.DE,204.1,,,162594717696,Semiconductor Equipment & Materials,Technology
-ITU.DE,549.5,,,158847074304,Software - Application,Technology
-AIR.DE,211.05,,,170030252032,Aerospace & Defense,Industrials
-QCI.DE,149.62,,,172182568960,Semiconductors,Technology
-INL.DE,33.47,,,172599885824,Semiconductors,Technology
-PEP.DE,123.28,,,172041895936,Beverages - Non-Alcoholic,Consumer Defensive
-UT8.DE,80.74,,,176693411840,Software - Application,Technology
-WDP.DE,95.81,,,176775774208,Entertainment,Communication Services
-MDO.DE,258.4,,,184020680704,Restaurants,Consumer Cyclical
-6MK.DE,75.0,,,187596095488,Drug Manufacturers - General,Healthcare
-NOV.DE,40.1,,,183666376704,Drug Manufacturers - General,Healthcare
-6RV.MU,547.4,,,192745095168,Advertising Agencies,Communication Services
-ABL.DE,109.1,,,189710925824,Medical Devices,Healthcare
-TM5.DE,178.66,,,207141486592,Telecom Services,Communication Services
-4I1.DE,131.38,,,204511199232,Tobacco,Consumer Defensive
-GOS.DE,680.8,,,206025637888,Capital Markets,Financial Services
-5UR.DE,154.44,,,210562777088,Aerospace & Defense,Industrials
-HBC1.DE,12.3,,,211140984832,Banks - Diversified,Financial Services
-AEC1.DE,319.05,,,219778105344,Credit Services,Financial Services
-FOO.DE,208.0,,,217008865280,Software - Application,Technology
-ZEG.DE,146.55,,,227192160256,Drug Manufacturers - General,Healthcare
-DWD.DE,140.4,,,223139020800,Capital Markets,Financial Services
-NWT.DE,74.92,,,237485162496,Banks - Diversified,Financial Services
-CAT1.DE,493.0,,,240539942912,Farm & Heavy Construction Machinery,Industrials
-MTE.DE,214.2,,,240432218112,Semiconductors,Technology
-CIS.DE,61.79,,,251094663168,Communication Equipment,Technology
-IBM.DE,264.9,,,247611359232,Information Technology Services,Technology
-CCC3.DE,60.54,,,260419403776,Beverages - Non-Alcoholic,Consumer Defensive
-UNH.DE,277.45,,,263347994624,Healthcare Plans,Healthcare
-CHV.DE,134.22,,,273281368064,Oil & Gas Integrated,Energy
-GCP.DE,266.5,,,290345418752,Aerospace & Defense,Industrials
-PRG.DE,127.14,,,305097768960,Household & Personal Products,Consumer Defensive
-HDI.DE,319.6,,,326018269184,Home Improvement Retail,Consumer Cyclical
-4AB.DE,189.2,,,334389149696,Drug Manufacturers - General,Healthcare
-SMSD.IL,1340.0,,,398576287744,Consumer Electronics,Technology
-NCB.DE,46.055,,,339006160896,Banks - Diversified,Financial Services
-AHLA.DE,145.6,,,355902750720,Internet Retail,Consumer Cyclical
-CTO.DE,794.0,,,351884247040,Discount Stores,Consumer Defensive
-AMD.DE,208.6,,,364439699456,Semiconductors,Technology
-JNJ.DE,160.9,,,392127578112,Drug Manufacturers - General,Healthcare
-NFC.DE,956.8,,,411737292800,Entertainment,Communication Services
-PTX.DE,159.2,,,425540321280,Software - Infrastructure,Technology
-XONA.DE,101.76,,,429121929216,Oil & Gas Integrated,Energy
-M4I.DE,479.0,,,429581467648,Credit Services,Financial Services
-3V64.DE,290.4,,,570854670336,Credit Services,Financial Services
-ORC.DE,211.35,,,654568325120,Software - Infrastructure,Technology
-WMT.DE,88.39,,,704720338944,Discount Stores,Consumer Defensive
-LLY.DE,798.9,,,715030528000,Drug Manufacturers - General,Healthcare
-CMC.DE,272.45,,,741680414720,Banks - Diversified,Financial Services
-BRYN.DE,429.15,,,898006646784,Insurance - Diversified,Financial Services
-TSLA.VI,381.2,,,1352685191168,Auto Manufacturers,Consumer Cyclical
-TL0.DE,381.1,,,1314128920576,Auto Manufacturers,Consumer Cyclical
-FB2A.DE,548.5,,,1438487805952,Internet Content & Information,Communication Services
-1YD.DE,309.9,,,1514103635968,Semiconductors,Technology
-AMZ.DE,213.95,,,2291024527360,Internet Retail,Consumer Cyclical
-ABEC.DE,246.2,,,3016132919296,Internet Content & Information,Communication Services
-ABEA.DE,245.5,,,2935875960832,Internet Content & Information,Communication Services
-MSF.DE,433.65,,,3344434724864,Software - Infrastructure,Technology
-APC.DE,233.15,,,3445106671616,Consumer Electronics,Technology
-NVD.DE,167.18,,,4343139401728,Semiconductors,Technology
-IDIA.SW,3.255,2.0,1,799813184,Biotechnology,Healthcare
+UWS.DE,173.36,,,69841027072,Waste Management,Industrials
+NTH.DE,489.3,,,70337560576,Aerospace & Defense,Industrials
+SYP.DE,340.6,,,72763547648,Software - Infrastructure,Technology
+MMM.DE,144.82,,,77922664448,Conglomerates,Industrials
+5Q5.DE,233.45,,,80637812736,Software - Application,Technology
+GDX.DE,303.45,,,82539216896,Aerospace & Defense,Industrials
+BPE5.DE,5.341,,,81967529984,Oil & Gas Integrated,Energy
+NMM.DE,76.94,,,83961774080,Gold,Basic Materials
+GS71.DE,20.48,,,82684076032,Drug Manufacturers - General,Healthcare
+NKE.DE,52.74,,,81006018560,Footwear & Accessories,Consumer Cyclical
+BRM.DE,40.655,,,82763538432,Drug Manufacturers - General,Healthcare
+SRB.DE,72.63,,,82573041664,Restaurants,Consumer Cyclical
+PHM7.DE,49.665,,,83371229184,Tobacco,Consumer Defensive
+1QZ.DE,272.2,,,83933306880,Financial Data & Stock Exchanges,Financial Services
+CVS.DE,66.63,,,84582277120,Healthcare Plans,Healthcare
+CTP2.DE,23.44,,,85894971392,Telecom Services,Communication Services
+ENL.DE,8.918,,,89849364480,Utilities - Diversified,Utilities
+VX1.DE,365.4,,,95444033536,Biotechnology,Healthcare
+12DA.DE,122.76,,,87437934592,Computer Hardware,Technology
+YCP.DE,75.89,,,95935070208,Oil & Gas E&P,Energy
+IES.DE,5.841,,,101537718272,Banks - Regional,Financial Services
+LOM.DE,391.1,,,96889176064,Aerospace & Defense,Industrials
+HHPD.IL,15.92,,,113459609600,Electronic Components,Technology
+MLB1.DE,1807.6,,,99518619648,Internet Retail,Consumer Cyclical
+RIO1.DE,60.64,,,102938386432,Other Industrial Metals & Mining,Basic Materials
+2M6.DE,80.12,,,102763200512,Medical Devices,Healthcare
+BMT.DE,48.55,,,105663774720,Tobacco,Consumer Defensive
+0UB.DE,33.27,,,104054194176,Banks - Diversified,Financial Services
+CDI.PA,582.0,,,105838198784,Luxury Goods,Consumer Cyclical
+DCO.DE,406.5,,,109888905216,Farm & Heavy Construction Machinery,Industrials
+UNP.DE,192.66,,,115484696576,Railroads,Industrials
+PFE.DE,21.1,,,119968440320,Drug Manufacturers - General,Healthcare
+BP-B.L,164.5,,,108442345472,Oil & Gas Integrated,Energy
+ADB.DE,284.6,,,123629821952,Software - Application,Technology
+TII.DE,138.42,,,125771595776,Semiconductors,Technology
+GIS.DE,102.1,,,126673395712,Drug Manufacturers - General,Healthcare
+DAP.DE,182.3,,,131806429184,Diagnostics & Research,Healthcare
+BP-A.L,152.0,,,114564374528,Oil & Gas Integrated,Energy
+BCO.DE,168.44,,,133567414272,Aerospace & Defense,Industrials
+KLA.DE,1050.0,,,139375345664,Semiconductor Equipment & Materials,Technology
+PCE1.DE,4265.0,,,142449868800,Travel Services,Consumer Cyclical
+BAC.DE,34.505,,,145487757312,Telecom Services,Communication Services
+AMG.DE,276.75,,,149024522240,Drug Manufacturers - General,Healthcare
+UU2.DE,931.7,,,147078742016,Asset Management,Financial Services
+SOBA.DE,21.44,,,151997808640,Telecom Services,Communication Services
+ITU.DE,564.3,,,163125379072,Software - Application,Technology
+TRVC.DE,87.37,,,161410498560,Banks - Diversified,Financial Services
+AP2.DE,201.65,,,160642940928,Semiconductor Equipment & Materials,Technology
+AIR.DE,211.65,,,170513629184,Aerospace & Defense,Industrials
+PEP.DE,123.34,,,172125618176,Beverages - Non-Alcoholic,Consumer Defensive
+QCI.DE,147.48,,,169719873536,Semiconductors,Technology
+INL.DE,33.06,,,170485579776,Semiconductors,Technology
+UT8.DE,81.22,,,177743855616,Software - Application,Technology
+WDP.DE,97.11,,,179174375424,Entertainment,Communication Services
+NOV.DE,40.23,,,184261804032,Drug Manufacturers - General,Healthcare
+MDO.DE,258.6,,,184163123200,Restaurants,Consumer Cyclical
+6MK.DE,75.2,,,188096348160,Drug Manufacturers - General,Healthcare
+ABL.DE,109.38,,,190197809152,Medical Devices,Healthcare
+6RV.MU,564.5,,,198766182400,Advertising Agencies,Communication Services
+4I1.DE,132.88,,,206846164992,Tobacco,Consumer Defensive
+GOS.DE,687.5,,,208053207040,Capital Markets,Financial Services
+TM5.DE,177.94,,,206306705408,Telecom Services,Communication Services
+5UR.DE,154.24,,,210290098176,Aerospace & Defense,Industrials
+HBC1.DE,12.5,,,214574170112,Banks - Diversified,Financial Services
+FOO.DE,208.95,,,218000015360,Software - Application,Technology
+AEC1.DE,318.65,,,219502575616,Credit Services,Financial Services
+DWD.DE,142.18,,,225967980544,Capital Markets,Financial Services
+ZEG.DE,152.7,,,236726321152,Drug Manufacturers - General,Healthcare
+NWT.DE,74.24,,,235329667072,Banks - Diversified,Financial Services
+MTE.DE,217.3,,,243911868416,Semiconductors,Technology
+CAT1.DE,495.5,,,241759715328,Farm & Heavy Construction Machinery,Industrials
+IBM.DE,267.55,,,250088407040,Information Technology Services,Technology
+CIS.DE,62.54,,,254142414848,Communication Equipment,Technology
+CCC3.DE,60.85,,,261752897536,Beverages - Non-Alcoholic,Consumer Defensive
+UNH.DE,279.4,,,265198862336,Healthcare Plans,Healthcare
+CHV.DE,134.2,,,273240637440,Oil & Gas Integrated,Energy
+GCP.DE,270.5,,,294703333376,Aerospace & Defense,Industrials
+PRG.DE,126.08,,,302554087424,Household & Personal Products,Consumer Defensive
+HDI.DE,320.4,,,326834323456,Home Improvement Retail,Consumer Cyclical
+4AB.DE,186.4,,,329440460800,Drug Manufacturers - General,Healthcare
+NCB.DE,46.275,,,340625555456,Banks - Diversified,Financial Services
+SMSD.IL,1360.0,,,404525187072,Consumer Electronics,Technology
+CTO.DE,787.8,,,349136551936,Discount Stores,Consumer Defensive
+AHLA.DE,142.8,,,349058433024,Internet Retail,Consumer Cyclical
+AMD.DE,211.0,,,368632659968,Semiconductors,Technology
+JNJ.DE,162.94,,,397099237376,Drug Manufacturers - General,Healthcare
+NFC.DE,968.6,,,416815153152,Entertainment,Communication Services
+PTX.DE,166.22,,,444304719872,Software - Infrastructure,Technology
+XONA.DE,102.04,,,430302691328,Oil & Gas Integrated,Energy
+M4I.DE,476.3,,,427160010752,Credit Services,Financial Services
+3V64.DE,289.85,,,569773522944,Credit Services,Financial Services
+ORC.DE,207.0,,,641096024064,Software - Infrastructure,Technology
+WMT.DE,88.47,,,705358135296,Discount Stores,Consumer Defensive
+LLY.DE,838.0,,,750025703424,Drug Manufacturers - General,Healthcare
+CMC.DE,274.15,,,746308173824,Banks - Diversified,Financial Services
+BRYN.DE,429.55,,,898843607040,Insurance - Diversified,Financial Services
+TL0.DE,382.05,,,1317404672000,Auto Manufacturers,Consumer Cyclical
+TSLA.VI,382.4,,,1296299851776,Auto Manufacturers,Consumer Cyclical
+FB2A.DE,544.2,,,1427210633216,Internet Content & Information,Communication Services
+1YD.DE,308.65,,,1507996467200,Semiconductors,Technology
+AMZ.DE,214.4,,,2295843258368,Internet Retail,Consumer Cyclical
+ABEA.DE,249.2,,,2980123246592,Internet Content & Information,Communication Services
+ABEC.DE,249.8,,,3060235501568,Internet Content & Information,Communication Services
+MSF.DE,437.75,,,3376055058432,Software - Infrastructure,Technology
+APC.DE,233.0,,,3442890244096,Consumer Electronics,Technology
+NVD.DE,171.36,,,4451730980864,Semiconductors,Technology
+IDIA.SW,3.195,2.0,1,785070016,Biotechnology,Healthcare
 NHH.MC,6.5,4.6,1,2831712512,Lodging,Consumer Cyclical
-DAR.L,7.825,5.9,1,1408669056,Real Estate - Development,Real Estate
-BNC.L,793.16,641.8323,1,117248090112,Banks - Diversified,Financial Services
-HLE.DE,80.7,70.0,1,9011332096,Auto Parts,Consumer Cyclical
-KBCA.BR,70.7,85.0,1,5444737024,Asset Management,Financial Services
-VWSB.DE,20.61,19.3,1,20558684160,Specialty Industrial Machinery,Industrials
-PFV.DE,156.2,140.0,1,1545290624,Specialty Industrial Machinery,Industrials
-NEDAP.AS,99.6,95.0,1,692710400,Information Technology Services,Technology
-PPET.L,597.9299,580.0,1,903421568,Asset Management,Financial Services
+DAR.L,7.9,5.9,1,1422170752,Real Estate - Development,Real Estate
+BNC.L,807.11,643.34485,1,119310229504,Banks - Diversified,Financial Services
+HLE.DE,80.0,70.0,1,8933167104,Auto Parts,Consumer Cyclical
+PFV.DE,155.8,140.0,1,1541333504,Specialty Industrial Machinery,Industrials
+VWSB.DE,21.0,19.3,1,20947714048,Specialty Industrial Machinery,Industrials
+NEDAP.AS,98.1,95.0,1,682278016,Information Technology Services,Technology
+PPET.L,607.2794,580.0,1,920642496,Asset Management,Financial Services
 COP.DE,22.66,22.0,1,1172306048,,
+OMU.L,59.37,57.7,1,2552938240,Financial Conglomerates,Financial Services
 FLY.PA,73.8,72.8,1,3174628096,REIT - Office,Real Estate
-OMU.L,59.165,57.7,1,2492727040,Financial Conglomerates,Financial Services
-SHF.DE,74.0,74.0,1,539387456,Information Technology Services,Technology
-PEY.L,10.65,10.6,1,734862400,Asset Management,Financial Services
+PEY.L,10.7,10.6,1,738312512,Asset Management,Financial Services
+SHF.DE,75.0,74.0,1,546676480,Information Technology Services,Technology
 NBG6.DE,120.0,120.0,1,1382400000,Insurance - Diversified,Financial Services
-UEM.L,258.98,260.0,1,464129440,Asset Management,Financial Services
-WHR.L,113.0,114.36639,1,480093664,,
-APAX.L,164.4,167.24356,1,794985728,,
-ISN.SW,157.6,163.0,1,1452678016,Real Estate Services,Real Estate
-BIRG.L,14.94,15.4,1,14232845312,Banks - Regional,Financial Services
-CPI.VI,16.19,17.0,1,2324527872,Real Estate - Diversified,Real Estate
-RLIA.MC,1.08,1.16,1,1630355328,Real Estate Services,Real Estate
-ACOMO.AS,23.8,26.0,1,705080832,Food Distribution,Consumer Defensive
-TGHN.DE,240.0,261.0,1,702625216,Integrated Freight & Logistics,Industrials
-JEN.BR,60.0,67.5,1,584169280,Specialty Industrial Machinery,Industrials
-PIN.L,363.0,405.00003,1,1583764992,Asset Management,Financial Services
+UEM.L,259.24,260.0,1,464206464,Asset Management,Financial Services
+WHR.L,113.0,114.6359,1,480093664,,
+APAX.L,164.4,167.63577,1,794985728,,
+BIRG.L,15.24,15.4,1,14518645760,Banks - Regional,Financial Services
+ISN.SW,156.2,163.0,1,1448967424,Real Estate Services,Real Estate
+CPI.VI,16.17,17.0,1,2320228352,Real Estate - Diversified,Real Estate
+RLIA.MC,1.02,1.16,1,1539779968,Real Estate Services,Real Estate
+TGHN.DE,242.0,261.0,1,696770048,Integrated Freight & Logistics,Industrials
+ACOMO.AS,24.05,26.0,1,712487168,Food Distribution,Consumer Defensive
+PIN.L,363.305,405.00003,1,1585095680,Asset Management,Financial Services
+JEN.BR,61.2,67.5,1,580274816,Specialty Industrial Machinery,Industrials
+BION.SW,40.7,47.7,1,2263853056,Biotechnology,Healthcare
 FLOB.BR,605.0,710.0,1,597491328,Conglomerates,Industrials
-BION.SW,41.0,47.7,1,2317506304,Biotechnology,Healthcare
-WPM.L,7800.0,9600.0,1,35418685440,Gold,Basic Materials
-VOF.L,441.5,550.0,1,595866560,Asset Management,Financial Services
-639.DE,537.0,652.0,1,116407549952,Internet Content & Information,Communication Services
-STO3.DE,116.8,145.0,1,779323840,Building Products & Equipment,Industrials
+KBCA.BR,72.8,85.0,1,5606461952,Asset Management,Financial Services
+NRO.PA,42.85,52.0,1,1042036032,Information Technology Services,Technology
+639.DE,535.8,652.0,1,116147421184,Internet Content & Information,Communication Services
 ETS.VI,4.8,5.9,1,804045056,Telecom Services,Communication Services
-ALTA.PA,99.2,122.0,1,2313754624,REIT - Residential,Real Estate
-NRO.PA,42.9,52.0,1,1043252032,Information Technology Services,Technology
-STLAP.PA,8.915,11.0,1,25924268032,Auto Manufacturers,Consumer Cyclical
-SEIT.L,61.2324,79.0,1,675523968,Asset Management,Financial Services
-CHG.DE,35.7,48.0,1,860366784,Information Technology Services,Technology
-CEN.PA,59.2,81.0,1,655427008,Staffing & Employment Services,Industrials
-DWNI.DE,20.9,29.0,1,8532968448,Real Estate Services,Real Estate
-TITC.BR,40.0,56.1,1,2976538112,Building Materials,Basic Materials
-WUW.DE,14.08,21.0,1,1341328128,Insurance - Life,Financial Services
-AGY.L,8.73,13.0,1,545609088,Drug Manufacturers - Specialty & Generic,Healthcare
-FPE.DE,30.85,48.0,1,4629243392,Specialty Chemicals,Basic Materials
-GAID.IL,12.0,18.8,1,8880768000,Utilities - Regulated Gas,Utilities
-QH9.DE,6.818,12.0,1,677913152,Communication Equipment,Technology
-SIX3.DE,53.7,94.0,1,3269950208,Rental & Leasing Services,Industrials
-ALLN.SW,194.4,181.5,2,3210408448,Real Estate Services,Real Estate
-BAKK.L,216.5,212.5,2,1266030464,Packaged Foods,Consumer Defensive
-CMBN.SW,90.7,88.35,2,2693591296,Banks - Regional,Financial Services
-AWE.L,184.8,186.51283,2,1517112576,Semiconductors,Technology
-PRSR.L,114.6,115.0,2,629442176,REIT - Residential,Real Estate
-NBPE.L,1552.0,1580.4556,2,687749312,Asset Management,Financial Services
-SAVE.PA,59.6,62.4,2,807817536,Packaged Foods,Consumer Defensive
-JFN.SW,240.5,259.0,2,1365344896,Railroads,Industrials
-LTOD.IL,44.25,48.17,2,63329718272,Engineering & Construction,Industrials
-AGR.VI,12.0,13.3,2,759319808,Packaged Foods,Consumer Defensive
-UN0.DE,28.35,30.5,2,12403600384,Utilities - Independent Power Producers,Utilities
-INPP.L,122.6,136.5,2,2301152512,Asset Management,Financial Services
-VLK.AS,50.1,56.0,2,2203501056,Banks - Regional,Financial Services
-TUB.BR,205.0,230.5,2,9483808768,Biotechnology,Healthcare
-SEQI.L,78.4,87.5,2,1209688576,Asset Management,Financial Services
-HGT.L,479.2155,540.0,2,2218904576,Asset Management,Financial Services
-SIP.BR,78.2,88.238464,2,814633792,Farm Products,Consumer Defensive
-UPR.L,330.5,402.4936,2,862531584,Medical Distribution,Healthcare
-RHK.DE,11.9,14.25,2,796567808,Medical Care Facilities,Healthcare
-TOM2.AS,5.225,6.0,2,654633856,Software - Application,Technology
-CORD.L,97.9541,118.49999,2,750049664,Asset Management,Financial Services
-CKI.L,516.0,620.0,2,13001191424,Utilities - Regulated Electric,Utilities
-IPC.L,2880.25,3389.588,2,15751995392,Packaging & Containers,Consumer Cyclical
-SDG.PA,33.3,41.0,2,770449024,Staffing & Employment Services,Industrials
-VZN.SW,153.0,185.5,2,6298170880,Asset Management,Financial Services
-HEN.DE,67.55,82.5,2,28408489984,Household & Personal Products,Consumer Defensive
-FORN.SW,707.0,880.0,2,1052860160,Building Products & Equipment,Industrials
-HICL.L,116.0,147.5,2,2308340736,Asset Management,Financial Services
-BREB.BR,103.0,130.0,2,3042149632,Asset Management,Financial Services
-HEIJM.AS,55.3,70.375,2,1721018880,Engineering & Construction,Industrials
-LIN.DE,363.4,464.75,2,169689235456,,
-CGEO.L,2550.0,3305.0,2,844575104,Financial Conglomerates,Financial Services
-CMBT.BR,8.27,10.55434,2,2420264704,Oil & Gas Midstream,Energy
-HDD.DE,1.952,2.55,2,625466048,Specialty Industrial Machinery,Industrials
-ESP.L,78.4,105.99999,2,520723488,REIT - Residential,Real Estate
-STR.VI,66.0,90.0,2,7959152128,Engineering & Construction,Industrials
-REN.AS,36.52,51.05,2,69730361344,Specialty Business Services,Industrials
-EUZ.DE,15.93,22.85,2,1061925376,Medical Devices,Healthcare
-RSG.L,43.7,62.5,2,1062446208,Gold,Basic Materials
-MEGP.L,175.8,262.5,2,714883968,Business Equipment & Supplies,Industrials
-ALHG.PA,1.4515,2.25,2,1487209600,Specialty Business Services,Industrials
+ALTA.PA,99.7,122.0,1,2325416704,REIT - Residential,Real Estate
+WPM.L,7880.0,9700.0,1,35776610304,Gold,Basic Materials
+STLAP.PA,9.029,11.0,1,26255773696,Auto Manufacturers,Consumer Cyclical
+STO3.DE,116.6,145.0,1,765979200,Building Products & Equipment,Industrials
+VOF.L,446.841,550.0,1,605810048,Asset Management,Financial Services
+SEIT.L,61.8916,79.0,1,679454848,Asset Management,Financial Services
+CHG.DE,35.9,48.0,1,865186816,Information Technology Services,Technology
+CEN.PA,59.2,81.0,1,651013376,Staffing & Employment Services,Industrials
+DWNI.DE,21.0,29.0,1,8573795840,Real Estate Services,Real Estate
+TITC.BR,41.0,56.1,1,3050951680,Building Materials,Basic Materials
+AGY.L,8.055,13.0,1,494692992,Drug Manufacturers - Specialty & Generic,Healthcare
+WUW.DE,13.96,21.0,1,1329896448,Insurance - Life,Financial Services
+FPE.DE,30.7,48.0,1,4606734848,Specialty Chemicals,Basic Materials
+GAID.IL,12.05,18.8,1,8917771264,Utilities - Regulated Gas,Utilities
+SIX3.DE,53.3,94.0,1,3245593088,Rental & Leasing Services,Industrials
+QH9.DE,6.984,12.0,1,694418496,Communication Equipment,Technology
+ALLN.SW,195.2,181.5,2,3223620096,Real Estate Services,Real Estate
+CMBN.SW,92.4,88.35,2,2706773760,Banks - Regional,Financial Services
+BAKK.L,221.5,212.5,2,1289394816,Packaged Foods,Consumer Defensive
+PRSR.L,114.41,115.0,2,628398592,REIT - Residential,Real Estate
+AWE.L,185.619,187.2623,2,1523836160,Semiconductors,Technology
+NBPE.L,1562.261,1586.8063,2,671774528,Asset Management,Financial Services
+SAVE.PA,59.8,62.4,2,810528384,Packaged Foods,Consumer Defensive
+UN0.DE,28.45,30.5,2,12447352832,Utilities - Independent Power Producers,Utilities
+JFN.SW,245.0,259.0,2,1390891904,Railroads,Industrials
+LTOD.IL,44.9,48.17,2,64259985408,Engineering & Construction,Industrials
+AGR.VI,11.95,13.3,2,752992128,Packaged Foods,Consumer Defensive
+INPP.L,124.8038,136.5,2,2316111872,Asset Management,Financial Services
+SEQI.L,78.8,87.5,2,1208744960,Asset Management,Financial Services
+VLK.AS,50.5,56.0,2,2152786432,Banks - Regional,Financial Services
+TUB.BR,202.5,230.5,2,9541636096,Biotechnology,Healthcare
+HGT.L,484.8697,540.0,2,2219386880,Asset Management,Financial Services
+SIP.BR,78.6,88.38147,2,818800704,Farm Products,Consumer Defensive
+TOM2.AS,5.285,6.0,2,662151168,Software - Application,Technology
+IPC.L,2870.0,3403.478,2,15751499776,Packaging & Containers,Consumer Cyclical
+RHK.DE,12.0,14.25,2,803261696,Medical Care Facilities,Healthcare
+CKI.L,504.0,620.0,2,12698839040,Utilities - Regulated Electric,Utilities
+CORD.L,100.6862,118.49999,2,770969856,Asset Management,Financial Services
+VZN.SW,153.6,185.5,2,6256313344,Asset Management,Financial Services
+UPR.L,328.0,403.4375,2,874275648,Medical Distribution,Healthcare
+HEN.DE,67.05,82.5,2,28198211584,Household & Personal Products,Consumer Defensive
+SDG.PA,33.4,41.0,2,765842560,Staffing & Employment Services,Industrials
+FORN.SW,701.0,880.0,2,1046916160,Building Products & Equipment,Industrials
+BREB.BR,104.2,130.0,2,3053641984,Asset Management,Financial Services
+HICL.L,117.5948,147.5,2,2324020992,Asset Management,Financial Services
+HEIJM.AS,56.15,70.375,2,1712775168,Engineering & Construction,Industrials
+CMBT.BR,8.37,10.571446,2,2449530112,Oil & Gas Midstream,Energy
+LIN.DE,366.8,464.75,2,171276861440,,
+CGEO.L,2575.0,3305.0,2,831284992,Financial Conglomerates,Financial Services
+HDD.DE,1.878,2.55,2,601754688,Specialty Industrial Machinery,Industrials
+ESP.L,78.3,105.99999,2,520059296,REIT - Residential,Real Estate
+STR.VI,66.8,90.0,2,7815160320,Engineering & Construction,Industrials
+REN.AS,36.56,51.05,2,69806735360,Specialty Business Services,Industrials
+RSG.L,45.9,62.5,2,1115933184,Gold,Basic Materials
+EUZ.DE,15.6,22.85,2,1056549824,Medical Devices,Healthcare
+MEGP.L,164.083,262.5,2,710258624,Business Equipment & Supplies,Industrials
+ALHG.PA,1.464,2.25,2,1500017152,Specialty Business Services,Industrials
 IPO.L,61.5,101.5,2,549286144,Asset Management,Financial Services
-ADX.MC,1.326,2.35,2,632595392,Utilities - Renewable,Utilities
-BUR.L,685.0,1723.6161,2,1684112384,Asset Management,Financial Services
-ART.MC,21.0,18.03333,3,1196658560,Electronic Components,Technology
-PFSE.DE,71.3,60.66667,3,1302461440,Electronic Components,Technology
-CFT.SW,312.0,277.33334,3,2390150144,Capital Markets,Financial Services
-WHA.AS,19.28,18.0,3,889108736,REIT - Retail,Real Estate
-DAE.SW,142.0,135.66667,3,2537443072,Industrial Distribution,Industrials
+ADX.MC,1.32,2.35,2,622111488,Utilities - Renewable,Utilities
+BUR.L,682.0,1730.3154,2,1660697344,Asset Management,Financial Services
+PFSE.DE,70.9,60.66667,3,1327623552,Electronic Components,Technology
+ART.MC,19.9,18.03333,3,1133976448,Electronic Components,Technology
+CFT.SW,309.0,277.33334,3,2367168000,Capital Markets,Financial Services
+WHA.AS,19.26,18.0,3,888186368,REIT - Retail,Real Estate
+DAE.SW,145.0,135.66667,3,2533472256,Industrial Distribution,Industrials
 GAW.L,15350.0,15035.001,3,5270092288,Leisure,Consumer Cyclical
 YOU.DE,6.67,6.5,3,1158846336,Internet Retail,Consumer Cyclical
-POST.VI,30.15,29.9,3,2036712064,Integrated Freight & Logistics,Industrials
-D6H.DE,63.8,66.0,3,534106336,Information Technology Services,Technology
+POST.VI,30.2,29.9,3,2040089728,Integrated Freight & Logistics,Industrials
+D6H.DE,64.0,66.0,3,534111616,Information Technology Services,Technology
 AGR.L,47.48,49.667,3,1542929280,REIT - Healthcare Facilities,Real Estate
-ICGT.L,1525.923,1603.3331,3,965663232,Asset Management,Financial Services
-AMAG.VI,24.1,25.6,3,860441664,Aluminum,Basic Materials
-VONN.SW,59.5,62.66667,3,3505919488,Asset Management,Financial Services
-REHN.SW,42.2,46.1,3,1110985984,Utilities - Renewable,Utilities
+VONN.SW,59.8,62.66667,3,3464176640,Asset Management,Financial Services
+ICGT.L,1517.545,1603.3331,3,961623232,Asset Management,Financial Services
+AMAG.VI,24.2,25.6,3,856900736,Aluminum,Basic Materials
 SBT.PA,9.24,9.96667,3,591887168,Beverages - Wineries & Distilleries,Consumer Defensive
-GIMB.BR,45.8,50.0,3,1742950144,Asset Management,Financial Services
-TESB.BR,26.2,28.33333,3,1588158336,Agricultural Inputs,Basic Materials
-THRL.L,95.7303,107.00001,3,593755072,REIT - Healthcare Facilities,Real Estate
-CHRY.L,118.522,133.33301,3,620013696,Asset Management,Financial Services
-GBF.DE,91.6,101.33333,3,3505841152,Engineering & Construction,Industrials
-GCP.L,73.4,82.333,3,614572096,Asset Management,Financial Services
-PINT.L,107.353,119.66701,3,503082976,Asset Management,Financial Services
-FLU.VI,52.8,58.73333,3,4496715264,Airports & Air Services,Industrials
-GNC.L,226.5,258.33298,3,1060611776,Packaged Foods,Consumer Defensive
-OERL.SW,3.08,3.5,3,1002187840,Specialty Industrial Machinery,Industrials
-KSB3.DE,920.0,1077.6666,3,1617776768,Specialty Industrial Machinery,Industrials
-BAMNB.AS,7.53,8.83333,3,2133152256,Engineering & Construction,Industrials
-WAGA.PA,22.2,26.33333,3,569124672,Specialty Industrial Machinery,Industrials
-SVS.L,980.0,1161.0,3,1369539584,Real Estate Services,Real Estate
-HAL.AS,136.2,161.33333,3,12341936128,Asset Management,Financial Services
-ALVDM.PA,162.0,199.66667,3,740571328,Travel Services,Consumer Cyclical
-LPE.PA,93.6,113.33333,3,548457984,Beverages - Wineries & Distilleries,Consumer Defensive
-THEP.PA,73.5,89.16667,3,707379456,Industrial Distribution,Industrials
-MPE.L,1360.0,1560.4509,3,739734912,Farm Products,Consumer Defensive
-MED.SW,74.5,92.3,3,1006693312,Medical Devices,Healthcare
-WAVE.PA,49.25,60.83333,3,1266495872,Information Technology Services,Technology
-ZEHN.SW,70.3,84.53219,3,799366528,Building Products & Equipment,Industrials
-MBB.DE,193.8,230.63333,3,1054016384,Conglomerates,Industrials
-MAU.PA,4.844,6.0,3,969856448,Oil & Gas E&P,Energy
-ASY.PA,41.15,51.66667,3,658293312,Engineering & Construction,Industrials
-MMK.VI,71.2,90.06667,3,1577026688,Packaging & Containers,Consumer Cyclical
-CRN.L,168.88,210.42966,3,1069483840,Residential Construction,Consumer Cyclical
-NRG.PA,8.28,9.96667,3,659187712,Broadcasting,Communication Services
-BOL.PA,4.72,6.1,3,13551232000,Entertainment,Communication Services
-SOF.BR,240.8,311.33334,3,8866251776,Asset Management,Financial Services
+TESB.BR,25.95,28.33333,3,1573004160,Agricultural Inputs,Basic Materials
+GIMB.BR,45.9,50.0,3,1729574528,Asset Management,Financial Services
+REHN.SW,41.8,46.1,3,1105695616,Utilities - Renewable,Utilities
+GBF.DE,91.1,101.33333,3,3486704384,Engineering & Construction,Industrials
+THRL.L,97.955,107.00001,3,607553536,REIT - Healthcare Facilities,Real Estate
+CHRY.L,120.6,133.33301,3,614116480,Asset Management,Financial Services
+GCP.L,73.896,82.333,3,617725120,Asset Management,Financial Services
+FLU.VI,52.8,58.73333,3,4479486464,Airports & Air Services,Industrials
+PINT.L,105.2956,119.66701,3,493441504,Asset Management,Financial Services
+MPE.L,1372.5,1601.9747,3,716119552,Farm Products,Consumer Defensive
+OERL.SW,3.044,3.5,3,990473920,Specialty Industrial Machinery,Industrials
+GNC.L,230.5,258.33298,3,1079342336,Packaged Foods,Consumer Defensive
+KSB3.DE,966.0,1077.6666,3,1698665600,Specialty Industrial Machinery,Industrials
+BAMNB.AS,7.59,8.83333,3,2150149376,Engineering & Construction,Industrials
+WAGA.PA,22.35,26.33333,3,572970112,Specialty Industrial Machinery,Industrials
+HAL.AS,135.8,161.33333,3,12305689600,Asset Management,Financial Services
+SVS.L,986.0,1161.0,3,1375115392,Real Estate Services,Real Estate
+MBB.DE,190.2,230.63333,3,1034437120,Conglomerates,Industrials
+ZEHN.SW,70.4,84.20038,3,791354944,Building Products & Equipment,Industrials
+WAVE.PA,50.2,60.83333,3,1266398208,Information Technology Services,Technology
+NRG.PA,8.04,9.96667,3,622757888,Broadcasting,Communication Services
+LPE.PA,94.0,113.33333,3,550801856,Beverages - Wineries & Distilleries,Consumer Defensive
+THEP.PA,74.2,89.16667,3,702536128,Industrial Distribution,Industrials
+MED.SW,73.4,92.3,3,1014863744,Medical Devices,Healthcare
+ALVDM.PA,160.0,199.66667,3,735971520,Travel Services,Consumer Cyclical
+MAU.PA,4.94,6.0,3,989077376,Oil & Gas E&P,Energy
+CRN.L,173.8,210.91833,3,1100641280,Residential Construction,Consumer Cyclical
+MMK.VI,72.3,90.06667,3,1567795328,Packaging & Containers,Consumer Cyclical
+ASY.PA,41.3,51.66667,3,660692928,Engineering & Construction,Industrials
+SOF.BR,243.2,311.33334,3,8954619904,Asset Management,Financial Services
+BOL.PA,4.726,6.1,3,13568458752,Entertainment,Communication Services
 MTRO.L,113.0,148.33301,3,801936576,Banks - Regional,Financial Services
-ENRGY.BR,10.0,13.5,3,605498816,Utilities - Renewable,Utilities
-74SW.PA,35.2,49.46667,3,1053639232,Software - Application,Technology
-WAC.DE,18.2,25.0,3,1294084224,Farm & Heavy Construction Machinery,Industrials
-SEPL.L,280.5,389.09814,3,1901773312,Oil & Gas E&P,Energy
-MTLN.L,42.1,58.33333,3,6452401152,Utilities - Diversified,Utilities
-COPN.SW,63.0,88.15999,3,1086222464,Drug Manufacturers - General,Healthcare
-PEUG.PA,70.8,100.66667,3,1844627200,Asset Management,Financial Services
-FERGR.AS,8.14,11.63333,3,762308032,Integrated Freight & Logistics,Industrials
-RPI.L,348.4,494.1019,3,717047232,Electronic Components,Technology
-UKW.L,99.65,144.0,3,2281788672,Utilities - Renewable,Utilities
-CHRT.L,1248.0,1806.667,3,612423552,Aerospace & Defense,Industrials
-SEM.LS,17.76,26.3,3,1453821568,Paper & Paper Products,Basic Materials
-RNK.L,114.64,172.33301,3,559658176,Gambling,Consumer Cyclical
-MMB.PA,18.52,27.83333,3,2678063104,Specialty Retail,Consumer Cyclical
-DIA.MC,27.4,41.4,3,1684957312,Discount Stores,Consumer Defensive
-MLP.DE,6.15,11.26667,3,695361280,Asset Management,Financial Services
-LEHN.SW,422.5,765.0,3,514149536,Electronic Components,Technology
-VALT.L,4890.0,3975.0,4,13046041600,Other Precious Metals & Mining,Basic Materials
-EGL.LS,5.915,5.1475,4,1898426880,Engineering & Construction,Industrials
-SMSN.IL,1736.0,1476.26,4,471683366912,Consumer Electronics,Technology
-VIRI.PA,117.2,101.29357,4,841519424,Oil & Gas Equipment & Services,Energy
+WAC.DE,18.04,25.0,3,1282707712,Farm & Heavy Construction Machinery,Industrials
+ENRGY.BR,10.1,13.5,3,623784896,Utilities - Renewable,Utilities
+MTLN.L,41.85,58.33333,3,6314464256,Utilities - Diversified,Utilities
+COPN.SW,63.8,87.82055,3,1075877504,Drug Manufacturers - General,Healthcare
+SEPL.L,282.5,390.5743,3,1891175808,Oil & Gas E&P,Energy
+74SW.PA,34.7,49.46667,3,1047652736,Software - Application,Technology
+RPI.L,351.2,495.96332,3,713178176,Electronic Components,Technology
+PEUG.PA,71.2,100.66667,3,1855048704,Asset Management,Financial Services
+FERGR.AS,8.19,11.63333,3,767931584,Integrated Freight & Logistics,Industrials
+UKW.L,100.7,144.0,3,2287440128,Utilities - Renewable,Utilities
+CHRT.L,1263.4667,1806.667,3,620013376,Aerospace & Defense,Industrials
+SEM.LS,17.64,26.3,3,1432641152,Paper & Paper Products,Basic Materials
+MMB.PA,18.86,27.83333,3,2727228416,Specialty Retail,Consumer Cyclical
+RNK.L,115.6,172.33301,3,564344768,Gambling,Consumer Cyclical
+DIA.MC,27.45,41.4,3,1666430208,Discount Stores,Consumer Defensive
+VALT.L,4880.0,3975.0,4,12882321408,Other Precious Metals & Mining,Basic Materials
+SMSN.IL,1770.0,1476.26,4,480921419776,Consumer Electronics,Technology
+VIRI.PA,114.2,101.43428,4,819978816,Oil & Gas Equipment & Services,Energy
+EGL.LS,5.905,5.1475,4,1835991936,Engineering & Construction,Industrials
 FQT.DE,73.4,67.485,4,974464320,Communication Equipment,Technology
-ERA.PA,54.15,50.25,4,1735036928,Other Industrial Metals & Mining,Basic Materials
-ATO.PA,46.4,43.0,4,1022847104,Information Technology Services,Technology
-CENER.BR,15.18,14.175,4,3222904064,Electrical Equipment & Parts,Industrials
-ENO.MC,28.45,27.7875,4,2447908864,Engineering & Construction,Industrials
-VIG.VI,44.1,44.125,4,5741568000,Insurance - Diversified,Financial Services
-VCT.PA,65.9,67.25,4,2939557888,Building Materials,Basic Materials
-CCEP.L,6940.0,7186.8325,4,31286652928,Beverages - Non-Alcoholic,Consumer Defensive
-ABVX.PA,91.3,93.29075,4,7306735616,Biotechnology,Healthcare
-HELN.SW,202.0,212.0,4,10685693952,Insurance - Diversified,Financial Services
-UQA.VI,12.88,13.775,4,3953712384,Insurance - Diversified,Financial Services
-FERG.L,19070.0,20008.518,4,37804314624,Industrial Distribution,Industrials
-TAM.L,751.1,836.25,4,456886848,Asset Management,Financial Services
-BALN.SW,204.2,218.15,4,9260846080,Insurance - Diversified,Financial Services
-NANO.PA,18.18,18.8025,4,921876416,Biotechnology,Healthcare
-DEQ.DE,18.7,20.725,4,1416410112,Real Estate Services,Real Estate
-RKH.L,80.4,88.725,4,531802528,Oil & Gas E&P,Energy
-CAI.VI,23.92,26.975,4,2313758976,Real Estate Services,Real Estate
-3IN.L,354.5,400.75003,4,3320747776,Asset Management,Financial Services
-PLUS.L,3028.0,3417.838,4,2214087680,Capital Markets,Financial Services
-BKW.SW,169.7,191.75,4,9627866112,Utilities - Renewable,Utilities
-FAE.MC,4.44,5.175,4,1402439040,Drug Manufacturers - Specialty & Generic,Healthcare
-KWS.DE,66.7,78.5,4,2241363968,Agricultural Inputs,Basic Materials
-FGP.L,205.1987,242.5,4,1149527680,Railroads,Industrials
-BUCN.SW,353.0,418.5,4,3675890944,Specialty Industrial Machinery,Industrials
-FLOW.AS,23.54,28.6675,4,1021545088,Capital Markets,Financial Services
-BSL.DE,15.8,18.475,4,538832704,Consumer Electronics,Technology
-CTT.LS,7.49,9.3125,4,1010764224,Integrated Freight & Logistics,Industrials
-EVN.VI,26.8,32.925,4,4778606080,Utilities - Diversified,Utilities
-COFA.PA,14.7,18.05,4,2304596736,Insurance - Reinsurance,Financial Services
-WSU.DE,41.3,53.75,4,552689984,Specialty Industrial Machinery,Industrials
-OHLA.MC,0.4115,0.52875,4,639017856,Engineering & Construction,Industrials
-PPH.L,1496.0,1920.1835,4,626170624,Lodging,Consumer Cyclical
-PAT.DE,7.22,9.525,4,624219136,Real Estate Services,Real Estate
-DEZ.DE,8.06,10.7,4,1214568576,Specialty Industrial Machinery,Industrials
-VPK.AS,37.48,51.75,4,4524023296,Oil & Gas Midstream,Energy
-RNWH.L,919.92,1262.5,4,738546560,Engineering & Construction,Industrials
-NVG.LS,3.05,4.2,4,2169108224,Paper & Paper Products,Basic Materials
-EQS.PA,41.1,56.175,4,617790528,Health Information Services,Healthcare
-VAC.PA,1.586,2.225,4,762519360,Lodging,Consumer Cyclical
-GGP.L,385.55554,527.2637,4,2586120448,Gold,Basic Materials
-MF.PA,78.35,112.25,4,3503977472,Asset Management,Financial Services
-TEP.L,1722.0,2553.75,4,1425546752,Utilities - Diversified,Utilities
-KCO.DE,5.38,8.0375,4,562016768,Steel,Basic Materials
-PHARM.AS,1.452,2.1125,4,994834304,Biotechnology,Healthcare
-MUM.DE,41.7,61.75,4,696515712,Software - Application,Technology
-PBB.DE,4.02,5.975,4,621746752,Mortgage Finance,Financial Services
-KIN.BR,30.65,47.0,4,819845056,Entertainment,Communication Services
-TBCG.L,3942.5,6033.3296,4,2479824128,Banks - Regional,Financial Services
-MUX.DE,26.95,42.875,4,602422848,Asset Management,Financial Services
-GLJ.DE,14.76,23.25,4,678402368,Credit Services,Financial Services
-IVA.PA,3.565,7.95,4,527313536,Biotechnology,Healthcare
-HSBK.IL,25.5,16.32,5,6938116608,Banks - Regional,Financial Services
-S92.DE,28.72,18.8,5,996584000,Solar,Technology
-ATS.VI,29.2,20.8,5,1327950848,Electronic Components,Technology
-VBK.DE,17.02,13.26,5,1084437504,Specialty Chemicals,Basic Materials
-VH2.DE,89.1,76.24,5,1849096192,Engineering & Construction,Industrials
-PHLL.L,313.0,285.48,5,3385746432,Asset Management,Financial Services
-N91.L,226.8,209.59999,5,2045140864,Asset Management,Financial Services
-ENOG.L,1025.0,985.4,5,1888879872,Oil & Gas E&P,Energy
-EMEIS.PA,14.0,12.98,5,2515485952,Medical Care Facilities,Healthcare
-TLX.DE,108.3,105.4,5,27966199808,Insurance - Diversified,Financial Services
-CEC.DE,4.46,4.53,5,2164086016,Specialty Retail,Consumer Cyclical
-SPSN.SW,115.4,118.8,5,9258873856,Real Estate - Diversified,Real Estate
-AUTN.SW,151.2,152.8,5,934181312,Auto Parts,Consumer Cyclical
-SUPR.L,81.087,83.8,5,1010537984,REIT - Retail,Real Estate
-SZU.DE,9.655,10.22,5,1970891008,Packaged Foods,Consumer Defensive
-DBG.PA,5.83,6.28,5,961891968,Waste Management,Industrials
-VLX.L,373.0,403.0069,5,700918272,Electrical Equipment & Parts,Industrials
-INRN.SW,2445.0,2696.8,5,2081729280,Specialty Industrial Machinery,Industrials
-CHG.L,532.0,616.0,5,1510522240,Aerospace & Defense,Industrials
-CICN.SW,188.5,211.2,5,987123968,Electronic Components,Technology
-LOUP.PA,89.8,104.2,5,3206217472,Farm Products,Consumer Defensive
-STF.PA,121.6,139.06,5,1550737408,Integrated Freight & Logistics,Industrials
-ROSE.L,354.993,414.27505,5,1443428736,Asset Management,Financial Services
-YSN.DE,190.2,220.0,5,1316501760,Software - Infrastructure,Technology
-BEKB.BR,35.7,41.9,5,1834625664,Metal Fabrication,Industrials
-ACT.DE,142.0,167.1,5,1675371776,Specialty Chemicals,Basic Materials
-AUB.PA,48.55,57.4,5,653165760,Information Technology Services,Technology
-SNR.L,190.928,224.0,5,802773952,Aerospace & Defense,Industrials
-POLN.L,889.7201,1064.6,5,535509152,Asset Management,Financial Services
-SRE.L,102.0,121.65228,5,1535540608,Real Estate Services,Real Estate
-INVP.L,582.5,686.0,5,3720511744,Capital Markets,Financial Services
-BGEO.L,7647.5,9119.2,5,3516232192,Banks - Regional,Financial Services
-LAND.SW,55.6,66.18674,5,1694660096,Electrical Equipment & Parts,Industrials
-ALTR.LS,4.88,5.89,5,1010283008,Paper & Paper Products,Basic Materials
-BAR.BR,12.35,14.7,5,1067957952,Electronic Components,Technology
-BB.PA,47.75,57.9,5,2009932288,Household & Personal Products,Consumer Defensive
-CSN.L,277.5,339.59998,5,640354048,Insurance - Life,Financial Services
-DRW3.DE,67.6,84.0,5,1251261952,Medical Devices,Healthcare
-FAGR.BR,20.7,25.3,5,1522610560,Drug Manufacturers - Specialty & Generic,Healthcare
-GFRD.L,492.5,598.0,5,518441856,Engineering & Construction,Industrials
-AMG.AS,26.0,32.48679,5,972643328,Other Industrial Metals & Mining,Basic Materials
-MERY.PA,10.64,13.2,5,992774912,REIT - Retail,Real Estate
-NK.PA,21.66,26.4,5,1862521856,Building Materials,Basic Materials
-RBT.PA,835.0,1035.2,5,1759829248,Chemicals,Basic Materials
-BNJ.AS,9.55,12.38,5,4561093632,Entertainment,Communication Services
-LNZ.VI,21.7,27.4,5,1004456256,Textile Manufacturing,Consumer Cyclical
-LSS.PA,22.9,29.9,5,885846016,Software - Application,Technology
-GROW.L,446.126,574.634,5,827229376,Asset Management,Financial Services
-VOW.DE,97.15,124.4,5,46755766272,Auto Manufacturers,Consumer Cyclical
-TCAP.L,251.0,327.6,5,1963681536,Capital Markets,Financial Services
-CMCX.L,212.5,279.4,5,589987648,Capital Markets,Financial Services
-EMMN.SW,723.0,941.4,5,3867912704,Packaged Foods,Consumer Defensive
-2GB.DE,28.1,36.0,5,531611104,Specialty Industrial Machinery,Industrials
-SFSN.SW,102.4,134.2,5,4269707008,Tools & Accessories,Industrials
-HWG.L,165.5,218.0,5,538171840,Real Estate - Development,Real Estate
-THEON.AS,28.1,37.72,5,2213327872,Aerospace & Defense,Industrials
-ZIG.L,348.0,476.00003,5,794178816,Rental & Leasing Services,Industrials
-TRIG.L,73.1,101.2,5,1872259456,Utilities - Renewable,Utilities
-JSG.L,137.0,190.0,5,531068800,Specialty Business Services,Industrials
-BCHN.SW,524.0,727.8,5,1893249792,Specialty Industrial Machinery,Industrials
-JST.DE,49.25,68.4,5,762513600,Auto Parts,Consumer Cyclical
-PAL.VI,30.4,43.98,5,1128063744,Farm & Heavy Construction Machinery,Industrials
-GF.SW,51.85,74.8,5,4733244416,Specialty Industrial Machinery,Industrials
-INH.DE,21.85,32.2,5,573337088,Conglomerates,Industrials
-ARAMI.PA,6.45,9.82,5,530605376,Auto & Truck Dealerships,Consumer Cyclical
-PPGN.SW,24.35,35.552803,5,894513408,Drug Manufacturers - Specialty & Generic,Healthcare
-SFQ.DE,13.72,20.72,5,647612032,Auto Parts,Consumer Cyclical
+ERA.PA,53.35,50.25,4,1709403776,Other Industrial Metals & Mining,Basic Materials
+ATO.PA,45.3,43.0,4,998598528,Information Technology Services,Technology
+CENER.BR,14.96,14.175,4,3198009856,Electrical Equipment & Parts,Industrials
+ENO.MC,28.2,27.7875,4,2387815936,Engineering & Construction,Industrials
+VIG.VI,44.4,44.125,4,5689592832,Insurance - Diversified,Financial Services
+ABVX.PA,90.2,93.29075,4,7218702336,Biotechnology,Healthcare
+VCT.PA,66.9,67.25,4,2984164096,Building Materials,Basic Materials
+NANO.PA,18.72,18.8025,4,949258816,Biotechnology,Healthcare
+CCEP.L,6970.0,7205.488,4,31406876672,Beverages - Non-Alcoholic,Consumer Defensive
+HELN.SW,205.0,212.0,4,10844392448,Insurance - Diversified,Financial Services
+FERG.L,19180.0,20083.895,4,38022377472,Industrial Distribution,Industrials
+BALN.SW,207.0,218.15,4,9387831296,Insurance - Diversified,Financial Services
+UQA.VI,13.02,13.775,4,3996687616,Insurance - Diversified,Financial Services
+RKH.L,80.6,88.725,4,527820672,Oil & Gas E&P,Energy
+DEQ.DE,18.52,20.725,4,1402776192,Real Estate Services,Real Estate
+TAM.L,753.6923,836.25,4,458463712,Asset Management,Financial Services
+BKW.SW,168.5,191.75,4,9463621632,Utilities - Renewable,Utilities
+CAI.VI,23.92,26.975,4,2327392256,Real Estate Services,Real Estate
+3IN.L,361.0,405.75,4,3362557696,Asset Management,Financial Services
+PLUS.L,2992.0,3430.9385,4,2199424512,Capital Markets,Financial Services
+BSL.DE,16.38,18.725,4,558612608,Consumer Electronics,Technology
+FAE.MC,4.47,5.175,4,1397604992,Drug Manufacturers - Specialty & Generic,Healthcare
+BUCN.SW,355.5,418.5,4,3670462720,Specialty Industrial Machinery,Industrials
+FGP.L,208.2,242.5,4,1166341120,Railroads,Industrials
+KWS.DE,64.6,78.5,4,2170796288,Agricultural Inputs,Basic Materials
+FLOW.AS,23.5,28.6675,4,1019809216,Capital Markets,Financial Services
+COFA.PA,14.8,18.05,4,2320274432,Insurance - Reinsurance,Financial Services
+EVN.VI,26.95,32.925,4,4805352448,Utilities - Diversified,Utilities
+PRS.MC,0.374,0.4425,4,517455200,Publishing,Communication Services
+CTT.LS,7.4,9.3125,4,998618880,Integrated Freight & Logistics,Industrials
+PPH.L,1494.94,1925.3427,4,625726912,Lodging,Consumer Cyclical
+OHLA.MC,0.425,0.52875,4,638717696,Engineering & Construction,Industrials
+WSU.DE,41.9,53.75,4,560719424,Specialty Industrial Machinery,Industrials
+DEZ.DE,7.99,10.7,4,1204020096,Specialty Industrial Machinery,Industrials
+PAT.DE,7.19,9.525,4,627685824,Real Estate Services,Real Estate
+GGP.L,398.275,528.68805,4,2671436288,Gold,Basic Materials
+RNWH.L,936.244,1262.5,4,751652096,Engineering & Construction,Industrials
+EQS.PA,41.55,56.175,4,624554688,Health Information Services,Healthcare
+NVG.LS,3.042,4.2,4,2163418880,Paper & Paper Products,Basic Materials
+VPK.AS,37.74,51.75,4,4555406848,Oil & Gas Midstream,Energy
+VAC.PA,1.592,2.225,4,754773440,Lodging,Consumer Cyclical
+MF.PA,78.7,112.25,4,3519630080,Asset Management,Financial Services
 SENS.SW,58.5,85.0,4,917771520,Scientific & Technical Instruments,Technology
+PHARM.AS,1.424,2.1125,4,975650176,Biotechnology,Healthcare
+PBB.DE,4.112,5.975,4,635975808,Mortgage Finance,Financial Services
+MUM.DE,41.7,61.75,4,696515712,Software - Application,Technology
+TEP.L,1730.0,2553.75,4,1422235520,Utilities - Diversified,Utilities
+KCO.DE,5.18,8.0375,4,541123904,Steel,Basic Materials
+KIN.BR,30.6,47.0,4,818507648,Entertainment,Communication Services
+TBCG.L,3915.0,5863.1704,4,2462526720,Banks - Regional,Financial Services
+GLJ.DE,14.84,23.25,4,682079360,Credit Services,Financial Services
+MUX.DE,26.35,42.875,4,589010816,Asset Management,Financial Services
+HSBK.IL,25.65,16.32,5,6978929152,Banks - Regional,Financial Services
+S92.DE,28.78,18.8,5,998666048,Solar,Technology
+ATS.VI,30.0,20.8,5,1263441152,Electronic Components,Technology
+VBK.DE,17.15,13.26,5,1092720512,Specialty Chemicals,Basic Materials
+VH2.DE,90.3,76.24,5,1874000000,Engineering & Construction,Industrials
+EMEIS.PA,14.33,12.98,5,2574779648,Medical Care Facilities,Healthcare
+PHLL.L,314.0,285.48,5,3396563712,Asset Management,Financial Services
+N91.L,224.0,209.59999,5,2001776512,Asset Management,Financial Services
+ENOG.L,1020.4153,985.4,5,1880430976,Oil & Gas E&P,Energy
+TLX.DE,109.5,105.4,5,28276074496,Insurance - Diversified,Financial Services
+AUTN.SW,152.4,152.8,5,926767232,Auto Parts,Consumer Cyclical
+CEC.DE,4.45,4.53,5,2159233792,Specialty Retail,Consumer Cyclical
+SUPR.L,80.9098,83.8,5,1008329600,REIT - Retail,Real Estate
+SPSN.SW,116.2,118.8,5,9323059200,Real Estate - Diversified,Real Estate
+SZU.DE,9.575,10.22,5,1954560512,Packaged Foods,Consumer Defensive
+VLX.L,368.163,404.55173,5,691828928,Electrical Equipment & Parts,Industrials
+DBG.PA,5.85,6.28,5,940400896,Waste Management,Industrials
+INRN.SW,2420.0,2696.8,5,2035161856,Specialty Industrial Machinery,Industrials
+CICN.SW,186.5,211.2,5,968752960,Electronic Components,Technology
+STF.PA,121.4,139.06,5,1535392000,Integrated Freight & Logistics,Industrials
+YSN.DE,180.6,220.0,5,1254099456,Software - Infrastructure,Technology
+CHG.L,529.0,608.0,5,1502004224,Aerospace & Defense,Industrials
+LOUP.PA,91.8,104.2,5,3227144960,Farm Products,Consumer Defensive
+ACT.DE,141.4,167.1,5,1668292736,Specialty Chemicals,Basic Materials
+BGEO.L,7995.0,9119.2,5,3529433856,Banks - Regional,Financial Services
+SNR.L,192.131,224.0,5,796777600,Aerospace & Defense,Industrials
+AUB.PA,49.75,57.4,5,658949120,Information Technology Services,Technology
+BEKB.BR,35.8,41.9,5,1839764480,Metal Fabrication,Industrials
+INVP.L,588.0,686.0,5,3755641088,Capital Markets,Financial Services
+ROSE.L,355.0,415.9233,5,1443457152,Asset Management,Financial Services
+LAND.SW,55.1,66.019165,5,1679420416,Electrical Equipment & Parts,Industrials
+SRE.L,102.9,121.9611,5,1549089536,Real Estate Services,Real Estate
+BAR.BR,12.43,14.7,5,1074875904,Electronic Components,Technology
+POLN.L,898.0,1064.6,5,540492672,Asset Management,Financial Services
+ALTR.LS,4.86,5.89,5,1006142528,Paper & Paper Products,Basic Materials
+NCC.L,146.445,175.2,5,461118144,Software - Infrastructure,Technology
+GFRD.L,498.5,598.0,5,516285536,Engineering & Construction,Industrials
+NK.PA,22.22,26.4,5,1910675712,Building Materials,Basic Materials
+BB.PA,47.25,57.9,5,1988885888,Household & Personal Products,Consumer Defensive
+CSN.L,276.5,339.59998,5,638171456,Insurance - Life,Financial Services
+FAGR.BR,20.55,25.3,5,1511577088,Drug Manufacturers - Specialty & Generic,Healthcare
+RBT.PA,858.0,1035.2,5,1808303616,Chemicals,Basic Materials
+DRW3.DE,68.0,84.0,5,1258665856,Medical Devices,Healthcare
+MERY.PA,10.62,13.2,5,990908800,REIT - Retail,Real Estate
+AMG.AS,25.2,32.565517,5,942715904,Other Industrial Metals & Mining,Basic Materials
+VOW.DE,97.2,124.4,5,46779830272,Auto Manufacturers,Consumer Cyclical
+LNZ.VI,20.45,27.4,5,992435840,Textile Manufacturing,Consumer Cyclical
+GROW.L,442.4,574.634,5,820320448,Asset Management,Financial Services
+2GB.DE,28.45,36.0,5,538232576,Specialty Industrial Machinery,Industrials
+LSS.PA,22.35,29.9,5,864570240,Software - Application,Technology
+TCAP.L,250.75,327.6,5,1961725568,Capital Markets,Financial Services
+EMMN.SW,728.0,941.4,5,3894661632,Packaged Foods,Consumer Defensive
+SFSN.SW,102.2,134.2,5,4228075264,Tools & Accessories,Industrials
+BNJ.AS,9.45,12.38,5,4320249856,Entertainment,Communication Services
+CMCX.L,210.92,279.4,5,586988608,Capital Markets,Financial Services
+HWG.L,166.525,218.0,5,541504896,Real Estate - Development,Real Estate
+THEON.AS,28.35,36.72,5,2112420608,Aerospace & Defense,Industrials
+ZIG.L,352.0,476.00003,5,800992320,Rental & Leasing Services,Industrials
+JST.DE,49.2,68.4,5,754751104,Auto Parts,Consumer Cyclical
+TRIG.L,74.2,101.2,5,1869489792,Utilities - Renewable,Utilities
+JSG.L,137.4,190.0,5,530533632,Specialty Business Services,Industrials
+BCHN.SW,521.0,721.8,5,1889678464,Specialty Industrial Machinery,Industrials
+GF.SW,53.0,74.8,5,4699593728,Specialty Industrial Machinery,Industrials
+PAL.VI,30.1,43.98,5,1118768640,Farm & Heavy Construction Machinery,Industrials
+PPGN.SW,23.25,35.411724,5,846850560,Drug Manufacturers - Specialty & Generic,Healthcare
+INH.DE,21.45,32.2,5,562841216,Conglomerates,Industrials
+SFQ.DE,13.54,20.72,5,639115648,Auto Parts,Consumer Cyclical
+ARAMI.PA,6.48,9.82,5,533073312,Auto & Truck Dealerships,Consumer Cyclical
 SCHP.PA,66.2,102.2,5,552632000,Waste Management,Industrials
-VLA.PA,3.84,6.3,5,728670784,Biotechnology,Healthcare
-KOS.L,107.0,240.85098,5,570637568,Oil & Gas E&P,Energy
-ITH.L,231.4,184.35654,6,3812098816,Oil & Gas E&P,Energy
-MVC.MC,11.8,9.93833,6,1788647424,Real Estate - Development,Real Estate
-PSAN.DE,45.1,40.66667,6,703391360,Software - Application,Technology
-DWL.L,83.804,76.1,6,1098740096,Auto Parts,Consumer Cyclical
-THG.L,44.74,43.667,6,631105280,Internet Retail,Consumer Cyclical
-JTC.L,1296.0,1269.167,6,2172076800,Asset Management,Financial Services
-GALE.SW,86.5,86.16667,6,4332550656,Medical Distribution,Healthcare
-SON.LS,1.432,1.43333,6,2775695104,Grocery Stores,Consumer Defensive
+KOS.L,111.5,241.83449,5,594636416,Oil & Gas E&P,Energy
+ITH.L,235.09,185.10936,6,3872888320,Oil & Gas E&P,Energy
+MVC.MC,11.75,9.93833,6,1781068416,Real Estate - Development,Real Estate
+PSAN.DE,44.9,40.66667,6,700272128,Software - Application,Technology
+DWL.L,83.192,76.1,6,1090716160,Auto Parts,Consumer Cyclical
+THG.L,45.3,43.667,6,639004608,Internet Retail,Consumer Cyclical
+JTC.L,1298.0,1282.5,6,2182122496,Asset Management,Financial Services
+GALE.SW,86.7,86.16667,6,4320002560,Medical Distribution,Healthcare
+SON.LS,1.43,1.43333,6,2771818240,Grocery Stores,Consumer Defensive
+AVON.L,1869.52,1950.7139,7,567738240,Aerospace & Defense,Industrials
 GCO.MC,49.55,50.44167,6,5848025600,Insurance - Diversified,Financial Services
-AVON.L,1854.0801,1892.4999,6,564257664,Aerospace & Defense,Industrials
-SHELL.AS,32.75,34.654938,6,188035825664,Oil & Gas Integrated,Energy
-ELG.DE,92.0,99.66667,6,1577081344,Semiconductors,Technology
-MGNS.L,4415.8,4947.5,6,2200432128,Engineering & Construction,Industrials
-TKA.VI,9.01,10.13333,6,6115927552,Telecom Services,Communication Services
-HILS.L,2125.0,2409.167,6,1744329984,Engineering & Construction,Industrials
-RRTL.DE,33.05,37.0,6,5288150016,Broadcasting,Communication Services
+ITV.L,80.45,79.667,6,3159459328,Broadcasting,Communication Services
+JUST.L,212.5,218.033,6,2207243520,Insurance - Specialty,Financial Services
+SHELL.AS,33.09,34.55748,6,189939417088,Oil & Gas Integrated,Energy
+ELG.DE,91.8,99.66667,6,1573652864,Semiconductors,Technology
+MGNS.L,4475.0,4947.5,6,2192433152,Engineering & Construction,Industrials
+RRTL.DE,33.2,37.0,6,5312151040,Broadcasting,Communication Services
+TKA.VI,9.1,10.13333,6,6129503232,Telecom Services,Communication Services
 HOME.MC,17.14,19.475,6,1688857600,Real Estate - Development,Real Estate
-SRAIL.SW,18.85,21.85,6,1985779968,Railroads,Industrials
-FUR.AS,8.36,10.0,6,1007884928,Oil & Gas Equipment & Services,Energy
-LDA.MC,1.124,1.31833,6,1262776832,Insurance - Property & Casualty,Financial Services
-QIA.DE,37.7,44.0,6,8860218368,Diagnostics & Research,Healthcare
-ACKB.BR,220.6,254.83333,6,7413000192,Engineering & Construction,Industrials
-MMT.PA,12.14,14.41667,6,1526049664,Broadcasting,Communication Services
-GBLB.BR,72.4,83.23333,6,9364589568,Asset Management,Financial Services
-KIE.L,214.56,259.833,6,969448960,Engineering & Construction,Industrials
-ARG.PA,67.3,80.33333,6,1749133056,REIT - Industrial,Real Estate
-FCC.MC,11.12,13.55,6,5547587072,Waste Management,Industrials
+HILS.L,2150.0,2409.167,6,1764851328,Engineering & Construction,Industrials
+ACKB.BR,223.6,254.83333,6,7513811456,Engineering & Construction,Industrials
+GBLB.BR,73.4,83.23333,6,9493935104,Asset Management,Financial Services
+SRAIL.SW,18.73,21.85,6,1956399104,Railroads,Industrials
+LDA.MC,1.112,1.31833,6,1242602624,Insurance - Property & Casualty,Financial Services
+QIA.DE,37.465,44.0,6,8804987904,Diagnostics & Research,Healthcare
+MMT.PA,12.16,14.41667,6,1528563584,Broadcasting,Communication Services
+ARG.PA,67.0,80.33333,6,1741335936,REIT - Industrial,Real Estate
+FUR.AS,8.32,9.9,5,1003062464,Oil & Gas Equipment & Services,Energy
+KIE.L,217.0,259.833,6,946429440,Engineering & Construction,Industrials
+FCC.MC,11.36,13.55,6,5506258944,Waste Management,Industrials
 CDA.PA,20.05,24.4,6,1018716992,Leisure,Consumer Cyclical
-EMSN.SW,544.0,667.1667,6,12875659264,Specialty Chemicals,Basic Materials
-AO.L,104.6,131.16699,6,607095040,Specialty Retail,Consumer Cyclical
-KLR.L,1476.0,1877.5,6,1115705728,Engineering & Construction,Industrials
-CRBN.AS,17.69,22.5,6,1028374400,Specialty Chemicals,Basic Materials
-FSG.L,479.5,599.333,6,546495552,Asset Management,Financial Services
-DOKA.SW,64.7,81.13333,6,2857279488,Building Products & Equipment,Industrials
-SBMO.AS,22.04,27.928946,6,3814311424,Oil & Gas Equipment & Services,Energy
-IDL.PA,381.5,493.0,6,2615639040,Specialty Business Services,Industrials
-CARM.PA,16.5,21.28333,6,2298405632,REIT - Retail,Real Estate
-FNAC.PA,28.4,37.16667,6,839659136,Specialty Retail,Consumer Cyclical
-HBH.DE,84.6,108.83333,6,1415359360,Home Improvement Retail,Consumer Cyclical
-TFI.PA,8.005,10.48333,6,1685552640,Broadcasting,Communication Services
-SUN.SW,130.2,171.66667,6,4597538816,Specialty Industrial Machinery,Industrials
-PFD.L,177.6,235.83301,6,1577010304,Packaged Foods,Consumer Defensive
-MRN.PA,20.95,27.71667,6,542263616,Electrical Equipment & Parts,Industrials
-TIMA.DE,49.7,65.5,6,1048667648,Gambling,Consumer Cyclical
-DKSH.SW,55.5,74.0,6,3664834048,Consulting Services,Industrials
-MTU.PA,17.52,24.58333,6,673541312,Farm & Heavy Construction Machinery,Industrials
-TNIE.DE,7.97,11.03333,6,1070711168,Leisure,Consumer Cyclical
-FIE.DE,44.45,61.0,6,3902472960,Medical Instruments & Supplies,Healthcare
-ADN1.DE,93.0,127.83333,6,611628608,Information Technology Services,Technology
-CCR.L,137.5608,190.5478,6,507425024,Beverages - Brewers,Consumer Defensive
-RF.PA,55.4,78.33333,6,4024668160,Asset Management,Financial Services
-CWC.DE,97.5,139.0,6,675746944,Personal Services,Consumer Cyclical
+EMSN.SW,550.0,667.1667,6,13029647360,Specialty Chemicals,Basic Materials
+FSG.L,485.5,618.714,7,553308928,Asset Management,Financial Services
+DOKA.SW,64.2,81.13333,6,2848426496,Building Products & Equipment,Industrials
+AO.L,108.6,131.16699,6,623065920,Specialty Retail,Consumer Cyclical
+KLR.L,1486.0,1877.5,6,1112639104,Engineering & Construction,Industrials
+SBMO.AS,21.8,27.964504,6,3772775936,Oil & Gas Equipment & Services,Energy
+CRBN.AS,17.83,22.5,6,1036513024,Specialty Chemicals,Basic Materials
+HBH.DE,84.7,108.83333,6,1417032320,Home Improvement Retail,Consumer Cyclical
+CARM.PA,16.64,21.28333,6,2317907200,REIT - Retail,Real Estate
+IDL.PA,382.0,493.0,6,2594848512,Specialty Business Services,Industrials
+FNAC.PA,28.55,37.16667,6,830719296,Specialty Retail,Consumer Cyclical
+TFI.PA,8.07,10.48333,6,1699239168,Broadcasting,Communication Services
+TIMA.DE,49.1,65.5,6,1036007616,Gambling,Consumer Cyclical
+SUN.SW,132.8,171.66667,6,4610233856,Specialty Industrial Machinery,Industrials
+MRN.PA,21.15,27.71667,6,547440320,Electrical Equipment & Parts,Industrials
+PFD.L,176.0,235.83301,6,1562802944,Packaged Foods,Consumer Defensive
+DKSH.SW,54.8,74.0,6,3605523456,Consulting Services,Industrials
+ADN1.DE,92.1,127.83333,6,605709632,Information Technology Services,Technology
+FIE.DE,43.95,61.0,6,3858575616,Medical Instruments & Supplies,Healthcare
+CCR.L,139.07,191.0771,6,512242080,Beverages - Brewers,Consumer Defensive
+TNIE.DE,8.0,11.03333,6,1074741504,Leisure,Consumer Cyclical
 DMP.DE,33.5,47.0,6,1844323584,Drug Manufacturers - Specialty & Generic,Healthcare
-AALB.AS,26.54,37.875,6,3036836608,Specialty Industrial Machinery,Industrials
-PHM.MC,71.85,102.66667,6,1271285504,Biotechnology,Healthcare
-CLARI.PA,3.462,4.98333,6,1381767552,Medical Care Facilities,Healthcare
-ALSN.SW,220.0,320.0923,6,2869376256,Electronics & Computer Distribution,Technology
-XFAB.PA,4.794,6.8299932,6,730049152,Semiconductors,Technology
-CRE.L,339.5,505.36777,6,534414944,Insurance - Reinsurance,Financial Services
-HFG.L,642.0,999.167,6,578991232,Packaged Foods,Consumer Defensive
-SWR.L,2754.0,4281.51,6,15106614272,Packaging & Containers,Consumer Cyclical
-SXS.L,4106.0,3406.429,7,4081332736,Scientific & Technical Instruments,Technology
-NDA.DE,112.6,94.28571,7,4973272064,Metal Fabrication,Industrials
-NXU.DE,71.2,69.5,7,1229726208,Health Information Services,Healthcare
-BBY.L,667.5,657.143,7,3257040896,Engineering & Construction,Industrials
-JUST.L,212.9998,218.033,6,2212434944,Insurance - Specialty,Financial Services
-ATYM.L,706.0,699.286,7,993758848,Copper,Basic Materials
-ITV.L,78.0924,79.667,6,3066871040,Broadcasting,Communication Services
-BEAN.SW,787.0,852.8571,7,10672036864,Building Products & Equipment,Industrials
-GLPG.AS,27.82,30.68571,7,1878336512,Biotechnology,Healthcare
-POLR.L,574.0,629.286,7,554141440,Asset Management,Financial Services
-MEDCL.PA,31.0,34.87143,7,1248812544,Biotechnology,Healthcare
-PHP.L,97.2496,110.856995,7,2523714304,REIT - Healthcare Facilities,Real Estate
-FAN.L,628.0,711.714,7,1305001472,Building Products & Equipment,Industrials
-HTWS.L,164.8,191.43648,7,1772745216,Telecom Services,Communication Services
-BEN.PA,7.955,9.18571,7,674588800,Recreational Vehicles,Consumer Cyclical
-FRAS.L,705.0,800.714,7,3187704576,Specialty Retail,Consumer Cyclical
-MTO.L,159.2,184.429,7,2114709888,Specialty Business Services,Industrials
-COTN.SW,197.0,224.57143,7,1582305152,Scientific & Technical Instruments,Technology
-FII.PA,46.55,52.95714,7,2397079552,Aerospace & Defense,Industrials
-CKN.L,3540.0,4121.429,7,1124621824,Marine Shipping,Industrials
+MTU.PA,17.68,24.58333,6,679692352,Farm & Heavy Construction Machinery,Industrials
+RF.PA,55.75,78.16667,6,4050094848,Asset Management,Financial Services
+XFAB.PA,4.828,6.837898,6,735226752,Semiconductors,Technology
+CWC.DE,97.4,139.0,6,690491712,Personal Services,Consumer Cyclical
+AALB.AS,26.62,37.875,6,3045990656,Specialty Industrial Machinery,Industrials
+PHM.MC,71.1,102.66667,6,1250982400,Biotechnology,Healthcare
+CLARI.PA,3.42,4.98333,6,1365004416,Medical Care Facilities,Healthcare
+ALSN.SW,220.5,318.79117,6,2849633536,Electronics & Computer Distribution,Technology
+CRE.L,338.0,507.39136,6,532053760,Insurance - Reinsurance,Financial Services
+HFG.L,504.0,999.167,6,454535168,Packaged Foods,Consumer Defensive
+SWR.L,2711.0,4083.4512,6,14870745088,Packaging & Containers,Consumer Cyclical
+SXS.L,4108.0,3406.429,7,4083320832,Scientific & Technical Instruments,Technology
+NDA.DE,111.3,94.28571,7,4915854336,Metal Fabrication,Industrials
+NXU.DE,71.3,69.5,7,1231453440,Health Information Services,Healthcare
+BBY.L,666.5,657.143,7,3251849728,Engineering & Construction,Industrials
+ATYM.L,702.5,699.286,7,988832256,Copper,Basic Materials
+BEAN.SW,809.0,852.8571,7,11026515968,Building Products & Equipment,Industrials
+POLR.L,572.9,629.286,7,553079552,Asset Management,Financial Services
+GLPG.AS,28.12,30.68571,7,1898591872,Biotechnology,Healthcare
+MEDCL.PA,31.14,34.87143,7,1254452352,Biotechnology,Healthcare
+FII.PA,46.4,52.95714,7,2389355520,Aerospace & Defense,Industrials
+FAN.L,629.0,711.714,7,1307079424,Building Products & Equipment,Industrials
+PHP.L,98.074,110.856995,7,2545107968,REIT - Healthcare Facilities,Real Estate
+FRAS.L,703.0,800.714,7,3178661120,Specialty Retail,Consumer Cyclical
+COTN.SW,200.4,224.57143,7,1588688128,Scientific & Technical Instruments,Technology
+BEN.PA,7.77,9.18571,7,658900736,Recreational Vehicles,Consumer Cyclical
+MTO.L,160.2,184.429,7,2133339776,Specialty Business Services,Industrials
+CKN.L,3610.0,4121.429,7,1116595712,Marine Shipping,Industrials
+HTWS.L,162.6,193.27812,6,1712397312,Telecom Services,Communication Services
+UNA.AS,52.82,62.22143,7,129508679680,Household & Personal Products,Consumer Defensive
 AEDAS.MC,21.3,25.15143,7,922383168,Real Estate - Development,Real Estate
-UNA.AS,52.68,62.22143,7,129165410304,Household & Personal Products,Consumer Defensive
-DOCS.L,86.3,102.286,7,903443904,Footwear & Accessories,Consumer Cyclical
-GNS.L,2380.0,2860.5708,7,1638669056,Biotechnology,Healthcare
-GLO.PA,27.9,33.0,7,834931008,Specialty Business Services,Industrials
-DOC.VI,201.0,243.57172,7,2296425728,Airports & Air Services,Industrials
-ZEG.L,1205.0,1442.2946,7,9576706048,Telecom Services,Communication Services
-ELM.L,161.2,196.05612,7,951594368,Specialty Chemicals,Basic Materials
-CURY.L,129.705,160.143,7,1492007424,Specialty Retail,Consumer Cyclical
-VETO.PA,72.2,91.14286,7,885140416,Drug Manufacturers - Specialty & Generic,Healthcare
-XIOR.BR,28.55,36.14286,7,1333144960,REIT - Residential,Real Estate
-TWEKA.AS,38.42,48.68571,7,1554218880,Communication Equipment,Technology
-SPI.L,227.6876,289.28598,7,950606784,Medical Care Facilities,Healthcare
-CASH.MC,0.697,0.88357,7,1054468096,Integrated Freight & Logistics,Industrials
-OXIG.L,1808.0,2300.7139,7,1084600448,Scientific & Technical Instruments,Technology
-PLNW.PA,20.2,25.14286,7,1473616384,Software - Application,Technology
-VU.PA,219.0,281.57144,7,4119980544,Software - Application,Technology
-HAVAS.AS,1.47,1.92143,7,1493839872,Advertising Agencies,Communication Services
-SPG.DE,21.55,28.34286,7,4436975104,Publishing,Communication Services
-DOU.DE,12.02,15.42857,7,1322508288,Specialty Retail,Consumer Cyclical
-KOF.PA,28.55,37.84286,7,579776384,Residential Construction,Consumer Cyclical
-DEME.BR,137.4,167.7143,7,3673824512,Engineering & Construction,Industrials
-YCA.L,533.5,688.8514,7,1476113408,Uranium,Energy
-ALFA.L,219.5,289.857,7,681324800,Software - Application,Technology
-WIE.VI,25.3,33.67143,7,2851429632,Building Materials,Basic Materials
-VLTSA.PA,7.43,10.2,7,972869824,Utilities - Renewable,Utilities
-POS.VI,25.95,35.61429,7,1103375488,Engineering & Construction,Industrials
-CRW.L,2180.0,3025.1853,7,800890880,Health Information Services,Healthcare
-DIE.BR,151.1,213.2857,7,8600507392,Auto & Truck Dealerships,Consumer Cyclical
-ATE.PA,68.1,97.11429,7,2545933312,Information Technology Services,Technology
-COA.L,79.1233,118.571,7,1579449984,Textile Manufacturing,Consumer Cyclical
-COR.LS,6.56,10.13286,7,974180160,Lumber & Wood Production,Basic Materials
-HCM.L,223.43,363.56143,7,1920020352,Drug Manufacturers - Specialty & Generic,Healthcare
-EXO.AS,74.85,117.71429,7,25046532096,Farm & Heavy Construction Machinery,Industrials
-ARCAD.AS,36.48,58.21429,7,3765916160,Engineering & Construction,Industrials
-EXA.PA,77.5,128.0,7,1443858816,Aerospace & Defense,Industrials
-EVT.DE,5.32,9.31429,7,1145550464,Drug Manufacturers - Specialty & Generic,Healthcare
-STM.DE,21.3,36.35714,7,554135168,Specialty Industrial Machinery,Industrials
-OCI.AS,3.278,5.844213,7,723778304,Specialty Chemicals,Basic Materials
-CWR.L,385.2056,260.625,8,748908608,Electrical Equipment & Parts,Industrials
-HOT.DE,278.6,220.525,8,20962312192,Engineering & Construction,Industrials
-SZG.DE,30.02,26.6125,8,1684814208,Steel,Basic Materials
-AAF.L,297.074,274.59384,8,10832299008,Telecom Services,Communication Services
-OXB.L,639.0,610.125,8,812641728,Biotechnology,Healthcare
-TRE.MC,31.32,29.67125,8,2532538880,Engineering & Construction,Industrials
-PSPN.SW,139.3,140.25,8,6389397504,Real Estate Services,Real Estate
-1COV.DE,59.62,61.375,8,11252699136,Specialty Chemicals,Basic Materials
-GTT.PA,179.0,188.375,8,6634548224,Oil & Gas Equipment & Services,Energy
-AYV.PA,10.95,11.75,8,9620829184,Rental & Leasing Services,Industrials
-EN.PA,40.19,43.65,8,15385330688,Engineering & Construction,Industrials
-PETS.L,211.2,232.5,8,968131136,Specialty Retail,Consumer Cyclical
-BAG.L,674.0,756.875,8,749737728,Beverages - Non-Alcoholic,Consumer Defensive
-ANDR.VI,63.05,71.1125,8,6414953472,Industrial Distribution,Industrials
-MONT.BR,68.8,78.125,8,1613071360,REIT - Industrial,Real Estate
-IGG.L,1115.0,1263.0,8,3838368256,Capital Markets,Financial Services
-BFIT.AS,24.14,27.8125,8,1699567616,Leisure,Consumer Cyclical
-SQZ.L,220.0,249.54572,8,863135680,Oil & Gas E&P,Energy
-CWK.L,4910.0,5786.875,8,2637725440,Packaged Foods,Consumer Defensive
-COK.DE,23.75,27.5625,8,795270016,Information Technology Services,Technology
-JDW.L,632.0,748.125,8,683652480,Restaurants,Consumer Cyclical
-PSG.MC,2.685,3.1875,8,1530235904,Security & Protection Services,Industrials
-VIV.PA,2.986,3.575,8,3121118720,Entertainment,Communication Services
-VOS.DE,71.3,85.3125,8,1549998464,Railroads,Industrials
-IWG.L,217.0,264.875,8,2278249216,Real Estate Services,Real Estate
-BOY.L,610.3165,762.5,8,1086892160,Specialty Industrial Machinery,Industrials
-COLR.BR,32.02,40.075,8,3900727808,Grocery Stores,Consumer Defensive
-AMS.L,215.125,265.875,8,469424608,Medical Instruments & Supplies,Healthcare
-HTG.L,355.0,449.8578,8,544390656,Oil & Gas Equipment & Services,Energy
-LOTB.BR,7660.0,9581.25,8,6239177216,Packaged Foods,Consumer Defensive
-BPT.L,296.146,381.375,8,2530727424,Asset Management,Financial Services
-PSON.L,992.2,1280.0,8,6778033152,Publishing,Communication Services
-FPE3.DE,39.22,50.375,8,4653890560,Specialty Chemicals,Basic Materials
-CCL.L,1865.5,2371.345,8,26811766784,Travel Services,Consumer Cyclical
-ITP.PA,27.74,36.0375,8,2424902912,Household & Personal Products,Consumer Defensive
-TEG.DE,13.64,18.3125,8,2491934976,Real Estate - Diversified,Real Estate
-XPS.L,339.0,452.12497,8,698410240,Personal Services,Consumer Cyclical
-SESG.PA,5.31,7.2875,8,3013000448,Broadcasting,Communication Services
-SMHN.DE,33.52,43.5375,8,640752832,Semiconductor Equipment & Materials,Technology
-JEN.DE,18.81,25.25,8,1140804608,Electronic Components,Technology
-SIX2.DE,75.55,104.0,8,3279413760,Rental & Leasing Services,Industrials
-GEN.L,359.5,493.5,8,930025536,Building Products & Equipment,Industrials
-PSM.DE,5.29,6.90625,8,1300357888,Broadcasting,Communication Services
-ENC.MC,2.552,3.585,8,644949056,Paper & Paper Products,Basic Materials
-GRI.L,192.2,272.625,8,1418997376,Real Estate Services,Real Estate
-MAB.L,239.0,347.5,8,1461019008,Restaurants,Consumer Cyclical
-ROVI.MC,57.65,79.6625,8,3278794496,Drug Manufacturers - Specialty & Generic,Healthcare
-CAN.L,232.6,344.32498,8,2388988672,Entertainment,Communication Services
-TECN.SW,135.4,202.475,8,1868624768,Medical Instruments & Supplies,Healthcare
-DUE.DE,19.7,30.875,8,1422431616,Specialty Industrial Machinery,Industrials
-EDR.MC,7.18,11.43125,8,823068672,Travel Services,Consumer Cyclical
-MAP.MC,3.942,3.75056,9,12074044416,Insurance - Diversified,Financial Services
-RENE.LS,3.35,3.28333,9,2222087936,Utilities - Diversified,Utilities
-SQN.SW,481.0,475.33334,9,7912234496,Capital Markets,Financial Services
-LOGN.SW,97.5,99.75798,9,14581045248,Computer Hardware,Technology
-A3M.MC,5.31,5.49889,9,1195697408,Entertainment,Communication Services
-TKA.DE,9.204,9.74054,9,5778167296,Conglomerates,Industrials
-EXENS.PA,48.35,49.66667,9,2516166144,Electrical Equipment & Parts,Industrials
-ETL.PA,3.285,3.36667,9,1677212288,Communication Equipment,Technology
-BAB.L,1188.0,1266.789,9,6069017088,Engineering & Construction,Industrials
-RSW.L,3425.0,3690.556,9,2601558272,Scientific & Technical Instruments,Technology
-EWG.L,91.604,118.59071,9,647676992,Software - Infrastructure,Technology
-ECMPA.AS,26.1,29.16667,9,1420349440,REIT - Retail,Real Estate
-III.L,4309.0,4679.4443,9,44406657024,Asset Management,Financial Services
+GLO.PA,27.55,33.0,7,816934528,Specialty Business Services,Industrials
+DOCS.L,86.953,102.286,7,898492928,Footwear & Accessories,Consumer Cyclical
+ZEG.L,1210.0,1446.3998,7,9455499264,Telecom Services,Communication Services
+GNS.L,2365.0,2860.5708,7,1628341248,Biotechnology,Healthcare
+DOC.VI,200.5,243.57172,7,2290713344,Airports & Air Services,Industrials
+ELM.L,161.4,196.82816,7,952774976,Specialty Chemicals,Basic Materials
+DEME.BR,136.0,172.5,6,3436528640,Engineering & Construction,Industrials
+CURY.L,132.2,160.143,7,1520707712,Specialty Retail,Consumer Cyclical
+PLNW.PA,20.35,25.14286,7,1447445120,Software - Application,Technology
+VETO.PA,72.4,91.14286,7,887592384,Drug Manufacturers - Specialty & Generic,Healthcare
+OXIG.L,1950.0,2300.7139,7,1165868032,Scientific & Technical Instruments,Technology
+CASH.MC,0.691,0.88357,7,1042351872,Integrated Freight & Logistics,Industrials
+XIOR.BR,28.35,36.14286,7,1323805952,REIT - Residential,Real Estate
+TWEKA.AS,37.8,48.68571,7,1507623296,Communication Equipment,Technology
+SPI.L,226.4695,289.28598,7,943433920,Medical Care Facilities,Healthcare
+VU.PA,215.4,281.57144,7,4052254720,Software - Application,Technology
+DOU.DE,11.96,15.42857,7,1326964736,Specialty Retail,Consumer Cyclical
+YCA.L,533.0,691.5639,7,1424550144,Uranium,Energy
+HAVAS.AS,1.4815,1.92143,7,1505526400,Advertising Agencies,Communication Services
+ALFA.L,218.75,289.857,7,678996864,Software - Application,Technology
+KOF.PA,29.1,37.84286,7,578634048,Residential Construction,Consumer Cyclical
+WIE.VI,25.38,33.67143,7,2808642560,Building Materials,Basic Materials
+SPG.DE,21.4,28.34286,7,4334861312,Publishing,Communication Services
+VLTSA.PA,7.35,10.2,7,962394752,Utilities - Renewable,Utilities
+POS.VI,26.15,35.61429,7,1086269696,Engineering & Construction,Industrials
+CRW.L,2160.0,3036.978,7,808445376,Health Information Services,Healthcare
+DIE.BR,151.5,213.2857,7,8623275008,Auto & Truck Dealerships,Consumer Cyclical
+ATE.PA,68.45,97.11429,7,2559018240,Information Technology Services,Technology
+COA.L,81.1088,118.571,7,1594706816,Textile Manufacturing,Consumer Cyclical
+COR.LS,6.57,10.13286,7,971196480,Lumber & Wood Production,Basic Materials
+EXO.AS,75.55,117.71429,7,25280770048,Farm & Heavy Construction Machinery,Industrials
+ARCAD.AS,36.86,58.21429,7,3805144576,Engineering & Construction,Industrials
+HCM.L,224.0,364.9787,7,1924918656,Drug Manufacturers - Specialty & Generic,Healthcare
+CWR.L,400.0766,260.625,8,777820544,Electrical Equipment & Parts,Industrials
+HOT.DE,283.8,220.525,8,21353568256,Engineering & Construction,Industrials
+SZG.DE,28.96,26.5375,8,1625323648,Steel,Basic Materials
+AAF.L,303.0,275.66425,8,11048380416,Telecom Services,Communication Services
+TRE.MC,31.26,29.67125,8,2452380416,Engineering & Construction,Industrials
+OXB.L,622.0,610.125,8,803968448,Biotechnology,Healthcare
+PSPN.SW,138.0,140.25,8,6329768960,Real Estate Services,Real Estate
+1COV.DE,58.8,61.375,8,11097931776,Specialty Chemicals,Basic Materials
+GTT.PA,179.1,188.375,8,6638255104,Oil & Gas Equipment & Services,Energy
+AYV.PA,10.9,11.9125,8,9576897536,Rental & Leasing Services,Industrials
+EN.PA,40.74,43.65,8,15595880448,Engineering & Construction,Industrials
+PETS.L,209.0,232.5,8,958046464,Specialty Retail,Consumer Cyclical
+BAG.L,676.75,756.875,8,752796736,Beverages - Non-Alcoholic,Consumer Defensive
+ANDR.VI,64.0,71.1125,8,6359942656,Industrial Distribution,Industrials
+IGG.L,1121.0,1263.0,8,3859022848,Capital Markets,Financial Services
+MONT.BR,69.9,78.125,8,1638861696,REIT - Industrial,Real Estate
+SQZ.L,211.881,249.90869,8,861184320,Oil & Gas E&P,Energy
+BFIT.AS,23.84,27.8125,8,1678446208,Leisure,Consumer Cyclical
+COK.DE,23.6,27.5625,8,790247296,Information Technology Services,Technology
+CWK.L,4935.0,5786.875,8,2643089408,Packaged Foods,Consumer Defensive
+JDW.L,637.0,745.0,8,687420544,Restaurants,Consumer Cyclical
+PSG.MC,2.65,3.1875,8,1513149184,Security & Protection Services,Industrials
+VOS.DE,69.7,85.3125,8,1515215744,Railroads,Industrials
+VIV.PA,2.983,3.575,8,3117982720,Entertainment,Communication Services
+IWG.L,218.4,264.875,8,2292947456,Real Estate Services,Real Estate
+AMS.L,213.0,265.875,8,465881248,Medical Instruments & Supplies,Healthcare
+BOY.L,621.5,762.5,8,1085212160,Specialty Industrial Machinery,Industrials
+COLR.BR,32.14,40.075,8,3915346176,Grocery Stores,Consumer Defensive
+LOTB.BR,7630.0,9581.25,8,6214742016,Packaged Foods,Consumer Defensive
+HTG.L,359.5,451.61737,8,550496768,Oil & Gas Equipment & Services,Energy
+BPT.L,298.6,381.375,8,2529070848,Asset Management,Financial Services
+CCL.L,1860.5,2380.6204,8,26739904512,Travel Services,Consumer Cyclical
+SMHN.DE,34.3,44.9125,8,655662912,Semiconductor Equipment & Materials,Technology
+FPE3.DE,39.16,50.375,8,4646770688,Specialty Chemicals,Basic Materials
+PSON.L,1007.5,1280.0,8,6879775232,Publishing,Communication Services
+ITP.PA,27.64,36.0375,8,2396832256,Household & Personal Products,Consumer Defensive
+PSM.DE,5.035,6.90625,8,1237675264,Broadcasting,Communication Services
+XPS.L,337.5,452.12497,8,694285248,Personal Services,Consumer Cyclical
+SESG.PA,5.185,7.2875,8,2942072832,Broadcasting,Communication Services
+JEN.DE,18.44,25.25,8,1118364544,Electronic Components,Technology
+TEG.DE,14.0,18.3125,8,2557704704,Real Estate - Diversified,Real Estate
+GEN.L,360.0,493.5,8,926108864,Building Products & Equipment,Industrials
+SIX2.DE,74.6,104.0,8,3238176768,Rental & Leasing Services,Industrials
+ROVI.MC,58.75,80.425,8,3232526848,Drug Manufacturers - Specialty & Generic,Healthcare
+ENC.MC,2.504,3.585,8,641909120,Paper & Paper Products,Basic Materials
+GRI.L,195.4,272.625,8,1442622848,Real Estate Services,Real Estate
+MAB.L,238.5,347.5,8,1448773504,Restaurants,Consumer Cyclical
+CAN.L,232.2,344.32498,8,2384880128,Entertainment,Communication Services
+TECN.SW,136.7,202.475,8,1912059904,Medical Instruments & Supplies,Healthcare
+DUE.DE,19.56,30.875,8,1412322816,Specialty Industrial Machinery,Industrials
+EDR.MC,7.07,11.43125,8,813907776,Travel Services,Consumer Cyclical
+OPM.PA,14.28,13.35556,9,2040329984,Auto Parts,Consumer Cyclical
+MAP.MC,3.964,3.75056,9,12141428736,Insurance - Diversified,Financial Services
+RENE.LS,3.405,3.28333,9,2258570240,Utilities - Diversified,Utilities
+SQN.SW,487.0,475.33334,9,7685715968,Capital Markets,Financial Services
+ETL.PA,3.235,3.36667,9,1651683968,Communication Equipment,Technology
+LOGN.SW,98.28,99.49426,9,14433171456,Computer Hardware,Technology
+A3M.MC,5.34,5.49889,9,1202452864,Entertainment,Communication Services
+EXENS.PA,46.75,49.66667,9,2471806720,Electrical Equipment & Parts,Industrials
+TKA.DE,9.118,9.74054,9,5724176896,Conglomerates,Industrials
+BAB.L,1189.0,1266.789,9,6074125312,Engineering & Construction,Industrials
+RSW.L,3430.0,3690.556,9,2597681920,Scientific & Technical Instruments,Technology
+III.L,4294.0,4679.4443,9,44252073984,Asset Management,Financial Services
+ACLN.SW,63.55,69.39934,9,6232642560,Specialty Industrial Machinery,Industrials
+ECMPA.AS,26.25,29.16667,9,1428512256,REIT - Retail,Real Estate
 AED.BR,66.3,74.05556,9,3152516352,REIT - Healthcare Facilities,Real Estate
-ACLN.SW,62.75,69.5781,9,6253444096,Specialty Industrial Machinery,Industrials
-DRX.L,715.5,812.333,9,2456336384,Utilities - Renewable,Utilities
-CIE.MC,29.1,32.52333,9,3502693376,Auto Parts,Consumer Cyclical
-RUI.PA,32.08,36.82222,9,3307546880,Oil & Gas Refining & Marketing,Energy
-WIX.L,214.0,246.0,9,503124992,Home Improvement Retail,Consumer Cyclical
-EBRO.MC,17.9,20.69333,9,2753384704,Packaged Foods,Consumer Defensive
-WAF.DE,48.22,54.05556,9,1687594880,Semiconductors,Technology
-CBG.L,436.6,505.88898,9,657187584,Banks - Regional,Financial Services
-ELIOR.PA,2.712,3.16667,9,724436608,Restaurants,Consumer Cyclical
-VK.PA,16.6,20.33333,9,3949864192,Steel,Basic Materials
-MGAM.L,204.0,242.77798,9,576261376,Specialty Industrial Machinery,Industrials
-TRI.PA,149.4,180.77779,9,2883303936,Recreational Vehicles,Consumer Cyclical
-ANTIN.PA,10.88,13.41111,9,1969361024,Asset Management,Financial Services
-AML.L,61.75,72.667,9,663946752,Auto Manufacturers,Consumer Cyclical
-SWON.SW,7.56,9.14444,9,1826217344,Software - Application,Technology
-SPIE.PA,42.06,52.16667,9,7515449344,Engineering & Construction,Industrials
+WAF.DE,46.4,54.05556,9,1623898880,Semiconductors,Technology
+CIE.MC,29.0,32.52333,9,3490656512,Auto Parts,Consumer Cyclical
+DRX.L,712.5,812.333,9,2446037248,Utilities - Renewable,Utilities
+WIX.L,218.5,246.0,9,505342080,Home Improvement Retail,Consumer Cyclical
+RUI.PA,32.38,36.82222,9,3338477824,Oil & Gas Refining & Marketing,Energy
+CBG.L,431.8,505.88898,9,649962432,Banks - Regional,Financial Services
+EBRO.MC,17.8,20.69333,9,2738002688,Packaged Foods,Consumer Defensive
+ELIOR.PA,2.696,3.16667,9,720162688,Restaurants,Consumer Cyclical
+KRN.DE,126.8,153.44444,9,4213670656,Specialty Industrial Machinery,Industrials
+MGAM.L,205.0,242.77798,9,574786048,Specialty Industrial Machinery,Industrials
+AML.L,59.95,72.667,9,636535424,Auto Manufacturers,Consumer Cyclical
+SWON.SW,7.435,9.14444,9,1780267264,Software - Application,Technology
+TRI.PA,147.9,180.77779,9,2854355200,Recreational Vehicles,Consumer Cyclical
+ANTIN.PA,11.1,13.41111,9,1983327232,Asset Management,Financial Services
+EDV.L,3136.0,3810.7083,9,7716615168,Gold,Basic Materials
+VK.PA,16.375,20.33333,9,3896326656,Steel,Basic Materials
+INCH.L,757.5,927.77795,9,2793726976,Auto & Truck Dealerships,Consumer Cyclical
+SPIE.PA,42.46,52.16667,9,7586922496,Engineering & Construction,Industrials
+AOF.DE,109.4,137.22221,9,1855091712,Software - Application,Technology
+WKP.L,411.5,510.889,9,806565952,REIT - Office,Real Estate
+MNDI.L,829.6,1023.4601,9,3770898432,Paper & Paper Products,Basic Materials
+QQ.L,446.6,556.55597,9,2573400576,Aerospace & Defense,Industrials
 VRLA.PA,22.72,28.36889,9,2686514944,Packaging & Containers,Consumer Cyclical
-WKP.L,411.5,510.889,9,807550784,REIT - Office,Real Estate
-INCH.L,751.0,927.77795,9,2797600512,Auto & Truck Dealerships,Consumer Cyclical
-KRN.DE,129.0,153.44444,9,4286778368,Specialty Industrial Machinery,Industrials
-EDV.L,3132.0,3794.5115,9,7706772992,Gold,Basic Materials
-QQ.L,446.8,556.55597,9,2574552832,Aerospace & Defense,Industrials
-AOF.DE,110.4,137.22221,9,1865203840,Software - Application,Technology
-MNDI.L,823.0,1020.3922,9,3763737088,Paper & Paper Products,Basic Materials
-MONY.L,195.4,256.0,9,1025748032,Internet Content & Information,Communication Services
-SRC.L,112.07,146.444,9,1292303104,Building Materials,Basic Materials
-CVSG.L,1217.624,1661.6671,9,896304192,Medical Care Facilities,Healthcare
-DOM.L,182.935,302.222,9,750518464,Restaurants,Consumer Cyclical
-IPS.PA,32.32,57.61111,9,1462338432,Consulting Services,Industrials
-JUP.L,151.0,136.6,10,786222784,Asset Management,Financial Services
-OPM.PA,14.62,13.35556,9,2088909312,Auto Parts,Consumer Cyclical
-ASHM.L,170.307,159.5,10,1242525312,Asset Management,Financial Services
-JMAT.L,2140.0,2029.0001,10,3598949120,Specialty Chemicals,Basic Materials
-VGP.BR,103.4,101.7,10,2821921792,Real Estate Services,Real Estate
-CCC.L,2808.0,2809.0999,10,3020868864,Information Technology Services,Technology
-CAF.MC,54.2,54.57,10,1912178176,Railroads,Industrials
-SRP.L,249.2,252.3,10,2534081536,Specialty Business Services,Industrials
-APAM.AS,31.16,31.41,10,2252534784,Steel,Basic Materials
-AMS.SW,10.35,10.625153,10,1142922880,Semiconductors,Technology
-COFB.BR,77.75,80.916,10,2960935168,REIT - Healthcare Facilities,Real Estate
-LOG.MC,29.52,31.781,10,3897421312,Integrated Freight & Logistics,Industrials
-WOSG.L,409.4,454.5,10,947401216,Luxury Goods,Consumer Cyclical
-AGS.BR,57.05,63.13,10,10974822400,Insurance - Diversified,Financial Services
-CRH.L,8662.0,9835.575,10,61520183296,Building Materials,Basic Materials
-COV.PA,55.5,63.57,10,6166430720,REIT - Diversified,Real Estate
-KNOS.L,922.0,1065.0,10,1107950464,Software - Application,Technology
-PAH3.DE,35.82,40.81,10,10837783552,Auto Manufacturers,Consumer Cyclical
-VIRP.PA,351.0,403.2,10,3021589760,Drug Manufacturers - General,Healthcare
-OVH.PA,7.945,9.155,10,1251885824,Software - Infrastructure,Technology
-BG.VI,113.7,131.13,10,8801320960,Banks - Regional,Financial Services
-SHC.L,144.2,171.59999,10,2626863360,REIT - Retail,Real Estate
-EVPL.L,374.0,448.99997,10,573728512,Electronic Gaming & Multimedia,Communication Services
-VSVS.L,370.58,441.0,10,930671232,Steel,Basic Materials
-IAG.MC,4.308,5.21,10,22548441088,Airlines,Industrials
-TPE.DE,24.26,29.63,10,546606144,Specialty Industrial Machinery,Industrials
-HBR.L,234.0,287.0006,10,3304094976,Oil & Gas E&P,Energy
-GFTU.L,948.3,1178.0,10,1831611264,Industrial Distribution,Industrials
-IBST.L,131.08,164.0,10,548675840,Building Materials,Basic Materials
-SMWH.L,645.5,813.1,10,859333248,Specialty Retail,Consumer Cyclical
-HAS.L,58.517,75.2,10,955363904,Staffing & Employment Services,Industrials
-PAGE.L,236.6,308.0,10,747676480,Staffing & Employment Services,Industrials
-HOC.L,350.2,447.85544,10,1801633408,Gold,Basic Materials
-NCH2.DE,8.76,11.61,10,1129741952,Specialty Industrial Machinery,Industrials
-BYIT.L,360.6,486.0,10,891992576,Software - Infrastructure,Technology
-JUN3.DE,29.62,39.56,10,3195422720,Specialty Industrial Machinery,Industrials
-FDJU.PA,24.7,33.93,10,4674504192,Gambling,Consumer Cyclical
-BFSA.DE,27.02,37.24,10,1127142400,Waste Management,Industrials
-MOON.L,205.5,298.5,10,692262656,Specialty Retail,Consumer Cyclical
-IOS.DE,29.4,41.66,10,4457049600,Information Technology Services,Technology
-BANB.SW,51.85,74.69,10,4444613632,Chemicals,Basic Materials
-SFZN.SW,75.0,110.07,10,3410400000,Drug Manufacturers - Specialty & Generic,Healthcare
-TKO.PA,15.32,23.36,10,3122050048,Asset Management,Financial Services
-DSCV.L,583.0,884.0,10,567830336,Electronic Components,Technology
-SOP.PA,128.9,201.9,10,2668362752,Information Technology Services,Technology
-GBG.L,230.8972,371.5,10,574965952,Software - Application,Technology
+EWG.L,92.0,118.93642,9,660353984,Software - Infrastructure,Technology
+SRC.L,112.92,146.444,9,1276527616,Building Materials,Basic Materials
+MONY.L,195.4,256.0,9,1025374016,Internet Content & Information,Communication Services
+CVSG.L,1189.3333,1661.6671,9,876931008,Medical Care Facilities,Healthcare
+JUP.L,150.2,136.6,10,769660160,Asset Management,Financial Services
+ASHM.L,164.6,159.5,10,1179117696,Asset Management,Financial Services
+JMAT.L,2126.0,2105.0,10,3561988096,Specialty Chemicals,Basic Materials
+SHA0.DE,6.805,6.655,10,6629391872,Auto Parts,Consumer Cyclical
+VGP.BR,102.8,101.7,10,2805547008,Real Estate Services,Real Estate
+CCC.L,2806.0,2809.0999,10,3018717184,Information Technology Services,Technology
+CAF.MC,54.7,54.57,10,1887248768,Railroads,Industrials
+SRP.L,248.2,252.3,10,2523912704,Specialty Business Services,Industrials
+APAM.AS,30.8,31.41,10,2226510592,Steel,Basic Materials
+AMS.SW,10.17,10.586166,10,1125296512,Semiconductors,Technology
+COFB.BR,77.8,81.859,10,2962839552,REIT - Healthcare Facilities,Real Estate
+LOG.MC,30.0,31.781,10,3960793856,Integrated Freight & Logistics,Industrials
+WOSG.L,460.579,454.5,10,1065835648,Luxury Goods,Consumer Cyclical
+AGS.BR,57.45,63.13,10,11051771904,Insurance - Diversified,Financial Services
+CRH.L,8688.0,9928.232,10,61704843264,Building Materials,Basic Materials
+PAH3.DE,35.79,40.81,10,10828707840,Auto Manufacturers,Consumer Cyclical
+COV.PA,55.25,63.57,10,6138654208,REIT - Diversified,Real Estate
+VIRP.PA,346.5,403.2,10,2982851584,Drug Manufacturers - General,Healthcare
+BG.VI,114.0,131.13,10,8769341440,Banks - Regional,Financial Services
+OVH.PA,7.75,9.155,10,1221159808,Software - Infrastructure,Technology
+KNOS.L,952.0,1065.0,10,1139085696,Software - Application,Technology
+EVPL.L,375.0,448.99997,10,566107136,Electronic Gaming & Multimedia,Communication Services
+VSVS.L,376.8,445.5,10,925027136,Steel,Basic Materials
+SHC.L,145.4,171.59999,10,2648723200,REIT - Retail,Real Estate
+IAG.MC,4.355,5.21,10,22032863232,Airlines,Industrials
+HBR.L,234.74,287.58685,10,3313614080,Oil & Gas E&P,Energy
+TPE.DE,23.72,29.63,10,534439296,Specialty Industrial Machinery,Industrials
+IBST.L,132.083,164.0,10,546090432,Building Materials,Basic Materials
+GFTU.L,954.3,1178.0,10,1843200000,Industrial Distribution,Industrials
+SMWH.L,642.0,813.1,10,847305920,Specialty Retail,Consumer Cyclical
+HAS.L,58.45,75.2,10,945267584,Staffing & Employment Services,Industrials
+HOC.L,366.5,449.7671,10,1885490176,Gold,Basic Materials
+PAGE.L,236.8,308.0,10,743226560,Staffing & Employment Services,Industrials
+NCH2.DE,8.715,11.61,10,1123938432,Specialty Industrial Machinery,Industrials
+JUN3.DE,29.34,39.56,10,3165216000,Specialty Industrial Machinery,Industrials
+BYIT.L,359.4,486.0,10,891029824,Software - Infrastructure,Technology
+FDJU.PA,24.66,33.93,10,4666933760,Gambling,Consumer Cyclical
+BFSA.DE,27.16,37.24,10,1132982400,Waste Management,Industrials
+IOS.DE,28.8,41.66,10,4299033088,Information Technology Services,Technology
+BANB.SW,51.55,74.69,10,4397320704,Chemicals,Basic Materials
+MOON.L,209.0,298.5,10,692148800,Specialty Retail,Consumer Cyclical
+SFZN.SW,75.9,110.07,10,3442084608,Drug Manufacturers - Specialty & Generic,Healthcare
+DSCV.L,571.0,884.0,10,558090496,Electronic Components,Technology
+HIK.L,1568.0,2399.5671,10,4106547712,Drug Manufacturers - Specialty & Generic,Healthcare
+TKO.PA,15.22,23.36,10,3101671168,Asset Management,Financial Services
+SOP.PA,129.9,201.9,10,2689063680,Information Technology Services,Technology
+GBG.L,241.5,371.5,10,581271296,Software - Application,Technology
 SK.PA,47.68,77.2,10,2666605824,"Furnishings, Fixtures & Appliances",Consumer Cyclical
-ANA.MC,197.1,159.39091,11,10742582272,Engineering & Construction,Industrials
-HLAG.DE,118.0,104.90909,11,21936914432,Marine Shipping,Industrials
-SLHN.SW,871.4,809.9091,11,24859885568,Insurance - Diversified,Financial Services
-JDEP.AS,31.6,29.51727,11,15324424192,Packaged Foods,Consumer Defensive
-SHA0.DE,6.93,6.605,10,6751165952,Auto Parts,Consumer Cyclical
-RBI.VI,32.02,30.68182,11,10911501312,Banks - Regional,Financial Services
-SMIN.L,2474.0,2450.0,11,8155728896,Specialty Industrial Machinery,Industrials
-FTK.DE,32.58,32.27273,11,3619002624,Capital Markets,Financial Services
-1U1.DE,21.5,21.2,11,3799319296,Telecom Services,Communication Services
-S32.L,158.4,153.81514,11,7552338944,Other Industrial Metals & Mining,Basic Materials
-SAFE.L,737.5,764.0,11,1610823424,REIT - Industrial,Real Estate
-OSB.L,550.75,618.545,11,1968369280,Mortgage Finance,Financial Services
-RAT.L,1809.97,2068.818,11,1886801152,Asset Management,Financial Services
-UTDI.DE,26.68,30.94545,11,4611299328,Telecom Services,Communication Services
-FNTN.DE,27.72,32.02727,11,3270422272,Telecom Services,Communication Services
-BBOX.L,152.9,179.545,11,4131544832,REIT - Industrial,Real Estate
-IHP.L,357.5,417.273,11,1207799296,Asset Management,Financial Services
-ALM.MC,12.62,13.62727,11,2918425856,Drug Manufacturers - Specialty & Generic,Healthcare
-SCYR.MC,3.702,4.45,11,3038748160,Engineering & Construction,Industrials
-ICAD.PA,20.62,24.77273,11,1609251200,REIT - Diversified,Real Estate
-GYC.DE,10.76,13.03636,11,1922967296,Real Estate Services,Real Estate
-SCT.L,1477.0,1825.4551,11,3177681152,Electronics & Computer Distribution,Technology
-BC8.DE,35.12,43.26364,11,4702331392,Information Technology Services,Technology
-PAG.L,800.0,1002.091,11,1587845248,Mortgage Finance,Financial Services
-ITM.L,78.8,98.272995,11,516253568,Specialty Industrial Machinery,Industrials
-VIS.MC,53.2,69.68636,11,2446458112,Packaging & Containers,Consumer Cyclical
-MELE.BR,58.5,76.18182,11,2553886976,Semiconductors,Technology
-EVD.DE,79.85,106.27273,11,7664904704,Entertainment,Communication Services
-WPP.L,284.5,371.818,11,3161448704,Advertising Agencies,Communication Services
-BCG.L,265.0,369.25067,11,1422473728,Internet Content & Information,Communication Services
-TATE.L,392.098,531.182,11,1737234176,Packaged Foods,Consumer Defensive
-ONT.L,140.45,206.182,11,1356023040,Biotechnology,Healthcare
-BREE.L,332.2,493.182,11,1221402624,Building Materials,Basic Materials
-HIK.L,1584.6,2403.8865,10,4079193856,Drug Manufacturers - Specialty & Generic,Healthcare
-SAX.DE,36.4,60.95455,11,2134100992,Advertising Agencies,Communication Services
-TRST.L,184.4,322.35226,11,837688128,Software - Application,Technology
-SBRY.L,343.6,340.75,12,7740159488,Grocery Stores,Consumer Defensive
-TSCO.L,469.6,470.16702,12,30212542464,Grocery Stores,Consumer Defensive
-VOE.VI,32.32,32.31667,12,5541284352,Steel,Basic Materials
+ANA.MC,197.2,159.39091,11,10748032000,Engineering & Construction,Industrials
+HLAG.DE,117.8,104.90909,11,21899732992,Marine Shipping,Industrials
+SLHN.SW,875.4,809.9091,11,24974000128,Insurance - Diversified,Financial Services
+JDEP.AS,31.68,29.51727,11,15363219456,Packaged Foods,Consumer Defensive
+RBI.VI,32.46,30.68182,11,10657838080,Banks - Regional,Financial Services
+S32.L,159.2,154.4964,11,7175754752,Other Industrial Metals & Mining,Basic Materials
+1U1.DE,20.85,21.2,11,3675847680,Telecom Services,Communication Services
+FTK.DE,32.5,32.27273,11,3610115840,Capital Markets,Financial Services
+SMIN.L,2508.0,2450.0,11,8181827072,Specialty Industrial Machinery,Industrials
+SAFE.L,736.5,764.0,11,1608639232,REIT - Industrial,Real Estate
+ALM.MC,11.96,13.71818,11,2714232576,Drug Manufacturers - Specialty & Generic,Healthcare
+OSB.L,555.5,618.545,11,1985057536,Mortgage Finance,Financial Services
+RAT.L,1812.0,2068.818,11,1878423424,Asset Management,Financial Services
+FNTN.DE,27.86,31.84545,11,3286939648,Telecom Services,Communication Services
+UTDI.DE,26.6,30.94545,11,4597472768,Telecom Services,Communication Services
+IHP.L,355.5,417.273,11,1201042432,Asset Management,Financial Services
+BBOX.L,153.2,179.545,11,4139651328,REIT - Industrial,Real Estate
+ICAD.PA,20.54,24.77273,11,1603007744,REIT - Diversified,Real Estate
+SCYR.MC,3.768,4.45,11,3046562816,Engineering & Construction,Industrials
+GYC.DE,10.86,13.03636,11,1940838656,Real Estate Services,Real Estate
+SCT.L,1482.0,1825.4551,11,3212297472,Electronics & Computer Distribution,Technology
+BC8.DE,34.24,43.26364,11,4584505856,Information Technology Services,Technology
+ITM.L,78.81,98.272995,11,516319072,Specialty Industrial Machinery,Industrials
+PAG.L,815.5,1002.091,11,1590616448,Mortgage Finance,Financial Services
+MELE.BR,57.45,76.18182,11,2508048128,Semiconductors,Technology
+VIS.MC,53.2,69.68636,11,2451056896,Packaging & Containers,Consumer Cyclical
+WPP.L,303.1,371.818,11,3276567552,Advertising Agencies,Communication Services
+EVD.DE,79.75,106.27273,11,7655305728,Entertainment,Communication Services
+TATE.L,388.8,518.45496,11,1717269632,Packaged Foods,Consumer Defensive
+BCG.L,255.0,370.30188,11,1414422016,Internet Content & Information,Communication Services
+ONT.L,139.6,206.182,11,1347816448,Biotechnology,Healthcare
+BREE.L,328.2,493.182,11,1184808832,Building Materials,Basic Materials
+SBRY.L,344.6,340.75,12,7762685952,Grocery Stores,Consumer Defensive
+VOE.VI,31.96,32.31667,12,5479561728,Steel,Basic Materials
+TSCO.L,464.0,470.16702,12,29852256256,Grocery Stores,Consumer Defensive
+RXL.PA,29.72,29.95833,12,8997464064,Electronics & Computer Distribution,Technology
 MNG.L,269.6,273.0,12,6385321984,Asset Management,Financial Services
-RXL.PA,29.85,29.95833,12,9036820480,Electronics & Computer Distribution,Technology
-AJB.L,542.5,555.833,12,2182138880,Asset Management,Financial Services
-SVT.L,2791.0,2893.333,12,8403068416,Utilities - Regulated Water,Utilities
-BATS.L,4140.0,4266.667,12,90107142144,Tobacco,Consumer Defensive
-GRE.MC,77.9,82.15833,12,2187413248,Engineering & Construction,Industrials
-IMB.L,3155.0,3318.75,12,25325477888,Tobacco,Consumer Defensive
-HAG.DE,93.65,99.07692,13,11371587584,Aerospace & Defense,Industrials
-FRES.L,2313.3054,2381.5146,12,17279901696,Other Precious Metals & Mining,Basic Materials
-CA.PA,13.06,13.97917,12,9234023424,Grocery Stores,Consumer Defensive
-BARN.SW,1195.0,1279.5,12,5732721152,Confectioners,Consumer Defensive
-BYG.L,1124.0,1240.833,12,2201762304,REIT - Industrial,Real Estate
-SCHN.SW,269.0,298.08334,12,29800073216,Specialty Industrial Machinery,Industrials
-NOS.LS,3.665,4.07083,12,1916155392,Telecom Services,Communication Services
-INF.L,975.0,1083.333,12,12512997376,Publishing,Communication Services
-PNN.L,512.0,584.333,12,2436999936,Utilities - Regulated Water,Utilities
-DNLM.L,1123.0,1288.583,12,2272886528,Specialty Retail,Consumer Cyclical
-URW.PA,90.64,102.7,13,12990695424,REIT - Retail,Real Estate
-LMP.L,194.1,228.167,12,4528271360,REIT - Industrial,Real Estate
-LIGHT.AS,20.16,23.93333,12,2520481536,Electrical Equipment & Parts,Industrials
-GEST.MC,2.918,3.38917,12,1939919872,Auto Parts,Consumer Cyclical
-AMRZ.SW,39.78,48.980103,12,23163111424,Building Materials,Basic Materials
-GRG.L,1557.73,2004.75,12,1643429120,Restaurants,Consumer Cyclical
-VID.MC,82.1,105.86984,12,2911583232,Packaging & Containers,Consumer Cyclical
-DCC.L,4748.0,6164.667,12,4883303936,Oil & Gas Refining & Marketing,Energy
-MEL.MC,7.18,9.31167,12,1601805696,Lodging,Consumer Cyclical
-PUB.PA,85.36,113.33333,12,22076219392,Advertising Agencies,Communication Services
-VCT.L,632.0,846.0,12,567718592,Specialty Chemicals,Basic Materials
-WKL.AS,96.12,141.75,12,24079740928,Specialty Business Services,Industrials
-GRF.MC,10.565,15.8625,12,6942171648,Drug Manufacturers - General,Healthcare
-1SXP.DE,18.2,29.41667,12,2858960128,Medical Instruments & Supplies,Healthcare
-VER.VI,67.05,63.92308,13,23242147840,Utilities - Renewable,Utilities
-LISN.SW,124400.0,121848.766,13,28275746816,Confectioners,Consumer Defensive
-CBK.DE,33.27,32.83846,13,37511798784,Banks - Regional,Financial Services
-WCH.DE,68.6,69.0,13,3550914304,Specialty Chemicals,Basic Materials
-HMSO.L,310.8,318.53098,13,1645112960,REIT - Retail,Real Estate
-ABDN.L,202.6,207.692,13,3651721216,Asset Management,Financial Services
-GALD.SW,148.0,150.30888,13,35914813440,Drug Manufacturers - Specialty & Generic,Healthcare
-ARGX.BR,739.4,766.83386,13,45524066304,Biotechnology,Healthcare
-PHNX.L,680.5,705.07697,13,6798257664,Insurance - Life,Financial Services
-DPLM.L,5350.0,5614.6147,13,7561555456,Industrial Distribution,Industrials
-UU.L,1203.0,1294.462,13,8203118080,Utilities - Regulated Water,Utilities
-ELI.BR,104.3,113.46154,13,11373465600,Utilities - Regulated Electric,Utilities
-CCEP.AS,78.7,85.79154,13,35479244800,Beverages - Non-Alcoholic,Consumer Defensive
-CNA.L,173.65,196.0,13,8241320960,Utilities - Independent Power Producers,Utilities
-R3NK.DE,66.61,70.39286,14,6955986944,Aerospace & Defense,Industrials
-STJ.L,1330.5,1513.4619,13,6917727744,Asset Management,Financial Services
-EMG.L,208.4,240.2448,13,2353028608,Asset Management,Financial Services
-SUNN.SW,42.96,49.61538,13,3171928832,Telecom Services,Communication Services
-AVOL.SW,42.88,49.38462,13,6222989312,Specialty Retail,Consumer Cyclical
-RAA.DE,645.0,753.38464,13,7345208320,Specialty Industrial Machinery,Industrials
-BOSS.DE,36.84,43.64615,13,2663068928,Apparel Manufacturing,Consumer Cyclical
-PROX.BR,6.94,8.21538,13,2412642816,Telecom Services,Communication Services
-AG1.DE,25.48,31.15385,13,6472394240,Auto & Truck Dealerships,Consumer Cyclical
-TE.PA,35.22,42.69231,13,6345145344,Oil & Gas Equipment & Services,Energy
-DIM.PA,189.3,233.53847,13,20247123968,Medical Instruments & Supplies,Healthcare
-DEC.PA,15.07,18.63077,13,3401304064,Advertising Agencies,Communication Services
-CRDA.L,2791.0,3461.5378,13,4057609216,Specialty Chemicals,Basic Materials
-FRVIA.PA,11.74,13.75,12,2175538432,Auto Parts,Consumer Cyclical
-ML.PA,28.66,36.21538,13,20443236352,,
-EVK.DE,14.12,17.73846,13,6742329856,Specialty Chemicals,Basic Materials
-REL.L,3202.0,4418.454,13,61239009280,Specialty Business Services,Industrials
-CVC.AS,14.16,19.62308,13,15919814656,Asset Management,Financial Services
-PLX.PA,15.72,22.50769,13,2469733632,Specialty Business Services,Industrials
-JET2.L,1325.33,1948.385,13,2583249152,Travel Services,Consumer Cyclical
-SSPG.L,147.38,224.385,13,1237758336,Restaurants,Consumer Cyclical
-OCDO.L,213.2597,295.077,13,1963367296,Grocery Stores,Consumer Defensive
-SIGN.SW,8.285,13.789842,13,3430529536,Packaging & Containers,Consumer Cyclical
-ACS.MC,76.65,64.30714,14,19909173248,Engineering & Construction,Industrials
-AIXA.DE,16.925,15.71429,14,1908900480,Semiconductor Equipment & Materials,Technology
-SDZ.SW,53.94,52.019104,14,23504435200,Drug Manufacturers - Specialty & Generic,Healthcare
-NDX1.DE,27.34,27.28571,14,6464552960,Specialty Industrial Machinery,Industrials
-FR.PA,12.385,11.85,13,2999058176,Auto Parts,Consumer Cyclical
-KGF.L,313.1,306.0,14,5366239232,Home Improvement Retail,Consumer Cyclical
-QLT.L,184.8,184.786,14,2565591552,Asset Management,Financial Services
-EBS.VI,91.15,92.09286,14,35517390848,Banks - Regional,Financial Services
-AV.L,676.1996,683.714,14,20550115328,Insurance - Diversified,Financial Services
-G1A.DE,60.05,60.89286,14,10102114304,Specialty Industrial Machinery,Industrials
-IMI.L,2448.0,2641.786,14,6027374080,Specialty Industrial Machinery,Industrials
-LI.PA,33.66,34.6,14,9637215232,REIT - Retail,Real Estate
-AAL.L,2829.0,2919.7185,14,31435606016,Other Industrial Metals & Mining,Basic Materials
-IPN.PA,125.5,130.7857,14,10352444416,Drug Manufacturers - Specialty & Generic,Healthcare
-NN.AS,60.4,63.97857,14,15916971008,Insurance - Diversified,Financial Services
-AGN.AS,6.626,7.12714,14,10538880000,Insurance - Diversified,Financial Services
-ASRNL.AS,57.68,61.62929,14,12059884544,Insurance - Diversified,Financial Services
-LRE.L,673.0,708.24097,14,1633607168,Insurance - Specialty,Financial Services
-DWS.DE,53.75,57.43571,14,11111344128,Asset Management,Financial Services
-MT.AS,34.34,36.556652,14,26115211264,Steel,Basic Materials
-FRE.DE,48.06,53.11429,14,28062187520,Medical Care Facilities,Healthcare
-KBX.DE,81.3,88.14286,14,13179141120,Auto Parts,Consumer Cyclical
-GPE.L,343.0,375.643,14,1383302272,REIT - Office,Real Estate
-NEX.PA,121.4,133.35715,14,5425326080,Electrical Equipment & Parts,Industrials
-ERF.PA,58.4,64.44286,14,10861436928,Diagnostics & Research,Healthcare
-BAER.SW,55.86,60.77143,14,11443373056,Asset Management,Financial Services
-ROR.L,330.2,382.42902,14,2838734848,Specialty Industrial Machinery,Industrials
-BIM.PA,107.8,123.46429,14,13324625920,Diagnostics & Research,Healthcare
-TPK.L,621.0,707.42896,14,1355375744,Industrial Distribution,Industrials
-PRU.L,1070.5,1226.843,14,27218778112,Insurance - Life,Financial Services
-DLN.L,1760.5,2108.929,14,1976881792,REIT - Office,Real Estate
-8TRA.DE,28.4,32.79286,14,14251262976,Farm & Heavy Construction Machinery,Industrials
-ACX.MC,11.3,13.57857,14,2816452096,Steel,Basic Materials
-BNR.DE,46.7,57.24286,14,7012217344,Specialty Chemicals,Basic Materials
-DTG.DE,35.56,42.52667,15,26512478208,Farm & Heavy Construction Machinery,Industrials
-SDF.DE,10.89,13.52857,14,2044394240,Agricultural Inputs,Basic Materials
-PGHN.SW,970.4,1251.7142,14,26233284608,Asset Management,Financial Services
-LEG.DE,63.5,87.07857,14,5261545472,Real Estate Services,Real Estate
-GFC.PA,79.85,108.81429,14,5966332928,REIT - Office,Real Estate
-CAP.PA,126.5,172.5,14,22823874560,Information Technology Services,Technology
-FLTR.L,17005.0,24283.768,14,31604836352,Gambling,Consumer Cyclical
-TUI1.DE,7.234,10.83929,14,3901169152,Travel Services,Consumer Cyclical
-EDEN.PA,21.45,34.85,14,6088651264,Credit Services,Financial Services
-IMCD.AS,83.02,137.32143,14,5320746496,Specialty Chemicals,Basic Materials
-WLN.PA,1.9575,2.87143,14,692532288,Software - Infrastructure,Technology
-AZE.BR,9.725,17.39286,14,2537190912,Specialty Chemicals,Basic Materials
-HFG.DE,5.906,10.64071,14,1100599808,Restaurants,Consumer Cyclical
-UBI.PA,6.048,12.34286,14,1036772544,Electronic Gaming & Multimedia,Communication Services
-UMI.BR,16.65,14.78667,15,4032172288,Waste Management,Industrials
-STAN.L,1619.0,1599.6765,15,36917542912,Banks - Diversified,Financial Services
-SREN.SW,148.55,144.1689,15,43684233216,Insurance - Reinsurance,Financial Services
-IDR.MC,49.62,49.32,15,8705672192,Information Technology Services,Technology
-KGX.DE,62.55,63.23333,15,8303111680,Farm & Heavy Construction Machinery,Industrials
-AT1.DE,3.122,3.17667,15,3415450880,Real Estate Services,Real Estate
-NG.L,1153.5,1184.1329,15,57231339520,Utilities - Regulated Electric,Utilities
-DBK.DE,31.85,32.39667,15,61347966976,Banks - Regional,Financial Services
-SAB.MC,3.287,3.34233,15,16502774784,Banks - Diversified,Financial Services
-TEMN.SW,73.7,74.15658,15,5315387392,Software - Application,Technology
-CON.DE,67.4,70.55714,14,13480403968,Auto Parts,Consumer Cyclical
-ADP.PA,119.7,124.13333,15,11909652480,Airports & Air Services,Industrials
-AD.AS,35.83,37.46467,15,32137342976,Grocery Stores,Consumer Defensive
-VACN.SW,335.9,351.8,15,10753500160,Specialty Industrial Machinery,Industrials
-BCP.LS,0.7852,0.834,15,11624593408,Banks - Regional,Financial Services
-OMV.VI,47.96,50.68667,15,15682970624,Oil & Gas Integrated,Energy
-SOLB.BR,26.66,28.53333,15,2787129600,Chemicals,Basic Materials
-MKS.L,384.138,420.047,15,8058009088,Department Stores,Consumer Cyclical
-AMUN.PA,67.2,73.17333,15,13759943680,Asset Management,Financial Services
-BARC.L,411.45,447.06702,15,57547997184,Banks - Diversified,Financial Services
-LGEN.L,242.0,264.06702,15,13624449024,Asset Management,Financial Services
-SGRO.L,724.0,794.933,15,9793513472,REIT - Industrial,Real Estate
-ALO.PA,21.47,23.19333,15,10280675328,Railroads,Industrials
-WDP.BR,22.16,24.69333,15,5210693120,REIT - Industrial,Real Estate
-HSX.L,1378.0,1504.2231,15,4566143488,Insurance - Property & Casualty,Financial Services
-GET.PA,15.73,17.71333,15,8593029120,Railroads,Industrials
-MRO.L,617.8,682.667,15,8010893824,Specialty Industrial Machinery,Industrials
-ADM.L,3246.0,3604.933,15,9798067200,Insurance - Property & Casualty,Financial Services
-FEVR.L,833.0,928.667,15,983719168,Beverages - Non-Alcoholic,Consumer Defensive
-ELIS.PA,24.34,27.74667,15,5667905024,Specialty Business Services,Industrials
-HNR1.DE,255.6,284.53333,15,30824628224,Insurance - Reinsurance,Financial Services
-FDR.MC,23.48,26.746,15,4852768256,Specialty Industrial Machinery,Industrials
-BEZ.L,897.5,1031.0812,15,5530748928,Insurance - Specialty,Financial Services
-CCH.L,3576.0,4145.2744,15,12999042048,Beverages - Non-Alcoholic,Consumer Defensive
-SCR.PA,26.98,31.51143,14,4841148416,Insurance - Reinsurance,Financial Services
-SSE.L,1870.0,2239.667,15,21116837888,Utilities - Diversified,Utilities
-AM.PA,276.4,324.06668,15,21968605184,Aerospace & Defense,Industrials
-HWDN.L,812.0,957.0,15,4695763456,"Furnishings, Fixtures & Appliances",Consumer Cyclical
-BWY.L,2690.0,3146.2668,15,3180281088,Residential Construction,Consumer Cyclical
-RS1.L,586.5,701.667,15,2747817216,Industrial Distribution,Industrials
-AHT.L,4794.0,5790.227,15,21805748224,Rental & Leasing Services,Industrials
-DB1.DE,208.6,256.93332,15,39808663552,Financial Data & Stock Exchanges,Financial Services
-TW.L,105.35,130.533,15,3815924992,Residential Construction,Consumer Cyclical
-EXPN.L,3441.0,4439.218,15,32734601216,Consulting Services,Industrials
-ICG.L,1973.0,2592.333,15,5734287360,Asset Management,Financial Services
-ALC.SW,59.78,80.52959,15,29945829376,Medical Instruments & Supplies,Healthcare
-CLN.SW,6.945,9.78,15,2399677952,Specialty Chemicals,Basic Materials
-LXS.DE,17.51,23.62,15,1831344256,Specialty Chemicals,Basic Materials
-INPST.AS,10.45,17.303535,15,5671532032,Specialty Business Services,Industrials
-TEP.PA,58.66,108.6,15,3657170944,Specialty Business Services,Industrials
-SLR.MC,15.735,13.30312,16,1966102016,Utilities - Renewable,Utilities
-GEBN.SW,625.0,562.0625,16,20601466880,Building Products & Equipment,Industrials
-ZURN.SW,565.2,552.8015,16,80419708928,Insurance - Diversified,Financial Services
-HSBA.L,1080.0,1062.7584,16,185392070656,Banks - Diversified,Financial Services
-VOD.L,88.44,88.08045,16,22042021888,Telecom Services,Communication Services
-ABN.AS,27.2,27.4125,16,22391074816,Banks - Diversified,Financial Services
-VTY.L,648.0,642.0,16,2123614976,Residential Construction,Consumer Cyclical
-KBC.BR,106.45,106.73125,16,42214166528,Banks - Regional,Financial Services
-FRA.DE,72.75,74.525,16,6864873984,Airports & Air Services,Industrials
-ALV.DE,353.0,364.98312,16,136099618816,Insurance - Diversified,Financial Services
-MUV2.DE,539.8,560.3706,16,69961170944,Insurance - Reinsurance,Financial Services
-FHZN.SW,237.8,251.0,16,7331375104,Airports & Air Services,Industrials
-SDR.L,387.0,410.456,16,6000722432,Asset Management,Financial Services
-LAND.L,641.5,691.812,16,4779116032,REIT - Diversified,Real Estate
-BLND.L,397.2,432.312,16,3971139840,REIT - Diversified,Real Estate
-RTO.L,413.2,454.756,16,10668786688,Specialty Business Services,Industrials
-UBSG.SW,30.82,33.7675,16,97486077952,Banks - Diversified,Financial Services
-SHEL.L,2870.0,3144.3738,16,164961157120,Oil & Gas Integrated,Energy
-ADEN.SW,24.94,26.89945,16,4175849216,Staffing & Employment Services,Industrials
-AUTO.L,752.4,862.125,16,6745668096,Internet Content & Information,Communication Services
-ENX.PA,127.1,146.5,16,12906054656,Financial Data & Stock Exchanges,Financial Services
-HLN.L,359.2,415.25,16,31989899264,Drug Manufacturers - Specialty & Generic,Healthcare
-HO.PA,242.2,279.6875,16,51010609152,Aerospace & Defense,Industrials
-AF.PA,10.085,11.75312,16,3185239296,Airlines,Industrials
-ACA.PA,15.8,18.58062,16,47805440000,Banks - Regional,Financial Services
-WTB.L,2853.0,3405.6252,16,4988199424,Lodging,Consumer Cyclical
-BVI.PA,27.98,33.76562,16,12678891520,Consulting Services,Industrials
-IAG.L,381.4,462.71213,16,19971481600,Airlines,Industrials
-PSN.L,1225.5,1481.938,16,3954451712,Residential Construction,Consumer Cyclical
-AFX.DE,43.56,53.65625,16,4008473600,Medical Instruments & Supplies,Healthcare
-SHUR.BR,30.4,40.91875,16,3195360256,REIT - Specialty,Real Estate
-ALLFG.AS,6.41,8.3275,16,4109421568,Asset Management,Financial Services
-FGR.PA,108.45,142.4,16,10438510592,Engineering & Construction,Industrials
-LSEG.L,9210.0,12311.0,16,48588898304,Financial Data & Stock Exchanges,Financial Services
-G24.DE,93.85,124.1,16,6821675520,Internet Content & Information,Communication Services
-AKE.PA,51.45,70.0,16,3887641856,Specialty Chemicals,Basic Materials
-VNA.DE,25.18,35.1,16,21587898368,Real Estate Services,Real Estate
-IHG.L,9914.0,9270.206,17,14953476096,Lodging,Consumer Cyclical
-NTGY.MC,27.44,26.54,17,26355943424,Utilities - Regulated Gas,Utilities
-DHL.DE,43.7,42.87059,17,49472847872,Integrated Freight & Logistics,Industrials
-ABF.L,2262.0,2252.353,17,16322054144,Packaged Foods,Consumer Defensive
-HLMA.L,3410.0,3420.4707,17,13464375296,Conglomerates,Industrials
-ENGI.PA,21.05,21.71765,17,51192287232,Utilities - Diversified,Utilities
-LHA.DE,7.534,7.58824,17,9180259328,Airlines,Industrials
-WEIR.L,2906.0,3049.1182,17,7732411904,Specialty Industrial Machinery,Industrials
-RR.L,1148.8412,1192.706,17,97808506880,Aerospace & Defense,Industrials
-HEI.DE,200.7,210.2889,18,36966834176,Building Materials,Basic Materials
-RWE.DE,43.06,46.1,17,31265071104,Utilities - Diversified,Utilities
-NWG.L,605.4,636.588,17,48498786304,Banks - Regional,Financial Services
-EOAN.DE,16.07,16.99606,17,41992163328,Utilities - Diversified,Utilities
-KNIN.SW,151.9,160.41176,17,18405699584,Integrated Freight & Logistics,Industrials
-RKT.L,5856.7217,6249.824,17,39484112896,Household & Personal Products,Consumer Defensive
-PRX.AS,61.65,66.936,17,140359188480,Internet Retail,Consumer Cyclical
-SPX.L,6995.0,7692.9414,17,5297443328,Specialty Industrial Machinery,Industrials
-PHIA.AS,24.54,26.98824,17,23337025536,Medical Devices,Healthcare
-ORA.PA,14.05,15.47647,17,37352624128,Telecom Services,Communication Services
-BKG.L,3976.0,4384.647,17,3912666112,Residential Construction,Consumer Cyclical
-GLEN.L,365.75,404.3453,17,43931004928,Other Industrial Metals & Mining,Basic Materials
-MTX.DE,368.6,412.35294,17,20644241408,Aerospace & Defense,Industrials
-SOON.SW,211.7,242.4706,17,13054971904,Medical Devices,Healthcare
-FME.DE,41.43,48.05882,17,13463104512,Medical Care Facilities,Healthcare
-ITRK.L,4958.0,5743.647,17,7806238720,Specialty Business Services,Industrials
-AC.PA,46.67,52.56765,17,10925120512,Lodging,Consumer Cyclical
-SN.L,1268.0,1437.6927,17,11924003840,Medical Devices,Healthcare
-SYENS.BR,70.84,82.82353,17,7445663744,Chemicals,Basic Materials
-BT-A.L,174.95,206.059,17,17649508352,Telecom Services,Communication Services
-BA.L,1823.0,2134.824,17,55138054144,Aerospace & Defense,Industrials
-CTPNV.AS,18.22,21.69882,17,8761517056,Real Estate - Development,Real Estate
-CS.PA,37.63,44.89647,17,80166502400,Insurance - Diversified,Financial Services
-SGE.L,1109.0,1342.765,17,11056588800,Software - Application,Technology
-RAND.AS,33.84,41.32353,17,6052670976,Staffing & Employment Services,Industrials
-RHM.DE,1785.5,2174.1177,17,79674908672,Aerospace & Defense,Industrials
-WISE.L,924.5,1185.529,17,9942975488,Information Technology Services,Technology
-SOI.PA,37.86,48.35294,17,1496768512,Semiconductor Equipment & Materials,Technology
-SW.PA,46.14,58.99118,17,7035191808,Specialty Business Services,Industrials
-MRK.DE,110.4,143.76471,17,49370267648,Drug Manufacturers - Specialty & Generic,Healthcare
-NEM.DE,95.1,124.20588,17,11817159680,Software - Application,Technology
-RMV.L,566.4,710.412,17,5057910272,Internet Content & Information,Communication Services
-BNP.PA,67.15,89.71647,17,76862701568,Banks - Regional,Financial Services
-JD.L,85.44,119.940994,17,4707508736,Apparel Retail,Consumer Cyclical
-UHR.SW,165.45,133.01666,18,8770920448,Luxury Goods,Consumer Cyclical
-SCMN.SW,594.0,542.7707,18,30770354176,Telecom Services,Communication Services
-UNI.MC,2.46,2.35333,18,6317809664,Banks - Regional,Financial Services
-GSK.L,1771.0,1798.056,18,71642112000,Drug Manufacturers - General,Healthcare
-BBVA.MC,17.875,17.86222,18,102875725824,Banks - Diversified,Financial Services
-INGA.AS,22.38,22.82722,18,65147502592,Banks - Diversified,Financial Services
-NOVN.SW,101.9,103.20529,18,195524919296,Drug Manufacturers - General,Healthcare
-LLOY.L,91.6807,94.222,18,54049058816,Banks - Regional,Financial Services
-BHP.L,2109.0,2138.9185,18,111413288960,Other Industrial Metals & Mining,Basic Materials
-SGSN.SW,90.26,94.66667,18,17494401024,Consulting Services,Industrials
-RCO.PA,43.46,46.38333,18,2316903680,Beverages - Wineries & Distilleries,Consumer Defensive
-LR.PA,132.15,141.99167,18,39886286848,Electrical Equipment & Parts,Industrials
-BRBY.L,1169.5,1267.5,18,4554757120,Luxury Goods,Consumer Cyclical
-ULVR.L,4586.0,5045.5396,18,112443547648,Household & Personal Products,Consumer Defensive
-ROG.SW,274.0,298.33722,18,211873087488,Drug Manufacturers - General,Healthcare
-HEN3.DE,73.02,80.57667,18,28599345152,Household & Personal Products,Consumer Defensive
-UCB.BR,227.9,256.66666,18,43300134912,Biotechnology,Healthcare
-GLE.PA,56.34,64.90833,18,43268710400,Banks - Regional,Financial Services
-BNZL.L,2200.0,2618.333,18,7420367872,Food Distribution,Consumer Defensive
-VIE.PA,28.88,34.98333,18,21120372736,Waste Management,Industrials
-AKZA.AS,57.86,69.5,18,9896471552,Specialty Chemicals,Basic Materials
-RI.PA,84.08,104.72222,18,21811214336,Beverages - Wineries & Distilleries,Consumer Defensive
-COL.MC,5.44,7.01444,18,3390871296,REIT - Office,Real Estate
-SGO.PA,80.4,106.56111,18,42001784832,Building Products & Equipment,Industrials
-UMG.AS,22.4,29.43889,18,42522652672,Entertainment,Communication Services
-CTEC.L,237.2,308.29816,18,4871197696,Medical Instruments & Supplies,Healthcare
-RNO.PA,34.54,46.55556,18,10012408832,Auto Manufacturers,Consumer Cyclical
-BTRW.L,381.7,513.167,18,5408932864,Residential Construction,Consumer Cyclical
-DSY.PA,23.79,31.87778,18,33040400384,Software - Application,Technology
-SY1.DE,72.08,102.11389,18,10097276928,Specialty Chemicals,Basic Materials
-DTE.DE,26.47,37.96111,18,132372643840,Telecom Services,Communication Services
-DHER.DE,17.99,32.53278,18,5893788160,Internet Retail,Consumer Cyclical
-FER.MC,54.5,52.99211,19,39070121984,Engineering & Construction,Industrials
+AJB.L,544.0,555.833,12,2187384064,Asset Management,Financial Services
+BATS.L,4270.0,4291.667,12,92927197184,Tobacco,Consumer Defensive
+SVT.L,2816.0,2893.333,12,8478338048,Utilities - Regulated Water,Utilities
+FRES.L,2356.0,2390.7695,12,17598820352,Other Precious Metals & Mining,Basic Materials
+IMB.L,3210.0,3318.75,12,25762881536,Tobacco,Consumer Defensive
+GRE.MC,77.7,82.15833,12,2181797376,Engineering & Construction,Industrials
+CA.PA,13.165,13.97917,12,9308263424,Grocery Stores,Consumer Defensive
+BARN.SW,1188.0,1292.0,12,6513448960,Confectioners,Consumer Defensive
+BYG.L,1112.0,1240.833,12,2178256128,REIT - Industrial,Real Estate
+SCHN.SW,269.5,298.08334,12,29855463424,Specialty Industrial Machinery,Industrials
+NOS.LS,3.655,4.07083,12,1910927232,Telecom Services,Communication Services
+INF.L,986.4,1083.333,12,12659303424,Publishing,Communication Services
+PNN.L,515.0,587.667,12,2470504960,Utilities - Regulated Water,Utilities
+DNLM.L,1133.0,1288.583,12,2293125888,Specialty Retail,Consumer Cyclical
+GEST.MC,2.838,3.38917,12,1897297536,Auto Parts,Consumer Cyclical
+FRVIA.PA,11.185,13.75,12,2072691584,Auto Parts,Consumer Cyclical
+LMP.L,194.4,228.167,12,4535269888,REIT - Industrial,Real Estate
+LIGHT.AS,20.08,23.93333,12,2510479616,Electrical Equipment & Parts,Industrials
+AMRZ.SW,39.26,48.848206,12,22959388672,Building Materials,Basic Materials
+GRG.L,1554.16,2004.75,12,1642828160,Restaurants,Consumer Cyclical
+VID.MC,82.0,105.86984,12,2929472000,Packaging & Containers,Consumer Cyclical
+DCC.L,4790.0,6164.667,12,4926500864,Oil & Gas Refining & Marketing,Energy
+MEL.MC,7.2,9.31167,12,1587225344,Lodging,Consumer Cyclical
+VCT.L,636.0,846.0,12,567690048,Specialty Chemicals,Basic Materials
+PUB.PA,84.94,113.33333,12,21967597568,Advertising Agencies,Communication Services
+WKL.AS,94.08,141.75,12,23568685056,Specialty Business Services,Industrials
+GRF.MC,10.625,15.8625,12,6750505472,Drug Manufacturers - General,Healthcare
+1SXP.DE,18.0,29.41667,12,2827542784,Medical Instruments & Supplies,Healthcare
+VER.VI,66.6,63.92308,13,23294455808,Utilities - Renewable,Utilities
+FR.PA,12.2,11.85,13,2954259712,Auto Parts,Consumer Cyclical
+LISN.SW,125200.0,121848.766,13,28503156736,Confectioners,Consumer Defensive
+CBK.DE,33.71,32.88462,13,38007894016,Banks - Regional,Financial Services
+WCH.DE,65.55,69.0,13,3393038592,Specialty Chemicals,Basic Materials
+GALD.SW,150.7,149.8687,13,35676246016,Drug Manufacturers - Specialty & Generic,Healthcare
+ABDN.L,203.6,207.692,13,3640821760,Asset Management,Financial Services
+HMSO.L,312.0,318.53098,13,1651464960,REIT - Retail,Real Estate
+PHNX.L,683.5,705.07697,13,6828228096,Insurance - Life,Financial Services
+ARGX.BR,755.8,769.91077,13,46533795840,Biotechnology,Healthcare
+DPLM.L,5440.0,5614.6147,13,7688759296,Industrial Distribution,Industrials
+HAG.DE,88.35,99.76923,13,10728027136,Aerospace & Defense,Industrials
+UU.L,1217.0,1294.462,13,8298582528,Utilities - Regulated Water,Utilities
+ELI.BR,104.6,113.46154,13,11406178304,Utilities - Regulated Electric,Utilities
+CCEP.AS,79.3,85.79154,13,35732647936,Beverages - Non-Alcoholic,Consumer Defensive
+CNA.L,175.15,196.0,13,8312510464,Utilities - Independent Power Producers,Utilities
+STJ.L,1353.0,1513.4619,13,7034713088,Asset Management,Financial Services
+URW.PA,90.2,102.7,13,12927633408,REIT - Retail,Real Estate
+EMG.L,208.3594,241.061,13,2352570368,Asset Management,Financial Services
+SUNN.SW,41.78,49.61538,13,3091981312,Telecom Services,Communication Services
+AVOL.SW,43.24,49.38462,13,6275234816,Specialty Retail,Consumer Cyclical
+RAA.DE,644.0,754.53845,13,7333820416,Specialty Industrial Machinery,Industrials
+PROX.BR,6.85,8.21538,13,2381355008,Telecom Services,Communication Services
+BOSS.DE,36.59,43.64615,13,2644997120,Apparel Manufacturing,Consumer Cyclical
+TE.PA,35.68,42.69231,13,6428017664,Oil & Gas Equipment & Services,Energy
+AG1.DE,26.06,31.23077,13,6619724800,Auto & Truck Dealerships,Consumer Cyclical
+DIM.PA,187.85,233.53847,13,20092035072,Medical Instruments & Supplies,Healthcare
+DEC.PA,15.05,18.63077,13,3396790016,Advertising Agencies,Communication Services
+CRDA.L,2676.0,3453.846,13,3877829632,Specialty Chemicals,Basic Materials
+EVK.DE,13.69,17.51538,13,6537003520,Specialty Chemicals,Basic Materials
+ML.PA,28.64,36.21538,13,20428969984,,
+REL.L,3216.0,4418.454,13,61777547264,Specialty Business Services,Industrials
+CVC.AS,14.2,19.62308,13,15964785664,Asset Management,Financial Services
+OCDO.L,210.6,295.077,13,1844324096,Grocery Stores,Consumer Defensive
+PLX.PA,15.65,22.43077,13,2458735872,Specialty Business Services,Industrials
+JET2.L,1315.3,1948.385,13,2563699456,Travel Services,Consumer Cyclical
+SSPG.L,151.3,224.385,13,1270680192,Restaurants,Consumer Cyclical
+ACS.MC,78.4,64.30714,14,20363720704,Engineering & Construction,Industrials
+AIXA.DE,17.745,15.71429,14,2001385088,Semiconductor Equipment & Materials,Technology
+SDZ.SW,54.62,51.844837,14,23524925440,Drug Manufacturers - Specialty & Generic,Healthcare
+KGF.L,311.6,306.0,14,5340527104,Home Improvement Retail,Consumer Cyclical
+QLT.L,183.6,184.786,14,2548931840,Asset Management,Financial Services
+NDX1.DE,27.36,27.28571,14,6469282304,Specialty Industrial Machinery,Industrials
+EBS.VI,93.1,92.09286,14,36155965440,Banks - Regional,Financial Services
+AV.L,677.007,683.714,14,20574652416,Insurance - Diversified,Financial Services
+G1A.DE,59.35,60.89286,14,9984354304,Specialty Industrial Machinery,Industrials
+LI.PA,33.92,34.6,14,9711655936,REIT - Retail,Real Estate
+AAL.L,2851.0,2929.4294,14,31284068352,Other Industrial Metals & Mining,Basic Materials
+IPN.PA,128.5,130.7857,14,10600458240,Drug Manufacturers - Specialty & Generic,Healthcare
+CON.DE,65.3,71.27143,14,13060390912,Auto Parts,Consumer Cyclical
+LRE.L,678.0,710.5354,14,1640816640,Insurance - Specialty,Financial Services
+R3NK.DE,64.07,70.39286,14,6690738176,Aerospace & Defense,Industrials
+NN.AS,60.36,63.97857,14,15906429952,Insurance - Diversified,Financial Services
+ASRNL.AS,57.48,61.62929,14,12018068480,Insurance - Diversified,Financial Services
+MT.AS,34.19,36.67452,14,26001135616,Steel,Basic Materials
+DWS.DE,53.25,57.43571,14,11049250816,Asset Management,Financial Services
+IMI.L,2480.0,2671.923,13,6106163200,Specialty Industrial Machinery,Industrials
+AGN.AS,6.654,7.12714,14,10583414784,Insurance - Diversified,Financial Services
+BAER.SW,57.28,61.2,14,11734272000,Asset Management,Financial Services
+KBX.DE,81.25,88.14286,14,13171036160,Auto Parts,Consumer Cyclical
+GPE.L,342.0,375.643,14,1379269120,REIT - Office,Real Estate
+NEX.PA,121.1,133.35715,14,5411919360,Electrical Equipment & Parts,Industrials
+ERF.PA,58.26,64.44286,14,10835398656,Diagnostics & Research,Healthcare
+FRE.DE,48.0,53.18571,14,28027152384,Medical Care Facilities,Healthcare
+TPK.L,628.5,707.42896,14,1358362112,Industrial Distribution,Industrials
+BIM.PA,107.2,123.46429,14,13250462720,Diagnostics & Research,Healthcare
+PRU.L,1080.5,1226.843,14,27463882752,Insurance - Life,Financial Services
+ROR.L,333.5126,382.42902,14,2853362176,Specialty Industrial Machinery,Industrials
+8TRA.DE,28.14,32.79286,14,14120794112,Farm & Heavy Construction Machinery,Industrials
+SCR.PA,27.32,31.51143,14,4902156288,Insurance - Reinsurance,Financial Services
+DLN.L,1788.0,2108.929,14,2007761664,REIT - Office,Real Estate
+ACX.MC,11.28,13.57857,14,2811467008,Steel,Basic Materials
+BNR.DE,46.47,57.24286,14,6977681920,Specialty Chemicals,Basic Materials
+SDF.DE,10.94,13.35,14,2053780608,Agricultural Inputs,Basic Materials
+PGHN.SW,969.4,1251.7142,14,25920264192,Asset Management,Financial Services
+CAP.PA,129.95,172.5,14,23446343680,Information Technology Services,Technology
+GFC.PA,80.5,108.81429,14,6014900736,REIT - Office,Real Estate
+LEG.DE,63.7,87.07857,14,5278117376,Real Estate Services,Real Estate
+FLTR.L,17485.0,24112.338,14,32496943104,Gambling,Consumer Cyclical
+WLN.PA,2.08,2.87143,14,735870848,Software - Infrastructure,Technology
+TUI1.DE,7.214,10.83929,14,3890383616,Travel Services,Consumer Cyclical
+EDEN.PA,21.12,34.85,14,5994979328,Credit Services,Financial Services
+UMI.BR,16.46,14.78667,15,3986159360,Waste Management,Industrials
+SREN.SW,150.55,143.718,15,44272377856,Insurance - Reinsurance,Financial Services
+STAN.L,1647.5,1604.8595,15,37559459840,Banks - Diversified,Financial Services
+IDR.MC,49.06,49.32,15,8607422464,Information Technology Services,Technology
+TEMN.SW,75.15,74.26263,15,5299439616,Software - Application,Technology
+KGX.DE,61.45,63.23333,15,8157093888,Farm & Heavy Construction Machinery,Industrials
+DBK.DE,32.425,32.39667,15,62455504896,Banks - Regional,Financial Services
+SAB.MC,3.316,3.34233,15,16571368448,Banks - Diversified,Financial Services
+AT1.DE,3.148,3.17667,15,3443894784,Real Estate Services,Real Estate
+NG.L,1174.0,1184.1329,15,58248454144,Utilities - Regulated Electric,Utilities
+ADP.PA,122.5,124.13333,15,12188240896,Airports & Air Services,Industrials
+AD.AS,36.15,37.46467,15,32424361984,Grocery Stores,Consumer Defensive
+VACN.SW,340.0,351.8,15,10760096768,Specialty Industrial Machinery,Industrials
+BCP.LS,0.7982,0.834,15,11817054208,Banks - Regional,Financial Services
+OMV.VI,47.88,50.68667,15,15656810496,Oil & Gas Integrated,Energy
+SOLB.BR,26.68,28.26667,15,2789220608,Chemicals,Basic Materials
+ALO.PA,21.65,23.19333,15,10366866432,Railroads,Industrials
+BARC.L,421.45,448.733,15,58946658304,Banks - Diversified,Financial Services
+AMUN.PA,67.25,73.04667,15,13770181632,Asset Management,Financial Services
+MKS.L,380.06,420.047,15,7817104384,Department Stores,Consumer Cyclical
+LGEN.L,244.22,264.06702,15,13749434368,Asset Management,Financial Services
+HSX.L,1383.0,1509.077,15,4566094848,Insurance - Property & Casualty,Financial Services
+SGRO.L,731.8,794.933,15,9899024384,REIT - Industrial,Real Estate
+MRO.L,608.4,682.667,15,7857998336,Specialty Industrial Machinery,Industrials
+ADM.L,3258.0,3604.933,15,9804067840,Insurance - Property & Casualty,Financial Services
+WDP.BR,22.32,24.69333,15,5248315392,REIT - Industrial,Real Estate
+HNR1.DE,259.2,287.46667,15,31258779648,Insurance - Reinsurance,Financial Services
+FEVR.L,845.596,928.667,15,998594304,Beverages - Non-Alcoholic,Consumer Defensive
+GET.PA,15.91,17.71333,15,8691360768,Railroads,Industrials
+ELIS.PA,24.28,27.74667,15,5653933568,Specialty Business Services,Industrials
+FDR.MC,23.54,26.746,15,4782287360,Specialty Industrial Machinery,Industrials
+BEZ.L,900.5,1034.5168,15,5521458688,Insurance - Specialty,Financial Services
+CCH.L,3623.1553,4157.5938,15,13170455552,Beverages - Non-Alcoholic,Consumer Defensive
+BWY.L,2783.508,3146.2668,15,3288787456,Residential Construction,Consumer Cyclical
+AM.PA,274.8,324.06668,15,21841434624,Aerospace & Defense,Industrials
+HWDN.L,815.0,956.00006,15,4678307840,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+DTG.DE,35.78,42.52667,15,26676502528,Farm & Heavy Construction Machinery,Industrials
+SSE.L,1993.5,2239.667,15,21975121920,Utilities - Diversified,Utilities
+RS1.L,591.0,701.667,15,2768900352,Industrial Distribution,Industrials
+AHT.L,4843.0,5790.227,15,21447360512,Rental & Leasing Services,Industrials
+DB1.DE,210.5,256.93332,15,40171253760,Financial Data & Stock Exchanges,Financial Services
+TW.L,106.25,130.533,15,3773243136,Residential Construction,Consumer Cyclical
+EXPN.L,3471.0,4445.2656,15,33019994112,Consulting Services,Industrials
+ICG.L,1971.0,2592.333,15,5728475136,Asset Management,Financial Services
+LXS.DE,17.11,23.48667,15,1789508992,Specialty Chemicals,Basic Materials
+ALC.SW,60.58,80.167694,15,30101764096,Medical Instruments & Supplies,Healthcare
+CLN.SW,6.71,9.60667,15,2301691136,Specialty Chemicals,Basic Materials
+SLR.MC,15.525,13.30312,16,1939862400,Utilities - Renewable,Utilities
+GEBN.SW,629.2,562.5,16,20739909632,Building Products & Equipment,Industrials
+ZURN.SW,573.2,552.8906,16,81557987328,Insurance - Diversified,Financial Services
+VTY.L,661.6,640.75,16,2124471168,Residential Construction,Consumer Cyclical
+HSBA.L,1100.4,1066.4999,16,188893937664,Banks - Diversified,Financial Services
+VOD.L,93.4901,88.344246,16,23153922048,Telecom Services,Communication Services
+KBC.BR,108.2,106.73125,16,42908151808,Banks - Regional,Financial Services
+ABN.AS,27.43,27.4125,16,22580410368,Banks - Diversified,Financial Services
+FRA.DE,78.5,74.525,16,7407458304,Airports & Air Services,Industrials
+ALV.DE,356.0,364.98312,16,137256271872,Insurance - Diversified,Financial Services
+MUV2.DE,541.4,560.3706,16,70168551424,Insurance - Reinsurance,Financial Services
+FHZN.SW,243.0,251.0,16,7460107264,Airports & Air Services,Industrials
+SDR.L,389.462,410.456,16,6038898176,Asset Management,Financial Services
+ADEN.SW,24.62,26.809109,16,4122269696,Staffing & Employment Services,Industrials
+LAND.L,643.5,691.812,16,4794016256,REIT - Diversified,Real Estate
+BLND.L,400.4,432.312,16,4003132928,REIT - Diversified,Real Estate
+UBSG.SW,30.92,33.7675,16,96592986112,Banks - Diversified,Financial Services
+SHEL.L,2910.5,3160.7727,16,167065174016,Oil & Gas Integrated,Energy
+RTO.L,413.9,454.756,16,10686860288,Specialty Business Services,Industrials
+AUTO.L,737.4,862.125,16,6612945920,Internet Content & Information,Communication Services
+ENX.PA,127.9,146.5,16,12987289600,Financial Data & Stock Exchanges,Financial Services
+HLN.L,369.6,415.25,16,32916109312,Drug Manufacturers - Specialty & Generic,Healthcare
+HO.PA,239.9,279.6875,16,50526195712,Aerospace & Defense,Industrials
+AF.PA,9.666,11.49688,16,3052902656,Airlines,Industrials
+ACA.PA,15.96,18.58062,16,48289546240,Banks - Regional,Financial Services
+WTB.L,2891.0,3405.6252,16,5006920192,Lodging,Consumer Cyclical
+BVI.PA,28.12,33.76562,16,12742331392,Consulting Services,Industrials
+IAG.L,383.7,464.2186,16,19428730880,Airlines,Industrials
+PSN.L,1256.5,1481.938,16,4024407040,Residential Construction,Consumer Cyclical
+AFX.DE,42.56,53.65625,16,3916451584,Medical Instruments & Supplies,Healthcare
+ALLFG.AS,6.385,8.3275,16,4032203008,Asset Management,Financial Services
+FGR.PA,109.7,142.025,16,10558825472,Engineering & Construction,Industrials
+G24.DE,92.6,124.1,16,6730817024,Internet Content & Information,Communication Services
+LSEG.L,9228.0,12308.75,16,49746399232,Financial Data & Stock Exchanges,Financial Services
+SHUR.BR,30.15,40.91875,16,3169082624,REIT - Specialty,Real Estate
+AKE.PA,51.45,69.875,16,3887641856,Specialty Chemicals,Basic Materials
+VNA.DE,25.31,35.1,16,21699352576,Real Estate Services,Real Estate
+IHG.L,9958.0,9300.977,17,15013550080,Lodging,Consumer Cyclical
+NTGY.MC,26.74,26.54,17,25683597312,Utilities - Regulated Gas,Utilities
+DHL.DE,44.23,42.98824,17,50072858624,Integrated Freight & Logistics,Industrials
+ABF.L,2269.0,2255.294,17,16408818688,Packaged Foods,Consumer Defensive
+HLMA.L,3440.0,3420.4707,17,13511131136,Conglomerates,Industrials
+LHA.DE,7.686,7.58824,17,9365473280,Airlines,Industrials
+ENGI.PA,21.26,21.71765,17,51702996992,Utilities - Diversified,Utilities
+RR.L,1161.5,1192.706,17,98886230016,Aerospace & Defense,Industrials
+WEIR.L,2922.0,3099.1182,17,7732148224,Specialty Industrial Machinery,Industrials
+NWG.L,616.4,636.588,17,49379995648,Banks - Regional,Financial Services
+KNIN.SW,154.3,160.41176,17,18524643328,Integrated Freight & Logistics,Industrials
+EOAN.DE,15.98,16.99606,17,41756987392,Utilities - Diversified,Utilities
+RKT.L,5894.0,6249.824,17,39731912704,Household & Personal Products,Consumer Defensive
+RWE.DE,43.65,46.1,17,31693459456,Utilities - Diversified,Utilities
+PRX.AS,61.15,66.936,17,136865218560,Internet Retail,Consumer Cyclical
+PHIA.AS,24.62,26.98824,17,23413104640,Medical Devices,Healthcare
+SPX.L,7090.0,7692.9414,17,5311694336,Specialty Industrial Machinery,Industrials
+ORA.PA,14.24,15.47647,17,37857746944,Telecom Services,Communication Services
+BKG.L,4068.0,4384.647,17,3946760448,Residential Construction,Consumer Cyclical
+GLEN.L,368.3,405.68753,17,43603238912,Other Industrial Metals & Mining,Basic Materials
+MTX.DE,367.8,412.35294,17,20599433216,Aerospace & Defense,Industrials
+AC.PA,46.88,52.56765,17,10974280704,Lodging,Consumer Cyclical
+SN.L,1259.5,1442.5984,17,11802136576,Medical Devices,Healthcare
+SOON.SW,214.7,242.4706,17,13233711104,Medical Devices,Healthcare
+FME.DE,40.92,48.05882,17,13297374208,Medical Care Facilities,Healthcare
+ITRK.L,4988.0,5743.647,17,7812470784,Specialty Business Services,Industrials
+SYENS.BR,71.66,82.47059,17,7402101248,Chemicals,Basic Materials
+BA.L,1816.5,2134.824,17,54941454336,Aerospace & Defense,Industrials
+BT-A.L,180.4,206.059,17,18199320576,Telecom Services,Communication Services
+CS.PA,37.97,44.89647,17,81005322240,Insurance - Diversified,Financial Services
+CTPNV.AS,17.92,21.69882,17,8723760128,Real Estate - Development,Real Estate
+SGE.L,1123.0,1342.765,17,11175874560,Software - Application,Technology
+RHM.DE,1746.5,2174.1177,17,77934600192,Aerospace & Defense,Industrials
+RAND.AS,33.46,41.32353,17,5984703488,Staffing & Employment Services,Industrials
+RMV.L,565.2,698.941,17,5138570752,Internet Content & Information,Communication Services
+SOI.PA,37.71,48.35294,17,1490838272,Semiconductor Equipment & Materials,Technology
+SW.PA,45.96,58.99118,17,7007746048,Specialty Business Services,Industrials
+WISE.L,951.5,1185.235,17,10233360384,Information Technology Services,Technology
+NEM.DE,93.05,123.44118,17,11562426368,Software - Application,Technology
+MRK.DE,110.45,143.76471,17,49392627712,Drug Manufacturers - Specialty & Generic,Healthcare
+BNP.PA,67.59,89.71647,17,77366337536,Banks - Regional,Financial Services
+JD.L,85.02,119.940994,17,4667787264,Apparel Retail,Consumer Cyclical
+UHR.SW,173.0,133.01666,18,9080306688,Luxury Goods,Consumer Cyclical
+SCMN.SW,597.5,542.7707,18,30951661568,Telecom Services,Communication Services
+UNI.MC,2.506,2.35333,18,6435947520,Banks - Regional,Financial Services
+BBVA.MC,18.37,18.10105,19,105724600320,Banks - Diversified,Financial Services
+NOVN.SW,102.86,102.83952,18,197366956032,Drug Manufacturers - General,Healthcare
+GSK.L,1798.0,1798.056,18,72590680064,Drug Manufacturers - General,Healthcare
+BHP.L,2117.0,2146.4014,18,110983012352,Other Industrial Metals & Mining,Basic Materials
+INGA.AS,22.585,22.83278,18,65744252928,Banks - Diversified,Financial Services
+LLOY.L,93.72,94.222,18,55241510912,Banks - Regional,Financial Services
+SGSN.SW,90.66,94.66667,18,17552535552,Consulting Services,Industrials
+HEI.DE,207.8,210.2889,18,38274584576,Building Materials,Basic Materials
+RCO.PA,43.82,46.38333,18,2336095744,Beverages - Wineries & Distilleries,Consumer Defensive
+LR.PA,131.25,141.99167,18,39614644224,Electrical Equipment & Parts,Industrials
+BRBY.L,1194.0,1267.5,18,4650175488,Luxury Goods,Consumer Cyclical
+ROG.SW,283.0,300.00388,18,210593841152,Drug Manufacturers - General,Healthcare
+ULVR.L,4619.0,5060.592,18,113252663296,Household & Personal Products,Consumer Defensive
+HEN3.DE,72.62,80.46556,18,28442683392,Household & Personal Products,Consumer Defensive
+UCB.BR,227.7,256.66666,18,43262136320,Biotechnology,Healthcare
+GLE.PA,56.4,64.90833,18,43314790400,Banks - Regional,Financial Services
+BNZL.L,2208.0,2618.333,18,7447351296,Food Distribution,Consumer Defensive
+AKZA.AS,57.34,69.5,18,9807529984,Specialty Chemicals,Basic Materials
+VIE.PA,28.99,34.87222,18,21198477312,Waste Management,Industrials
+RI.PA,84.5,104.72222,18,21920165888,Beverages - Wineries & Distilleries,Consumer Defensive
+COL.MC,5.455,7.01444,18,3384551936,REIT - Office,Real Estate
+CTEC.L,235.4,309.3459,18,4854820864,Medical Instruments & Supplies,Healthcare
+UMG.AS,22.38,29.43889,18,42484686848,Entertainment,Communication Services
+SGO.PA,82.04,106.56111,18,42858541056,Building Products & Equipment,Industrials
+DSY.PA,23.85,31.87778,18,33123729408,Software - Application,Technology
+BTRW.L,396.8,512.056,18,5615768064,Residential Construction,Consumer Cyclical
+RNO.PA,34.72,46.55556,18,10064587776,Auto Manufacturers,Consumer Cyclical
+SY1.DE,71.44,102.11389,18,10007622656,Specialty Chemicals,Basic Materials
+DTE.DE,26.91,37.96111,18,134573023232,Telecom Services,Communication Services
+FER.MC,55.0,52.99211,19,39428567040,Engineering & Construction,Industrials
 P911.DE,45.91,45.69474,19,41323937792,Auto Manufacturers,Consumer Cyclical
-BP.L,462.3,471.86667,19,70955638784,Oil & Gas Integrated,Energy
-ENG.MC,14.23,14.92211,19,3698984192,Utilities - Regulated Gas,Utilities
-SAF.PA,306.7,328.14105,19,130811625472,Aerospace & Defense,Industrials
-MRL.MC,13.33,14.51316,19,7637994496,REIT - Office,Real Estate
-BAYN.DE,26.37,28.44737,19,26336507904,Drug Manufacturers - General,Healthcare
-AZN.L,12948.0,14454.702,19,200729034752,Drug Manufacturers - General,Healthcare
-ASM.AS,541.0,621.0,19,28208148480,Semiconductor Equipment & Materials,Technology
-CPG.L,2491.0,2844.1006,19,42545569792,Restaurants,Consumer Cyclical
-JMT.LS,21.8,25.41316,19,14129963008,Food Distribution,Consumer Defensive
-STMN.SW,98.36,111.60526,19,16401347584,Medical Instruments & Supplies,Healthcare
-STMPA.PA,20.365,24.69984,19,19206461440,Semiconductors,Technology
-GIVN.SW,3356.0,4005.4211,19,30973186048,Specialty Chemicals,Basic Materials
-TEF.MC,3.602,4.405,20,24374894592,Telecom Services,Communication Services
-BEI.DE,94.08,116.89474,19,20827353088,Household & Personal Products,Consumer Defensive
-SHL.DE,43.05,58.59474,19,52936536064,Medical Devices,Healthcare
-SIKA.SW,153.55,212.42105,19,25445593088,Specialty Chemicals,Basic Materials
-ENT.L,746.0,1171.053,19,5170787840,Gambling,Consumer Cyclical
-ANTO.L,2801.0,2524.0825,20,28293292032,Copper,Basic Materials
-NXT.L,14310.0,13863.499,20,16645389312,Apparel Retail,Consumer Cyclical
-EL.PA,310.4,310.95,20,147275317248,Medical Instruments & Supplies,Healthcare
-BN.PA,78.06,78.77,20,50267770880,Packaged Foods,Consumer Defensive
-HOLN.SW,71.24,72.05,20,39812411392,Building Materials,Basic Materials
-CABK.MC,9.102,9.361,20,64746430464,Banks - Regional,Financial Services
-SAN.MC,9.007,9.23275,20,133145083904,Banks - Diversified,Financial Services
-AIR.PA,211.15,224.4,20,170519625728,Aerospace & Defense,Industrials
-BESI.AS,139.7,150.15,20,12129117184,Semiconductor Equipment & Materials,Technology
-KPN.AS,3.91,4.229,20,15296198656,Telecom Services,Communication Services
-RIO.L,5291.0,5640.404,20,90244653056,Other Industrial Metals & Mining,Basic Materials
-GALP.LS,17.735,19.46,20,12979636224,Oil & Gas Integrated,Energy
-NESN.SW,79.03,87.75,20,203321671680,Packaged Foods,Consumer Defensive
-RYA.IR,26.77,29.57,20,28239640576,Airlines,Industrials
-RED.MC,15.33,17.5665,20,8457838080,Utilities - Regulated Electric,Utilities
-RMS.PA,2092.0,2391.7,20,229015388160,Luxury Goods,Consumer Cyclical
-BAS.DE,43.3,49.425,20,38646210560,Chemicals,Basic Materials
-SRT3.DE,224.9,259.6,20,14904587264,Medical Instruments & Supplies,Healthcare
-AI.PA,169.58,197.75,20,97864417280,Specialty Chemicals,Basic Materials
-DG.PA,116.25,136.885,20,65148473344,Engineering & Construction,Industrials
-VOW3.DE,95.5,112.075,20,46966861824,Auto Manufacturers,Consumer Cyclical
-EZJ.L,484.9,626.25,20,3741745920,Airlines,Industrials
-DSFIR.AS,70.68,104.45,20,18103814144,Specialty Chemicals,Basic Materials
-ANE.MC,24.46,23.09048,21,7940024320,Utilities - Renewable,Utilities
-IBE.MC,17.57,16.85476,21,117389164544,Utilities - Diversified,Utilities
-BMW.DE,87.08,87.68571,21,50847617024,Auto Manufacturers,Consumer Cyclical
-BKT.MC,13.43,13.57238,21,12069232640,Banks - Regional,Financial Services
-MBG.DE,58.77,60.67619,21,56589848576,Auto Manufacturers,Consumer Cyclical
-SIE.DE,244.45,254.01727,22,194587721728,Specialty Industrial Machinery,Industrials
-AENA.MC,22.37,24.30476,21,35984531456,Airports & Air Services,Industrials
-SU.PA,234.45,264.91238,21,140722946048,Specialty Industrial Machinery,Industrials
-TTE.PA,53.82,61.194336,21,117079474176,Oil & Gas Integrated,Energy
-AMS.MC,67.56,77.37,20,29140973568,Information Technology Services,Technology
-EDP.LS,3.918,4.55238,21,18061699072,Utilities - Diversified,Utilities
-DGE.L,1843.0615,2219.5208,21,41536176128,Beverages - Wineries & Distilleries,Consumer Defensive
-WIZZ.L,1020.0,1354.7958,21,1126960640,Airlines,Industrials
-PUM.DE,16.42,24.22857,21,2754715392,Footwear & Accessories,Consumer Cyclical
-ELE.MC,31.69,26.85864,22,32896811008,Utilities - Regulated Electric,Utilities
-KER.PA,307.8,291.22726,22,38610898944,Luxury Goods,Consumer Cyclical
-SAN.PA,86.12,106.85455,22,107544936448,Drug Manufacturers - General,Healthcare
-HEIA.AS,69.94,86.27818,22,39008169984,Beverages - Brewers,Consumer Defensive
-LONN.SW,534.6,677.5455,22,39182491648,Diagnostics & Research,Healthcare
-IFX.DE,33.54,42.88636,22,44095516672,Semiconductors,Technology
-CLNX.MC,26.23,40.44091,22,18188994560,Real Estate Services,Real Estate
-REP.MC,16.55,15.94565,23,18487941120,Oil & Gas Integrated,Energy
-ENR.DE,107.0,101.33261,23,85162000384,Specialty Industrial Machinery,Industrials
-EDPR.LS,12.02,12.88478,23,13668238336,Utilities - Renewable,Utilities
-ITX.MC,48.14,50.68696,23,151157948416,Apparel Retail,Consumer Cyclical
-ABI.BR,54.48,68.55008,23,103332700160,Beverages - Brewers,Consumer Defensive
-MC.PA,615.4,598.025,24,310080798720,Luxury Goods,Consumer Cyclical
-CFR.SW,157.65,169.39227,24,94931984384,Luxury Goods,Consumer Cyclical
-OR.PA,354.85,386.14584,24,193783808000,Household & Personal Products,Consumer Defensive
-ZAL.DE,22.76,36.675,24,5928700928,Internet Retail,Consumer Cyclical
-ABBN.SW,57.18,55.71122,25,110629191680,Electrical Equipment & Parts,Industrials
-SAP.DE,218.6,288.6668,25,262174982144,Software - Application,Technology
-ADYEN.AS,1368.2,1809.0486,28,48013967360,Software - Infrastructure,Technology
-ADS.DE,158.3,231.65356,28,29053628416,Footwear & Accessories,Consumer Cyclical
-ASML.AS,894.8,954.1613,31,366179942400,Semiconductor Equipment & Materials,Technology
-RDC.DE,63.3,147.22221,9,1467437056,Pharmaceutical Retailers,Healthcare
-HYQ.DE,125.2,261.6,5,917365312,Credit Services,Financial Services
-HEIO.AS,61.05,107.0,2,17044171776,Beverages - Brewers,Consumer Defensive
-AB9.DE,34.7,107.16667,3,319964512,Engineering & Construction,Industrials
-GXI.DE,24.38,34.62143,14,925220992,Medical Instruments & Supplies,Healthcare
-KAP.IL,55.0,25832.5,7,14264634368,Uranium,Energy
-FYB.DE,20.05,43.625,8,383978272,Biotechnology,Healthcare
-NB2.DE,16.5,34.0,5,1133351936,Information Technology Services,Technology
-ILM1.DE,12.4,23.0,5,316270976,Medical Distribution,Healthcare
-PCZ.DE,7.82,16.0,3,466614848,Banks - Diversified,Financial Services
-TMV.DE,6.01,11.30312,16,1005731520,Software - Application,Technology
-ORY.MC,3.12,7.04333,3,265523440,Biotechnology,Healthcare
-DOM.MC,3.08,5.824,5,481591168,Information Technology Services,Technology
-FOUR.L,3305.221,4953.322,5,951043584,Advertising Agencies,Communication Services
-DOCM.SW,5.185,11.94,10,272066784,Pharmaceutical Retailers,Healthcare
-NA9.DE,45.08,84.0,4,618342784,Information Technology Services,Technology
-RHIM.L,2315.0,3507.0403,6,1168704640,Metal Fabrication,Industrials
-DEC.L,1080.891,1942.9487,4,822728192,Oil & Gas Integrated,Energy
-GAMA.L,971.0,1600.556,9,918936640,Telecom Services,Communication Services
-PNE3.DE,10.22,19.66667,3,814809664,Utilities - Renewable,Utilities
-YNGA.L,764.48,1402.0,5,440486464,Restaurants,Consumer Cyclical
-UTG.L,562.0,918.33295,9,2769050368,REIT - Diversified,Real Estate
-FUTR.L,610.0,1254.222,9,614076160,Publishing,Communication Services
-PINE.L,364.0,722.333,3,426542176,Software - Application,Technology
-TRN.L,260.6,425.077,13,1032400640,Travel Services,Consumer Cyclical
-ATG.L,294.5,594.125,8,380208704,Software - Application,Technology
-FARN.L,200.0,999.9608,1,236567088,Biotechnology,Healthcare
-PTEC.L,246.0,519.8321,7,821230336,Gambling,Consumer Cyclical
-AT.L,311.5,659.125,8,269744832,Oil & Gas Equipment & Services,Energy
-KMR.L,250.38,565.33026,4,230276448,Other Industrial Metals & Mining,Basic Materials
-YOU.L,270.0128,451.833,6,316449760,Consulting Services,Industrials
-JHD.L,141.5,320.0,1,589752832,Building Products & Equipment,Industrials
-FDM.L,125.635,270.0,4,137170784,Information Technology Services,Technology
-MSLH.L,170.04,288.857,7,435105536,Building Materials,Basic Materials
-FRAN.L,128.15,259.0,4,246601488,Specialty Business Services,Industrials
-BME.L,166.55,291.875,16,1836985728,Discount Stores,Consumer Defensive
-SYNC.L,101.2414,192.66699,3,620307776,Asset Management,Financial Services
-ESNT.L,94.0,195.83301,6,280303008,Specialty Chemicals,Basic Materials
-RCH.L,54.8,160.33301,3,192443456,Publishing,Communication Services
-EVOK.L,36.278,100.91382,7,194817328,Gambling,Consumer Cyclical
-RWS.L,74.1,188.333,3,293736192,Specialty Business Services,Industrials
-DATA.L,104.0,227.857,7,789071936,Consulting Services,Industrials
-PTAL.L,35.7,100.43322,3,329812864,Oil & Gas E&P,Energy
-SOLG.L,19.845,49.333,3,595900416,Other Industrial Metals & Mining,Basic Materials
+BP.L,470.55,476.50888,19,72214601728,Oil & Gas Integrated,Energy
+ENG.MC,14.14,14.92211,19,3675589376,Utilities - Regulated Gas,Utilities
+SAF.PA,308.9,328.14105,19,131749953536,Aerospace & Defense,Industrials
+BAYN.DE,26.475,28.44737,19,26441373696,Drug Manufacturers - General,Healthcare
+MRL.MC,13.15,14.51316,19,7557636608,REIT - Office,Real Estate
+AZN.L,13372.0,14482.423,19,207302180864,Drug Manufacturers - General,Healthcare
+STMN.SW,100.55,111.60526,19,16570928128,Medical Instruments & Supplies,Healthcare
+CPG.L,2517.0,2876.0151,19,43440521216,Restaurants,Consumer Cyclical
+ASM.AS,543.8,625.7368,19,28354142208,Semiconductor Equipment & Materials,Technology
+JMT.LS,21.88,25.41316,19,14181816320,Food Distribution,Consumer Defensive
+GIVN.SW,3411.0,4015.9473,19,31480791040,Specialty Chemicals,Basic Materials
+STMPA.PA,20.625,24.711275,19,19451670528,Semiconductors,Technology
+BEI.DE,93.38,116.89474,19,20672387072,Household & Personal Products,Consumer Defensive
+SHL.DE,43.48,57.96316,19,53477707776,Medical Devices,Healthcare
+SIKA.SW,154.3,212.42105,19,25561483264,Specialty Chemicals,Basic Materials
+ENT.L,758.6,1162.632,19,5105895424,Gambling,Consumer Cyclical
+ANTO.L,2780.5,2529.5505,20,27810461696,Copper,Basic Materials
+NXT.L,14435.0,13863.499,20,16773175296,Apparel Retail,Consumer Cyclical
+EL.PA,312.9,312.2,20,148461502464,Medical Instruments & Supplies,Healthcare
+HOLN.SW,72.16,72.05,20,39761285120,Building Materials,Basic Materials
+BN.PA,78.48,78.77,20,50539872256,Packaged Foods,Consumer Defensive
+SAN.MC,9.185,9.23275,20,135776354304,Banks - Diversified,Financial Services
+CABK.MC,9.262,9.361,20,65031831552,Banks - Regional,Financial Services
+RIO.L,5350.0,5659.6353,20,89959931904,Other Industrial Metals & Mining,Basic Materials
+AIR.PA,211.45,224.4,20,170761895936,Aerospace & Defense,Industrials
+BESI.AS,138.7,150.15,20,12042294272,Semiconductor Equipment & Materials,Technology
+KPN.AS,3.918,4.229,20,15327495168,Telecom Services,Communication Services
+GALP.LS,17.81,19.46,20,13034524672,Oil & Gas Integrated,Energy
+RYA.IR,27.06,29.57,20,28545560576,Airlines,Industrials
+NESN.SW,79.93,87.75,20,205637107712,Packaged Foods,Consumer Defensive
+BAS.DE,43.16,49.325,20,38521257984,Chemicals,Basic Materials
+RMS.PA,2140.0,2391.7,20,234270048256,Luxury Goods,Consumer Cyclical
+RED.MC,15.27,17.5665,20,8430248960,Utilities - Regulated Electric,Utilities
+AMS.MC,66.16,77.37,20,28537106432,Information Technology Services,Technology
+SRT3.DE,226.9,259.6,20,15037130752,Medical Instruments & Supplies,Healthcare
+AI.PA,170.14,197.75,20,98187591680,Specialty Chemicals,Basic Materials
+DG.PA,118.05,136.885,20,66157223936,Engineering & Construction,Industrials
+VOW3.DE,95.96,112.075,20,47193088000,Auto Manufacturers,Consumer Cyclical
+TEF.MC,3.597,4.405,20,24761081856,Telecom Services,Communication Services
+EZJ.L,477.1,626.25,20,3655963648,Airlines,Industrials
+DSFIR.AS,70.42,104.45,20,18037219328,Specialty Chemicals,Basic Materials
+ANE.MC,24.18,23.09048,21,7849133056,Utilities - Renewable,Utilities
+IBE.MC,17.585,16.85476,21,117489377280,Utilities - Diversified,Utilities
+BMW.DE,85.88,87.78095,21,50146910208,Auto Manufacturers,Consumer Cyclical
+BKT.MC,13.695,13.57238,21,12307382272,Banks - Regional,Financial Services
+MBG.DE,58.12,60.9619,21,55963959296,Auto Manufacturers,Consumer Cyclical
+AENA.MC,22.92,24.30476,21,36064542720,Airports & Air Services,Industrials
+SU.PA,234.3,265.15048,21,140632915968,Specialty Industrial Machinery,Industrials
+TTE.PA,54.56,61.38905,21,118689267712,Oil & Gas Integrated,Energy
+EDP.LS,3.805,4.54286,21,17540777984,Utilities - Diversified,Utilities
+DGE.L,1847.5,2224.763,21,41077362688,Beverages - Wineries & Distilleries,Consumer Defensive
+WIZZ.L,1015.0,1358.853,21,1099007616,Airlines,Industrials
+PUM.DE,16.41,24.22857,21,2753037568,Footwear & Accessories,Consumer Cyclical
+ELE.MC,31.72,26.95409,22,32927950848,Utilities - Regulated Electric,Utilities
+KER.PA,314.1,291.22726,22,39401181184,Luxury Goods,Consumer Cyclical
+SIE.DE,246.8,254.01727,22,196458381312,Specialty Industrial Machinery,Industrials
+HEIA.AS,70.38,86.27818,22,39253569536,Beverages - Brewers,Consumer Defensive
+SAN.PA,88.14,106.85455,22,110067474432,Drug Manufacturers - General,Healthcare
+LONN.SW,543.8,677.5455,22,39588093952,Diagnostics & Research,Healthcare
+IFX.DE,33.695,42.88636,22,44299296768,Semiconductors,Technology
+CLNX.MC,26.22,40.05455,22,18459648000,Real Estate Services,Real Estate
+ENR.DE,107.75,101.33261,23,85758935040,Specialty Industrial Machinery,Industrials
+REP.MC,16.6,15.94565,23,18543796224,Oil & Gas Integrated,Energy
+ITX.MC,48.76,50.68696,23,151954046976,Apparel Retail,Consumer Cyclical
+EDPR.LS,11.84,12.8413,23,13463555072,Utilities - Renewable,Utilities
+ABI.BR,55.1,68.53279,23,104393646080,Beverages - Brewers,Consumer Defensive
+MC.PA,630.7,598.025,24,317789962240,Luxury Goods,Consumer Cyclical
+CFR.SW,160.95,168.79959,24,94988115968,Luxury Goods,Consumer Cyclical
+OR.PA,355.15,386.14584,24,193947631616,Household & Personal Products,Consumer Defensive
+ZAL.DE,22.58,36.675,24,5881812992,Internet Retail,Consumer Cyclical
+ABBN.SW,57.04,55.52588,25,108998754304,Electrical Equipment & Parts,Industrials
+SAP.DE,218.75,288.6668,25,262354878464,Software - Application,Technology
+ADYEN.AS,1413.2,1809.0486,28,49593143296,Software - Infrastructure,Technology
+ADS.DE,158.85,231.65356,28,29154572288,Footwear & Accessories,Consumer Cyclical
+ASML.AS,905.5,954.1613,31,370558697472,Semiconductor Equipment & Materials,Technology
+RDC.DE,63.75,146.33333,9,1477869056,Pharmaceutical Retailers,Healthcare
+HYQ.DE,119.6,258.8,5,876332992,Credit Services,Financial Services
+HEIO.AS,61.5,107.0,2,17169804288,Beverages - Brewers,Consumer Defensive
+AB9.DE,34.3,107.16667,3,317198240,Engineering & Construction,Industrials
+GXI.DE,24.0,34.62143,14,910800000,Medical Instruments & Supplies,Healthcare
+KAP.IL,55.9,25832.5,7,14498056192,Uranium,Energy
+FYB.DE,22.1,43.625,8,420118272,Biotechnology,Healthcare
+NB2.DE,16.85,34.0,5,1157392768,Information Technology Services,Technology
+ILM1.DE,13.06,23.0,5,333104768,Medical Distribution,Healthcare
+PCZ.DE,7.88,16.0,3,470195008,Banks - Diversified,Financial Services
+TMV.DE,6.015,11.30312,16,1006568192,Software - Application,Technology
+ORY.MC,2.87,7.04333,3,278170816,Biotechnology,Healthcare
+DOM.MC,3.115,5.824,5,478408384,Information Technology Services,Technology
+LEHN.SW,355.5,847.34,4,515764736,Electronic Components,Technology
+FOUR.L,3990.0,4969.502,5,1120500224,Advertising Agencies,Communication Services
+DOCM.SW,5.28,11.94,10,270633472,Pharmaceutical Retailers,Healthcare
+EXA.PA,75.9,128.0,7,1414050176,Aerospace & Defense,Industrials
+IMCD.AS,83.02,137.32143,14,5320746496,Specialty Chemicals,Basic Materials
+NA9.DE,44.14,84.0,4,605449152,Information Technology Services,Technology
+TEP.PA,58.62,108.6,15,3654676992,Specialty Business Services,Industrials
+IPS.PA,32.18,57.61111,9,1456004096,Consulting Services,Industrials
+SAX.DE,35.85,60.95455,11,2101854720,Advertising Agencies,Communication Services
+RHIM.L,2400.0,3503.0215,6,1135237888,Metal Fabrication,Industrials
+STM.DE,20.3,36.21429,7,528119456,Specialty Industrial Machinery,Industrials
+DEC.L,1093.0,1949.2953,4,831945088,Oil & Gas Integrated,Energy
+GAMA.L,985.0,1600.556,9,923590016,Telecom Services,Communication Services
+DHER.DE,17.325,32.53278,18,5675924480,Internet Retail,Consumer Cyclical
+PNE3.DE,10.28,19.66667,3,840817728,Utilities - Renewable,Utilities
+YNGA.L,771.5,1402.0,5,441053888,Restaurants,Consumer Cyclical
+SIGN.SW,8.25,13.736582,13,3407810816,Packaging & Containers,Consumer Cyclical
+INPST.AS,10.39,17.26093,15,5638968832,Specialty Business Services,Industrials
+AZE.BR,9.64,17.39286,14,2515014912,Specialty Chemicals,Basic Materials
+UTG.L,558.5,918.33295,9,2776463104,REIT - Diversified,Real Estate
+FUTR.L,622.5,1243.1111,9,604260736,Publishing,Communication Services
+MLP.DE,6.24,10.93333,3,705537280,Asset Management,Financial Services
+HFG.DE,5.77,10.64071,14,1075255808,Restaurants,Consumer Cyclical
+UBI.PA,6.444,12.34286,14,1104656384,Electronic Gaming & Multimedia,Communication Services
+PINE.L,361.0,722.333,3,428984800,Software - Application,Technology
+EVT.DE,5.202,9.31429,7,1120141568,Drug Manufacturers - Specialty & Generic,Healthcare
+TRN.L,264.8,427.0,13,1048381376,Travel Services,Consumer Cyclical
+ATG.L,284.0,594.125,8,371798848,Software - Application,Technology
+FARN.L,200.0,1002.94415,1,230652912,Biotechnology,Healthcare
+PTEC.L,243.5,518.6091,7,807825024,Gambling,Consumer Cyclical
+AT.L,309.095,659.125,8,267222720,Oil & Gas Equipment & Services,Energy
+KMR.L,253.5,567.04285,4,229926960,Other Industrial Metals & Mining,Basic Materials
+YOU.L,262.5,451.833,6,312409376,Consulting Services,Industrials
+JHD.L,142.769,320.0,1,595041792,Building Products & Equipment,Industrials
+IVA.PA,3.26,7.95,4,482199744,Biotechnology,Healthcare
+VLA.PA,3.71,6.3,5,704002240,Biotechnology,Healthcare
+OCI.AS,3.272,5.844889,7,722453504,Specialty Chemicals,Basic Materials
+FDM.L,137.16,270.0,4,149754016,Information Technology Services,Technology
+MSLH.L,170.0,288.857,7,431896032,Building Materials,Basic Materials
+FRAN.L,127.0,259.0,4,244388512,Specialty Business Services,Industrials
+BME.L,163.95,291.875,16,1810520576,Discount Stores,Consumer Defensive
+TRST.L,183.5,323.37988,11,831777600,Software - Application,Technology
+DOM.L,181.1525,286.667,9,745675968,Restaurants,Consumer Cyclical
+SYNC.L,100.4919,192.66699,3,618178432,Asset Management,Financial Services
+ESNT.L,92.4,195.83301,6,282503552,Specialty Chemicals,Basic Materials
+RCH.L,55.9,160.33301,3,188496704,Publishing,Communication Services
+EVOK.L,37.016,101.21952,7,194729248,Gambling,Consumer Cyclical
+RWS.L,75.6698,188.333,3,292672544,Specialty Business Services,Industrials
+DATA.L,103.625,227.857,7,790080768,Consulting Services,Industrials
+PTAL.L,36.15,100.737465,3,331634720,Oil & Gas E&P,Energy
+SOLG.L,19.9,49.333,3,597551936,Other Industrial Metals & Mining,Basic Materials
