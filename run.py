@@ -30,14 +30,16 @@ with open("ghIn", newline="") as fin:
 
 with open("ghOut", "w", newline="", encoding="utf-8") as fout:
     writer = csv.writer(fout)
-    writer.writerow(["T","P1","P2","O","T1","T2","V1","V2","V3","V4","C","S","I"])
+    writer.writerow(["T","P1","P2","O1","O2","T1","T2","V1","V2","V3","V4","C","S","I"])
     for sym in symbols:
         info = {}
+        ticker = None
         for attempt in range(4):
             try:
                 sess = get_session()
                 yf.utils.requests = sess
-                info = yf.Ticker(sym).info or {}
+                ticker = yf.Ticker(sym)
+                info = ticker.info or {}
                 break
             except Exception:
                 if attempt == 0:
@@ -49,9 +51,27 @@ with open("ghOut", "w", newline="", encoding="utf-8") as fout:
                 else:
                     break
                 time.sleep(wait)
+        
         P1 = info.get("currentPrice","") or ""
         P2 = info.get("regularMarketPrice","") or ""
-        O = info.get("numberOfAnalystOpinions","") or ""
+        O1 = info.get("numberOfAnalystOpinions","") or ""
+        
+        O2 = ""
+        if ticker is not None:
+            try:
+                rec_summary = ticker.recommendations_summary
+                if rec_summary is not None and not rec_summary.empty:
+                    zero_m_data = rec_summary[rec_summary['period'] == '0m']
+                    if not zero_m_data.empty:
+                        rec_cols = ['strongBuy', 'buy', 'hold', 'sell', 'strongSell']
+                        total = 0
+                        for col in rec_cols:
+                            if col in zero_m_data.columns:
+                                total += int(zero_m_data[col].iloc[0])
+                        O2 = total
+            except Exception:
+                pass
+        
         T1 = info.get("targetMeanPrice","") or ""
         T2 = info.get("targetMedianPrice","") or ""
         V1 = info.get("averageDailyVolume10Day","") or ""
@@ -61,5 +81,5 @@ with open("ghOut", "w", newline="", encoding="utf-8") as fout:
         C = info.get("marketCap","") or ""
         S = info.get("sector","") or ""
         I = info.get("industry","") or ""
-        writer.writerow([sym, P1, P2, O, T1, T2, V1, V2, V3, V4, C, S, I])
+        writer.writerow([sym, P1, P2, O1, O2, T1, T2, V1, V2, V3, V4, C, S, I])
         time.sleep(random.uniform(1.7,2))
